@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Vvveb CMS German\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-4 00:00+0300\n"
+"POT-Creation-Date: 2023-07-28 02:57+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Andreas Holzer, GitHub @WebCrew \n"
 "Language-Team: Vvveb\n"
@@ -10,8 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && "
-"n%100<=19) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n%100<=19) ? 1 : 2);\n"
 "X-Generator: Poedit 2.3\n"
 
 #: public/install/themes/default/index.html:10
@@ -20,6 +19,479 @@ msgstr ""
 #: public/install/themes/default/error500.html:10
 msgid "Vvveb install"
 msgstr "Vvveb - Anmelden"
+
+#: public/install/themes/default/index.html:32
+#: public/admin/themes/default/index.html:890
+#: public/admin/themes/default/index.html:899
+#: public/admin/themes/default/admin/user.html:883
+#: public/admin/themes/default/admin/user.html:892
+#: public/admin/themes/default/admin/users.html:883
+#: public/admin/themes/default/admin/users.html:892
+#: public/admin/themes/default/admin/roles.html:883
+#: public/admin/themes/default/admin/roles.html:892
+#: public/admin/themes/default/admin/role.html:883
+#: public/admin/themes/default/admin/role.html:892
+#: public/admin/themes/default/product/product-reviews.html:883
+#: public/admin/themes/default/product/product-reviews.html:892
+#: public/admin/themes/default/product/categories-bak.html:884
+#: public/admin/themes/default/product/categories-bak.html:893
+#: public/admin/themes/default/product/product-questions.html:883
+#: public/admin/themes/default/product/product-questions.html:892
+#: public/admin/themes/default/product/options.html:883
+#: public/admin/themes/default/product/options.html:892
+#: public/admin/themes/default/product/product.html:883
+#: public/admin/themes/default/product/product.html:892
+#: public/admin/themes/default/product/product.html:1097
+#: public/admin/themes/default/product/vendor.html:883
+#: public/admin/themes/default/product/vendor.html:892
+#: public/admin/themes/default/product/manufacturer.html:883
+#: public/admin/themes/default/product/manufacturer.html:892
+#: public/admin/themes/default/product/manufacturers.html:883
+#: public/admin/themes/default/product/manufacturers.html:892
+#: public/admin/themes/default/product/product-review.html:883
+#: public/admin/themes/default/product/product-review.html:892
+#: public/admin/themes/default/product/option.html:883
+#: public/admin/themes/default/product/option.html:892
+#: public/admin/themes/default/product/fields.html:883
+#: public/admin/themes/default/product/fields.html:892
+#: public/admin/themes/default/product/products.html:884
+#: public/admin/themes/default/product/products.html:893
+#: public/admin/themes/default/product/vendors.html:883
+#: public/admin/themes/default/product/vendors.html:892
+#: public/admin/themes/default/product/product-question.html:883
+#: public/admin/themes/default/product/product-question.html:892
+#: public/admin/themes/default/product/categories.html:884
+#: public/admin/themes/default/product/categories.html:893
+#: public/admin/themes/default/editor/code.html:884
+#: public/admin/themes/default/editor/code.html:893
+#: public/admin/themes/default/settings/length-classes.html:883
+#: public/admin/themes/default/settings/length-classes.html:892
+#: public/admin/themes/default/settings/order-status.html:883
+#: public/admin/themes/default/settings/order-status.html:892
+#: public/admin/themes/default/settings/return-reason.html:883
+#: public/admin/themes/default/settings/return-reason.html:892
+#: public/admin/themes/default/settings/return-reasons.html:883
+#: public/admin/themes/default/settings/return-reasons.html:892
+#: public/admin/themes/default/settings/checkout.html:883
+#: public/admin/themes/default/settings/checkout.html:892
+#: public/admin/themes/default/settings/stock-status.html:883
+#: public/admin/themes/default/settings/stock-status.html:892
+#: public/admin/themes/default/settings/weight-class.html:883
+#: public/admin/themes/default/settings/weight-class.html:892
+#: public/admin/themes/default/settings/discount.html:883
+#: public/admin/themes/default/settings/discount.html:892
+#: public/admin/themes/default/settings/email.html:883
+#: public/admin/themes/default/settings/email.html:892
+#: public/admin/themes/default/settings/return-status.html:883
+#: public/admin/themes/default/settings/return-status.html:892
+#: public/admin/themes/default/settings/taxonomies.html:883
+#: public/admin/themes/default/settings/taxonomies.html:892
+#: public/admin/themes/default/settings/return-statuses.html:883
+#: public/admin/themes/default/settings/return-statuses.html:892
+#: public/admin/themes/default/settings/settings.html:883
+#: public/admin/themes/default/settings/settings.html:892
+#: public/admin/themes/default/settings/settings.html:1113
+#: public/admin/themes/default/settings/taxonomies2.html:882
+#: public/admin/themes/default/settings/taxonomies2.html:891
+#: public/admin/themes/default/settings/order-statuses.html:883
+#: public/admin/themes/default/settings/order-statuses.html:892
+#: public/admin/themes/default/settings/length-class.html:883
+#: public/admin/themes/default/settings/length-class.html:892
+#: public/admin/themes/default/settings/tax-rate.html:883
+#: public/admin/themes/default/settings/tax-rate.html:892
+#: public/admin/themes/default/settings/sites.html:884
+#: public/admin/themes/default/settings/sites.html:893
+#: public/admin/themes/default/settings/return-action.html:883
+#: public/admin/themes/default/settings/return-action.html:892
+#: public/admin/themes/default/settings/subscription-status.html:883
+#: public/admin/themes/default/settings/subscription-status.html:892
+#: public/admin/themes/default/settings/subscription-statuses.html:883
+#: public/admin/themes/default/settings/subscription-statuses.html:892
+#: public/admin/themes/default/settings/shipping.html:883
+#: public/admin/themes/default/settings/shipping.html:892
+#: public/admin/themes/default/settings/return-actions.html:883
+#: public/admin/themes/default/settings/return-actions.html:892
+#: public/admin/themes/default/settings/stock-statuses.html:883
+#: public/admin/themes/default/settings/stock-statuses.html:892
+#: public/admin/themes/default/settings/site.html:883
+#: public/admin/themes/default/settings/site.html:892
+#: public/admin/themes/default/settings/site.html:1369
+#: public/admin/themes/default/settings/tax-rates.html:883
+#: public/admin/themes/default/settings/tax-rates.html:892
+#: public/admin/themes/default/settings/taxonomy.html:883
+#: public/admin/themes/default/settings/taxonomy.html:892
+#: public/admin/themes/default/settings/weight-classes.html:883
+#: public/admin/themes/default/settings/weight-classes.html:892
+#: public/admin/themes/default/settings/notifications.html:883
+#: public/admin/themes/default/settings/notifications.html:892
+#: public/admin/themes/default/settings/tax-class.html:883
+#: public/admin/themes/default/settings/tax-class.html:892
+#: public/admin/themes/default/settings/tax-classes.html:883
+#: public/admin/themes/default/settings/tax-classes.html:892
+#: public/admin/themes/default/settings/taxonomy2.html:882
+#: public/admin/themes/default/settings/taxonomy2.html:891
+#: public/admin/themes/default/order/order.html:884
+#: public/admin/themes/default/order/order.html:893
+#: public/admin/themes/default/order/voucher.html:883
+#: public/admin/themes/default/order/voucher.html:892
+#: public/admin/themes/default/order/returns.html:884
+#: public/admin/themes/default/order/returns.html:893
+#: public/admin/themes/default/order/coupon.html:883
+#: public/admin/themes/default/order/coupon.html:892
+#: public/admin/themes/default/order/subscriptions.html:884
+#: public/admin/themes/default/order/subscriptions.html:893
+#: public/admin/themes/default/order/coupons.html:883
+#: public/admin/themes/default/order/coupons.html:892
+#: public/admin/themes/default/order/vouchers.html:883
+#: public/admin/themes/default/order/vouchers.html:892
+#: public/admin/themes/default/order/orders.html:884
+#: public/admin/themes/default/order/orders.html:893
+#: public/admin/themes/default/error404.html:883
+#: public/admin/themes/default/error404.html:892
+#: public/admin/themes/default/error500.html:883
+#: public/admin/themes/default/error500.html:892
+#: public/admin/themes/default/localization/translations.html:883
+#: public/admin/themes/default/localization/translations.html:892
+#: public/admin/themes/default/localization/language.html:883
+#: public/admin/themes/default/localization/language.html:892
+#: public/admin/themes/default/localization/zone-groups.html:883
+#: public/admin/themes/default/localization/zone-groups.html:892
+#: public/admin/themes/default/localization/zone.html:883
+#: public/admin/themes/default/localization/zone.html:892
+#: public/admin/themes/default/localization/currencies.html:883
+#: public/admin/themes/default/localization/currencies.html:892
+#: public/admin/themes/default/localization/zone-group.html:883
+#: public/admin/themes/default/localization/zone-group.html:892
+#: public/admin/themes/default/localization/currency.html:883
+#: public/admin/themes/default/localization/currency.html:892
+#: public/admin/themes/default/localization/country.html:883
+#: public/admin/themes/default/localization/country.html:892
+#: public/admin/themes/default/localization/languages.html:883
+#: public/admin/themes/default/localization/languages.html:892
+#: public/admin/themes/default/localization/zones.html:883
+#: public/admin/themes/default/localization/zones.html:892
+#: public/admin/themes/default/localization/countries.html:883
+#: public/admin/themes/default/localization/countries.html:892
+#: public/admin/themes/default/media/media-popup.html:884
+#: public/admin/themes/default/media/media-popup.html:893
+#: public/admin/themes/default/media/media.html:884
+#: public/admin/themes/default/media/media.html:893
+#: public/admin/themes/default/field/field.html:883
+#: public/admin/themes/default/field/field.html:892
+#: public/admin/themes/default/field/field-group.html:883
+#: public/admin/themes/default/field/field-group.html:892
+#: public/admin/themes/default/field/fields.html:883
+#: public/admin/themes/default/field/fields.html:892
+#: public/admin/themes/default/field/field-groups.html:883
+#: public/admin/themes/default/field/field-groups.html:892
+#: public/admin/themes/default/user/user.html:883
+#: public/admin/themes/default/user/user.html:892
+#: public/admin/themes/default/user/users.html:883
+#: public/admin/themes/default/user/users.html:892
+#: public/admin/themes/default/plugin/plugins.html:883
+#: public/admin/themes/default/plugin/plugins.html:892
+#: public/admin/themes/default/plugin/market/install.html:883
+#: public/admin/themes/default/plugin/market/install.html:892
+#: public/admin/themes/default/plugin/market.html:883
+#: public/admin/themes/default/plugin/market.html:892
+#: public/admin/themes/default/exception.html:883
+#: public/admin/themes/default/exception.html:892
+#: public/admin/themes/default/theme/themes/import.html:884
+#: public/admin/themes/default/theme/themes/import.html:893
+#: public/admin/themes/default/theme/themes/install.html:884
+#: public/admin/themes/default/theme/themes/install.html:893
+#: public/admin/themes/default/theme/market.html:883
+#: public/admin/themes/default/theme/market.html:892
+#: public/admin/themes/default/theme/themes.html:883
+#: public/admin/themes/default/theme/themes.html:892
+#: public/admin/themes/default/content/menus.html:883
+#: public/admin/themes/default/content/menus.html:892
+#: public/admin/themes/default/content/comments.html:883
+#: public/admin/themes/default/content/comments.html:892
+#: public/admin/themes/default/content/post.html:883
+#: public/admin/themes/default/content/post.html:892
+#: public/admin/themes/default/content/post.html:1085
+#: public/admin/themes/default/content/page.html:883
+#: public/admin/themes/default/content/page.html:892
+#: public/admin/themes/default/content/page.html:1085
+#: public/admin/themes/default/content/menus/menu.html:884
+#: public/admin/themes/default/content/menus/menu.html:893
+#: public/admin/themes/default/content/tags.html:883
+#: public/admin/themes/default/content/tags.html:892
+#: public/admin/themes/default/content/posts.html:883
+#: public/admin/themes/default/content/posts.html:892
+#: public/admin/themes/default/content/pages.html:883
+#: public/admin/themes/default/content/pages.html:892
+#: public/admin/themes/default/content/fields.html:883
+#: public/admin/themes/default/content/fields.html:892
+#: public/admin/themes/default/content/taxonomy.html:884
+#: public/admin/themes/default/content/taxonomy.html:893
+#: public/admin/themes/default/content/comment.html:883
+#: public/admin/themes/default/content/comment.html:892
+#: public/admin/themes/default/content/tag.html:883
+#: public/admin/themes/default/content/tag.html:892
+#: public/admin/themes/default/content/categories.html:884
+#: public/admin/themes/default/content/categories.html:893
+#: public/admin/themes/default/tools/systeminfo.html:884
+#: public/admin/themes/default/tools/systeminfo.html:893
+#: public/admin/themes/default/tools/security.html:884
+#: public/admin/themes/default/tools/security.html:893
+#: public/admin/themes/default/tools/cron.html:883
+#: public/admin/themes/default/tools/cron.html:892
+#: public/admin/themes/default/tools/import.html:884
+#: public/admin/themes/default/tools/import.html:893
+#: public/admin/themes/default/tools/errorlog.html:884
+#: public/admin/themes/default/tools/errorlog.html:893
+#: public/admin/themes/default/tools/update.html:884
+#: public/admin/themes/default/tools/update.html:893
+#: public/admin/themes/default/tools/backup.html:884
+#: public/admin/themes/default/tools/backup.html:893
+#: public/admin/themes/default/tools/cache.html:885
+#: public/admin/themes/default/tools/cache.html:894
+#: public/admin/themes/default/tools/export.html:884
+#: public/admin/themes/default/tools/export.html:893
+#: public/admin/themes/default/error403.html:883
+#: public/admin/themes/default/error403.html:892
+#: public/themes/landing/search/index.html:216
+#: public/themes/landing/search/index.html:228
+#: public/themes/landing/product/index.html:216
+#: public/themes/landing/product/index.html:228
+#: public/themes/landing/product/category.html:216
+#: public/themes/landing/product/category.html:228
+#: public/themes/landing/product/product.html:216
+#: public/themes/landing/product/product.html:228
+#: public/themes/landing/product/vendor.html:216
+#: public/themes/landing/product/vendor.html:228
+#: public/themes/landing/product/manufacturer.html:216
+#: public/themes/landing/product/manufacturer.html:228
+#: public/themes/landing/product/product (copy 1).html:217 1).html:229
+#: public/themes/landing/error404.html:216
+#: public/themes/landing/error404.html:228
+#: public/themes/landing/index.coming-soon.html:216
+#: public/themes/landing/index.coming-soon.html:228
+#: public/themes/landing/sections/navigation/navigation-1.html:80
+#: public/themes/landing/sections/navigation/navigation-1.html:92
+#: public/themes/landing/error500.html:216
+#: public/themes/landing/error500.html:228
+#: public/themes/landing/contact.html:216
+#: public/themes/landing/contact.html:228
+#: public/themes/landing/index-blog.html:215
+#: public/themes/landing/index-blog.html:227
+#: public/themes/landing/cart/cart.html:217
+#: public/themes/landing/cart/cart.html:229
+#: public/themes/landing/blank.html:220 public/themes/landing/blank.html:232
+#: public/themes/landing/user/order.html:216
+#: public/themes/landing/user/order.html:228
+#: public/themes/landing/user/index.html:216
+#: public/themes/landing/user/index.html:228
+#: public/themes/landing/user/address/edit.html:216
+#: public/themes/landing/user/address/edit.html:228
+#: public/themes/landing/user/address.html:216
+#: public/themes/landing/user/address.html:228
+#: public/themes/landing/user/reset.html:216
+#: public/themes/landing/user/reset.html:228
+#: public/themes/landing/user/comments.html:216
+#: public/themes/landing/user/comments.html:228
+#: public/themes/landing/user/downloads.html:216
+#: public/themes/landing/user/downloads.html:228
+#: public/themes/landing/user/signup.html:217
+#: public/themes/landing/user/signup.html:229
+#: public/themes/landing/user/profile.html:216
+#: public/themes/landing/user/profile.html:228
+#: public/themes/landing/user/login.html:216
+#: public/themes/landing/user/login.html:228
+#: public/themes/landing/user/reset/reset.html:216
+#: public/themes/landing/user/reset/reset.html:228
+#: public/themes/landing/user/edit.html:216
+#: public/themes/landing/user/edit.html:228
+#: public/themes/landing/user/orders.html:216
+#: public/themes/landing/user/orders.html:228
+#: public/themes/landing/content/index.html:216
+#: public/themes/landing/content/index.html:228
+#: public/themes/landing/content/category.html:216
+#: public/themes/landing/content/category.html:228
+#: public/themes/landing/content/user.html:216
+#: public/themes/landing/content/user.html:228
+#: public/themes/landing/content/post.html:208
+#: public/themes/landing/content/post.html:220
+#: public/themes/landing/content/page.html:220
+#: public/themes/landing/content/page.html:232
+#: public/themes/landing/content/archive.html:216
+#: public/themes/landing/content/archive.html:228
+#: public/themes/landing/content/post-image-hero.html:213
+#: public/themes/landing/content/post-image-hero.html:225
+#: public/themes/landing/content/tag.html:216
+#: public/themes/landing/content/tag.html:228
+#: public/themes/landing/content/post-image-header.html:213
+#: public/themes/landing/content/post-image-header.html:225
+#: public/themes/landing/checkout/order.html:216
+#: public/themes/landing/checkout/order.html:228
+#: public/themes/landing/checkout/checkout.html:216
+#: public/themes/landing/checkout/checkout.html:228
+#: public/themes/landing/checkout/confirm.html:217
+#: public/themes/landing/checkout/confirm.html:229
+#: public/themes/landing/index.maintenance.html:216
+#: public/themes/landing/index.maintenance.html:228
+msgid "English"
+msgstr ""
+
+#: public/install/themes/default/index.html:33
+#: public/admin/themes/default/index.html:906
+#: public/admin/themes/default/admin/user.html:899
+#: public/admin/themes/default/admin/users.html:899
+#: public/admin/themes/default/admin/roles.html:899
+#: public/admin/themes/default/admin/role.html:899
+#: public/admin/themes/default/product/product-reviews.html:899
+#: public/admin/themes/default/product/categories-bak.html:900
+#: public/admin/themes/default/product/product-questions.html:899
+#: public/admin/themes/default/product/options.html:899
+#: public/admin/themes/default/product/product.html:899
+#: public/admin/themes/default/product/vendor.html:899
+#: public/admin/themes/default/product/manufacturer.html:899
+#: public/admin/themes/default/product/manufacturers.html:899
+#: public/admin/themes/default/product/product-review.html:899
+#: public/admin/themes/default/product/option.html:899
+#: public/admin/themes/default/product/fields.html:899
+#: public/admin/themes/default/product/products.html:900
+#: public/admin/themes/default/product/vendors.html:899
+#: public/admin/themes/default/product/product-question.html:899
+#: public/admin/themes/default/product/categories.html:900
+#: public/admin/themes/default/editor/code.html:900
+#: public/admin/themes/default/settings/length-classes.html:899
+#: public/admin/themes/default/settings/order-status.html:899
+#: public/admin/themes/default/settings/return-reason.html:899
+#: public/admin/themes/default/settings/return-reasons.html:899
+#: public/admin/themes/default/settings/checkout.html:899
+#: public/admin/themes/default/settings/stock-status.html:899
+#: public/admin/themes/default/settings/weight-class.html:899
+#: public/admin/themes/default/settings/discount.html:899
+#: public/admin/themes/default/settings/email.html:899
+#: public/admin/themes/default/settings/return-status.html:899
+#: public/admin/themes/default/settings/taxonomies.html:899
+#: public/admin/themes/default/settings/return-statuses.html:899
+#: public/admin/themes/default/settings/settings.html:899
+#: public/admin/themes/default/settings/taxonomies2.html:898
+#: public/admin/themes/default/settings/order-statuses.html:899
+#: public/admin/themes/default/settings/length-class.html:899
+#: public/admin/themes/default/settings/tax-rate.html:899
+#: public/admin/themes/default/settings/sites.html:900
+#: public/admin/themes/default/settings/return-action.html:899
+#: public/admin/themes/default/settings/subscription-status.html:899
+#: public/admin/themes/default/settings/subscription-statuses.html:899
+#: public/admin/themes/default/settings/shipping.html:899
+#: public/admin/themes/default/settings/return-actions.html:899
+#: public/admin/themes/default/settings/stock-statuses.html:899
+#: public/admin/themes/default/settings/site.html:899
+#: public/admin/themes/default/settings/tax-rates.html:899
+#: public/admin/themes/default/settings/taxonomy.html:899
+#: public/admin/themes/default/settings/weight-classes.html:899
+#: public/admin/themes/default/settings/notifications.html:899
+#: public/admin/themes/default/settings/tax-class.html:899
+#: public/admin/themes/default/settings/tax-classes.html:899
+#: public/admin/themes/default/settings/taxonomy2.html:898
+#: public/admin/themes/default/order/order.html:900
+#: public/admin/themes/default/order/voucher.html:899
+#: public/admin/themes/default/order/returns.html:900
+#: public/admin/themes/default/order/coupon.html:899
+#: public/admin/themes/default/order/subscriptions.html:900
+#: public/admin/themes/default/order/coupons.html:899
+#: public/admin/themes/default/order/vouchers.html:899
+#: public/admin/themes/default/order/orders.html:900
+#: public/admin/themes/default/error404.html:899
+#: public/admin/themes/default/error500.html:899
+#: public/admin/themes/default/localization/translations.html:899
+#: public/admin/themes/default/localization/language.html:899
+#: public/admin/themes/default/localization/zone-groups.html:899
+#: public/admin/themes/default/localization/zone.html:899
+#: public/admin/themes/default/localization/currencies.html:899
+#: public/admin/themes/default/localization/zone-group.html:899
+#: public/admin/themes/default/localization/currency.html:899
+#: public/admin/themes/default/localization/country.html:899
+#: public/admin/themes/default/localization/languages.html:899
+#: public/admin/themes/default/localization/zones.html:899
+#: public/admin/themes/default/localization/countries.html:899
+#: public/admin/themes/default/media/media-popup.html:900
+#: public/admin/themes/default/media/media.html:900
+#: public/admin/themes/default/field/field.html:899
+#: public/admin/themes/default/field/field-group.html:899
+#: public/admin/themes/default/field/fields.html:899
+#: public/admin/themes/default/field/field-groups.html:899
+#: public/admin/themes/default/user/user.html:899
+#: public/admin/themes/default/user/users.html:899
+#: public/admin/themes/default/plugin/plugins.html:899
+#: public/admin/themes/default/plugin/market/install.html:899
+#: public/admin/themes/default/plugin/market.html:899
+#: public/admin/themes/default/exception.html:899
+#: public/admin/themes/default/theme/themes/import.html:900
+#: public/admin/themes/default/theme/themes/install.html:900
+#: public/admin/themes/default/theme/market.html:899
+#: public/admin/themes/default/theme/themes.html:899
+#: public/admin/themes/default/content/menus.html:899
+#: public/admin/themes/default/content/comments.html:899
+#: public/admin/themes/default/content/post.html:899
+#: public/admin/themes/default/content/page.html:899
+#: public/admin/themes/default/content/menus/menu.html:900
+#: public/admin/themes/default/content/tags.html:899
+#: public/admin/themes/default/content/posts.html:899
+#: public/admin/themes/default/content/pages.html:899
+#: public/admin/themes/default/content/fields.html:899
+#: public/admin/themes/default/content/taxonomy.html:900
+#: public/admin/themes/default/content/comment.html:899
+#: public/admin/themes/default/content/tag.html:899
+#: public/admin/themes/default/content/categories.html:900
+#: public/admin/themes/default/tools/systeminfo.html:900
+#: public/admin/themes/default/tools/security.html:900
+#: public/admin/themes/default/tools/cron.html:899
+#: public/admin/themes/default/tools/import.html:900
+#: public/admin/themes/default/tools/errorlog.html:900
+#: public/admin/themes/default/tools/update.html:900
+#: public/admin/themes/default/tools/backup.html:900
+#: public/admin/themes/default/tools/cache.html:901
+#: public/admin/themes/default/tools/export.html:900
+#: public/admin/themes/default/error403.html:899
+#: public/themes/landing/search/index.html:238
+#: public/themes/landing/product/index.html:238
+#: public/themes/landing/product/category.html:238
+#: public/themes/landing/product/product.html:238
+#: public/themes/landing/product/vendor.html:238
+#: public/themes/landing/product/manufacturer.html:238
+#: public/themes/landing/product/product (copy 1).html:239
+#: public/themes/landing/error404.html:238
+#: public/themes/landing/index.coming-soon.html:238
+#: public/themes/landing/sections/navigation/navigation-1.html:102
+#: public/themes/landing/error500.html:238
+#: public/themes/landing/contact.html:238
+#: public/themes/landing/index-blog.html:237
+#: public/themes/landing/cart/cart.html:239
+#: public/themes/landing/blank.html:242
+#: public/themes/landing/user/order.html:238
+#: public/themes/landing/user/index.html:238
+#: public/themes/landing/user/address/edit.html:238
+#: public/themes/landing/user/address.html:238
+#: public/themes/landing/user/reset.html:238
+#: public/themes/landing/user/comments.html:238
+#: public/themes/landing/user/downloads.html:238
+#: public/themes/landing/user/signup.html:239
+#: public/themes/landing/user/profile.html:238
+#: public/themes/landing/user/login.html:238
+#: public/themes/landing/user/reset/reset.html:238
+#: public/themes/landing/user/edit.html:238
+#: public/themes/landing/user/orders.html:238
+#: public/themes/landing/content/index.html:238
+#: public/themes/landing/content/category.html:238
+#: public/themes/landing/content/user.html:238
+#: public/themes/landing/content/post.html:230
+#: public/themes/landing/content/page.html:242
+#: public/themes/landing/content/archive.html:238
+#: public/themes/landing/content/post-image-hero.html:235
+#: public/themes/landing/content/tag.html:238
+#: public/themes/landing/content/post-image-header.html:235
+#: public/themes/landing/checkout/order.html:238
+#: public/themes/landing/checkout/checkout.html:238
+#: public/themes/landing/checkout/confirm.html:239
+#: public/themes/landing/index.maintenance.html:238
+msgid "Romanian"
+msgstr ""
 
 #: public/install/themes/default/index.html:48
 #: public/install/themes/default/install.html:88
@@ -82,6 +554,12 @@ msgstr ""
 msgid "Database password"
 msgstr ""
 
+#: public/install/themes/default/index.html:145
+#: public/install/themes/default/install.html:135
+#: public/admin/themes/default/admin/login.html:69
+msgid "&#128274;"
+msgstr "&#128274;"
+
 #: public/install/themes/default/index.html:153
 msgid "Do not import basic configuration and demo data"
 msgstr ""
@@ -98,9 +576,20 @@ msgstr ""
 msgid "license"
 msgstr ""
 
+#: public/install/themes/default/index.html:167
+msgid "&#8599;"
+msgstr ""
+
 #: public/install/themes/default/index.html:172
 msgid "Continue install"
 msgstr "Weiterlesen"
+
+#: public/install/themes/default/index.html:172
+#: public/themes/landing/sections/hero.html:161
+#: public/themes/landing/sections/hero/hero-1.html:19
+#: public/themes/landing/index-landing.html:244
+msgid "&rarr;"
+msgstr "&rarr;"
 
 #: public/install/themes/default/install.html:101
 msgid "These can be later changed from admin."
@@ -163,14 +652,12 @@ msgstr ""
 #: public/themes/blog-default/content/post-image-header.html:126
 #: public/resources/svg/icons/remix-icon/index.html:12605
 #: public/resources/svg/icons/ikonate/index.html:1288
-
 msgid "User"
 msgstr "Benutzer"
 
 #: public/install/themes/default/install.html:123
 #: public/admin/themes/default/admin/user.html:1046
 #: public/admin/themes/default/user/user.html:1074
-
 msgid "User name"
 msgstr "Nutzername"
 
@@ -271,7 +758,6 @@ msgstr ""
 #: plugins/cdn/public/admin/settings.html:91
 #: plugins/plugin-market/public/admin/settings.html:89
 #: plugins/theme-market/public/admin/settings.html:89
-
 msgid "Theme"
 msgstr "Themen"
 
@@ -288,7 +774,6 @@ msgstr "Themen"
 #: public/admin/themes/default/tools/export.html:1300
 #: public/admin/themes/default/tools/export.html:1323
 #: public/admin/themes/default/tools/export.html:1345
-
 msgid "Theme name"
 msgstr "Themen"
 
@@ -304,7 +789,6 @@ msgstr "Themen"
 #: public/admin/themes/default/tools/export.html:1329
 #: public/admin/themes/default/tools/export.html:1352
 #: public/themes/themes-child/product/product.html:70
-
 msgid "Install"
 msgstr "Installierte Themes"
 
@@ -319,7 +803,6 @@ msgstr "Installierte Themes"
 #: public/admin/themes/default/theme/themes.html:1183
 #: public/admin/themes/default/tools/export.html:1332
 #: public/admin/themes/default/tools/export.html:1355
-
 msgid "Preview"
 msgstr "Rezensionen"
 
@@ -334,7 +817,6 @@ msgstr ""
 #: public/themes/landing/error404.html:642
 #: public/themes/default/error404.html:2 public/themes/default/error500.html:2
 #: public/themes/blog-default/error404.html:374 public/error404.html:60
-
 msgid "Page not found!"
 msgstr "Seite nicht gefunden."
 
@@ -437,7 +919,6 @@ msgid "Trace"
 msgstr "Verfolgen"
 
 #: public/install/themes/default/error500.html:40 system/functions.php:797
-
 msgid "Page not found"
 msgstr "Seite nicht gefunden."
 
@@ -931,7 +1412,6 @@ msgstr ""
 #: public/admin/themes/default/tools/cache.html:91
 #: public/admin/themes/default/tools/export.html:90
 #: public/admin/themes/default/error403.html:90
-
 msgid "Subtitle"
 msgstr "Titel"
 
@@ -11361,7 +11841,6 @@ msgstr "Zonen"
 #: public/admin/themes/default/tools/cache.html:593
 #: public/admin/themes/default/tools/export.html:592
 #: public/admin/themes/default/error403.html:592 config/admin-menu.php:914
-
 msgid "Zone Groups"
 msgstr "Kundengruppe"
 
@@ -13159,7 +13638,6 @@ msgstr "Live-Website ansehen"
 #: public/admin/themes/default/tools/export.html:820
 #: public/admin/themes/default/error403.html:713
 #: public/admin/themes/default/error403.html:819
-
 msgid "Default website"
 msgstr "Website bearbeiten"
 
@@ -13567,7 +14045,6 @@ msgstr "Blog"
 #: public/admin/themes/default/tools/cache.html:730
 #: public/admin/themes/default/tools/export.html:729
 #: public/admin/themes/default/error403.html:728
-
 msgid "Manage sites"
 msgstr "Websites verwalten"
 
@@ -13688,7 +14165,6 @@ msgstr "Websites verwalten"
 #: public/admin/themes/default/tools/cache.html:1119
 #: public/admin/themes/default/tools/export.html:738
 #: public/admin/themes/default/error403.html:737 admin/admin-bar.php:117
-
 msgid "Clear cache"
 msgstr "Cache leeren"
 
@@ -13922,7 +14398,6 @@ msgstr ""
 #: public/admin/themes/default/tools/cache.html:751
 #: public/admin/themes/default/tools/export.html:750
 #: public/admin/themes/default/error403.html:749
-
 msgid "Templates"
 msgstr "Vorlage"
 
@@ -14041,7 +14516,6 @@ msgstr "Vorlage"
 #: public/admin/themes/default/tools/export.html:756
 #: public/admin/themes/default/tools/export.html:990
 #: public/admin/themes/default/error403.html:755 admin/admin-bar.php:132
-
 msgid "Database"
 msgstr "Daten"
 
@@ -14620,7 +15094,6 @@ msgstr ""
 #: public/admin/themes/default/tools/cache.html:793
 #: public/admin/themes/default/tools/export.html:792
 #: public/admin/themes/default/error403.html:791
-
 msgid "Update available"
 msgstr "Datum Verfügbar"
 
@@ -14737,7 +15210,6 @@ msgstr "Datum Verfügbar"
 #: public/admin/themes/default/tools/cache.html:800
 #: public/admin/themes/default/tools/export.html:799
 #: public/admin/themes/default/error403.html:798
-
 msgid "Up to date"
 msgstr "Nach Datum"
 
@@ -14854,7 +15326,6 @@ msgstr "Nach Datum"
 #: public/admin/themes/default/tools/cache.html:812
 #: public/admin/themes/default/tools/export.html:811
 #: public/admin/themes/default/error403.html:810
-
 msgid "Default site"
 msgstr "Standardseite"
 
@@ -15576,7 +16047,6 @@ msgstr ""
 #: plugins/theme-market/public/settings.html:358
 #: plugins/gravatar/public/settings.html:97
 #: plugins/gravatar/public/settings.html:358
-
 msgid "Admin"
 msgstr "Administrator"
 
@@ -16848,7 +17318,6 @@ msgid "Refunds"
 msgstr "Rückerstattungen"
 
 #: public/admin/themes/default/index.html:1080
-
 msgid "Total users"
 msgstr "Gesamtzahl der Kunden"
 
@@ -16872,7 +17341,6 @@ msgstr "Gesamtzahl der Kommentare"
 
 #: public/admin/themes/default/index.html:1124
 #: public/admin/themes/default/index.html:1164
-
 msgid "pending"
 msgstr "Ausstehend"
 
@@ -17040,7 +17508,6 @@ msgstr "Aktion"
 #: public/themes/landing/checkout/checkout.html:425
 #: public/themes/landing/checkout/confirm.html:426
 #: public/themes/landing/index.maintenance.html:425
-
 msgid "John"
 msgstr "John Doe"
 
@@ -17289,7 +17756,6 @@ msgstr ""
 #: public/admin/themes/default/order/orders.html:1277
 #: public/themes/landing/user/order.html:814
 #: public/themes/landing/user/orders.html:814
-
 msgid "No orders to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -17358,17 +17824,14 @@ msgstr "Preis"
 
 #: public/admin/themes/default/index.html:1523
 #: public/admin/themes/default/product/products.html:1228
-
 msgid "Product name"
 msgstr "Produktname"
 
 #: public/admin/themes/default/index.html:1539
-
 msgid "No prodcuts to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/index.html:1556
-
 msgid "New users"
 msgstr "Neue Kunden"
 
@@ -17379,7 +17842,6 @@ msgstr "Datum des Beitritts"
 #: public/admin/themes/default/index.html:1629
 #: public/admin/themes/default/admin/users.html:1210
 #: public/admin/themes/default/user/users.html:1210
-
 msgid "No users to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -17394,7 +17856,6 @@ msgstr "Kommentar"
 
 #: public/admin/themes/default/index.html:1716
 #: public/admin/themes/default/content/comments.html:1218
-
 msgid "No comments to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -17416,12 +17877,10 @@ msgid "Introducing the new multi site feature"
 msgstr ""
 
 #: public/admin/themes/default/index.html:1784
-
 msgid "How to use media library"
 msgstr "Medienbibliothek"
 
 #: public/admin/themes/default/index.html:1792
-
 msgid "No news to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -17723,7 +18182,6 @@ msgstr ""
 #: public/admin/themes/default/admin/reset.html:15
 #: public/admin/themes/default/admin/reset2.html:15
 #: public/admin/themes/default/user/recover.html:15
-
 msgid "Vvveb - Recover password"
 msgstr "Vvveb – Dashboard"
 
@@ -17732,7 +18190,6 @@ msgstr "Vvveb – Dashboard"
 #: public/admin/themes/default/admin/reset2.html:53
 #: public/admin/themes/default/admin/login.html:53
 #: public/admin/themes/default/user/recover.html:46
-
 msgid "Login succesfull!"
 msgstr "Anmeldung erfolgreich!"
 
@@ -17753,7 +18210,6 @@ msgstr ""
 #: public/admin/themes/default/admin/reset.html:50
 #: public/admin/themes/default/admin/reset2.html:52
 #: public/admin/themes/default/admin/login.html:52
-
 msgid "&#10003;"
 msgstr "&#10006;"
 
@@ -17763,7 +18219,6 @@ msgstr ""
 
 #: public/admin/themes/default/admin/user.html:15
 #: public/admin/themes/default/user/user.html:15
-
 msgid "Vvveb - User"
 msgstr "Vvveb - Beiträge"
 
@@ -18288,7 +18743,6 @@ msgid "&ensp;"
 msgstr ""
 
 #: public/admin/themes/default/admin/user.html:977
-
 msgid "Admin list"
 msgstr "Admin-Benutzer"
 
@@ -18340,7 +18794,6 @@ msgstr ""
 #: public/admin/themes/default/user/users.html:1033
 #: public/admin/themes/default/user/users.html:1174
 #: admin/controller/localization/zone.php:45
-
 msgid "Active"
 msgstr "Aktive"
 
@@ -18352,13 +18805,11 @@ msgstr ""
 
 #: public/admin/themes/default/admin/user.html:1089
 #: public/admin/themes/default/admin/role.html:971
-
 msgid "Role"
 msgstr "Rollen"
 
 #: public/admin/themes/default/admin/users.html:15
 #: public/admin/themes/default/user/users.html:15
-
 msgid "Vvveb - Users"
 msgstr "Vvveb - Beiträge"
 
@@ -18614,7 +19065,6 @@ msgstr ""
 #: public/admin/themes/default/admin/users.html:984
 #: public/admin/themes/default/user/users.html:984
 #: public/resources/svg/icons/ikonate/index.html:945
-
 msgid "Add user"
 msgstr "Neuen Benutzer hinzufügen"
 
@@ -18753,7 +19203,6 @@ msgstr "Ausgewählte löschen"
 #: public/themes/landing/checkout/checkout.html:852
 #: public/plugins/contact-form/admin/messages.html:86
 #: plugins/contact-form/public/admin/messages.html:86
-
 msgid "First name"
 msgstr "Erste"
 
@@ -18772,7 +19221,6 @@ msgstr "Erste"
 #: public/themes/landing/checkout/checkout.html:853
 #: public/plugins/contact-form/admin/messages.html:90
 #: plugins/contact-form/public/admin/messages.html:89
-
 msgid "Last name"
 msgstr "Zuletzt"
 
@@ -19056,7 +19504,6 @@ msgstr "Löschen"
 
 #: public/admin/themes/default/admin/users.html:1213
 #: public/admin/themes/default/user/users.html:1213
-
 msgid "&nbsp; Add user"
 msgstr "&nbsp; Beitrag hinzufügen"
 
@@ -19114,7 +19561,6 @@ msgstr "&nbsp; Beitrag hinzufügen"
 #: plugins/plugin-market/public/settings.html:425
 #: plugins/theme-market/public/settings.html:425
 #: plugins/gravatar/public/settings.html:425
-
 msgid "100"
 msgstr "100 MHz"
 
@@ -19464,17 +19910,14 @@ msgstr "Zuletzt"
 
 #: public/admin/themes/default/admin/reset2.html:67
 #: public/admin/themes/default/user/recover.html:64
-
 msgid "Send reset link &nbsp;"
 msgstr "Anmelden &nbsp;"
 
 #: public/admin/themes/default/admin/roles.html:15
-
 msgid "Vvveb - Roles"
 msgstr "Vvveb - Beiträge"
 
 #: public/admin/themes/default/admin/roles.html:979
-
 msgid "&nbsp; Add role"
 msgstr "&nbsp; Beitrag hinzufügen"
 
@@ -19517,7 +19960,6 @@ msgstr "Produktname"
 #: plugins/plugin-market/public/settings.html:175
 #: plugins/theme-market/public/settings.html:175
 #: plugins/gravatar/public/settings.html:175
-
 msgid "Product 1 23"
 msgstr "Produkt 1"
 
@@ -19538,7 +19980,6 @@ msgstr "Produkt 1"
 #: plugins/plugin-market/public/settings.html:178
 #: plugins/theme-market/public/settings.html:178
 #: plugins/gravatar/public/settings.html:178
-
 msgid "Product 2"
 msgstr "Produkt 21"
 
@@ -19592,7 +20033,6 @@ msgstr "Produkt 3"
 #: plugins/plugin-market/public/settings.html:184
 #: plugins/theme-market/public/settings.html:184
 #: plugins/gravatar/public/settings.html:184
-
 msgid "Product 4"
 msgstr "Produkt 14"
 
@@ -19613,7 +20053,6 @@ msgstr "Produkt 14"
 #: plugins/plugin-market/public/settings.html:187
 #: plugins/theme-market/public/settings.html:187
 #: plugins/gravatar/public/settings.html:187
-
 msgid "Product 5"
 msgstr "Produkt 15"
 
@@ -20046,17 +20485,14 @@ msgid "Design"
 msgstr "Design"
 
 #: public/admin/themes/default/admin/roles.html:1237
-
 msgid "No roles to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/admin/role.html:15
-
 msgid "Vvveb - Role"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/admin/role.html:977
-
 msgid "Role list"
 msgstr "Rollen"
 
@@ -20077,7 +20513,6 @@ msgstr "Rollen"
 #: plugins/pick-up-shipping/admin/public/admin/settings.html:47
 #: plugins/gravatar/public/admin/settings.html:47
 #: plugins/gravatar/admin/public/admin/settings.html:47
-
 msgid "Save settings"
 msgstr "Einstellungen"
 
@@ -20090,21 +20525,18 @@ msgstr "Einstellungen"
 #: public/admin/themes/default/content/pages.html:987
 #: public/admin/themes/default/content/pages.html:1290
 #: public/resources/svg/icons/ikonate/index.html:98
-
 msgid "Add"
 msgstr "Neue hinzufügen"
 
 #: public/admin/themes/default/admin/role.html:1067
 #: public/admin/themes/default/admin/role.html:1278
 #: public/admin/themes/default/admin/role.html:1439 system/functions.php:791
-
 msgid "Home page"
 msgstr "Canvas - Startseite"
 
 #: public/admin/themes/default/admin/role.html:1076
 #: public/admin/themes/default/admin/role.html:1288
 #: public/admin/themes/default/admin/role.html:1449 system/functions.php:794
-
 msgid "Contact us page"
 msgstr "Kontakt"
 
@@ -20168,14 +20600,12 @@ msgstr ""
 #: public/themes/landing/checkout/checkout.html:642
 #: public/themes/landing/checkout/confirm.html:604
 #: public/themes/landing/index.maintenance.html:603
-
 msgid "Checkout"
 msgstr "Kasse"
 
 #: public/admin/themes/default/admin/role.html:1131
 #: public/admin/themes/default/admin/role.html:1343
 #: public/admin/themes/default/admin/role.html:1504
-
 msgid "Confirm"
 msgstr "Konfiguration"
 
@@ -20186,7 +20616,6 @@ msgstr "Konfiguration"
 #: public/admin/themes/default/order/returns.html:1165
 #: public/admin/themes/default/order/subscriptions.html:1165
 #: public/admin/themes/default/order/orders.html:1132 config/admin-menu.php:790
-
 msgid "Order"
 msgstr "Aufträge"
 
@@ -20213,14 +20642,11 @@ msgstr ""
 #: public/admin/themes/default/admin/role.html:1213
 #: public/admin/themes/default/admin/role.html:1244
 #: public/admin/themes/default/admin/role.html:1405
-
 msgid "content/*"
 msgstr "Inhalt"
 
 #: public/admin/themes/default/admin/role.html:1213
-msgid ""
-"will apply for all content modules like post and page add/edit, menu "
-"categories etc"
+msgid "will apply for all content modules like post and page add/edit, menu categories etc"
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1214
@@ -20232,9 +20658,7 @@ msgid "content/*/save"
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1214
-msgid ""
-"this rule will apply for save actions for content modules, and editing and "
-"adding posts/pages/categories etc will be denied."
+msgid "this rule will apply for save actions for content modules, and editing and adding posts/pages/categories etc will be denied."
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1215
@@ -20242,7 +20666,6 @@ msgid "To deny delete for all modules use"
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1215
-
 msgid "*/delete"
 msgstr "Löschen"
 
@@ -20251,9 +20674,7 @@ msgid "this rule will apply for delete actions for all modules."
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1218
-msgid ""
-"Allow list is checked first then the deny list, if a rule allows access a "
-"deny rule can limit it."
+msgid "Allow list is checked first then the deny list, if a rule allows access a deny rule can limit it."
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1219
@@ -20261,7 +20682,6 @@ msgid "For example you can add access to products section with"
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1219
-
 msgid "products/*"
 msgstr "Produkte"
 
@@ -20278,7 +20698,6 @@ msgid "and"
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1219
-
 msgid "product/categories"
 msgstr "Kategorien"
 
@@ -20292,17 +20711,14 @@ msgid "With"
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1220
-
 msgid "plugins/*"
 msgstr "Plugins"
 
 #: public/admin/themes/default/admin/role.html:1220
-msgid ""
-"you can restrict or allow access to plugins section and all plugins settings."
+msgid "you can restrict or allow access to plugins section and all plugins settings."
 msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1221
-
 msgid "plugins/insert-scripts"
 msgstr "Skripte einfügen"
 
@@ -20316,13 +20732,11 @@ msgstr ""
 
 #: public/admin/themes/default/admin/role.html:1233
 #: public/admin/themes/default/admin/role.html:1394
-
 msgid "admin/*"
 msgstr "Administrator"
 
 #: public/admin/themes/default/admin/role.html:1261
 #: public/admin/themes/default/admin/role.html:1422
-
 msgid "Add rule"
 msgstr "Rollen hinzufügen"
 
@@ -20357,7 +20771,6 @@ msgid "Sign In &nbsp;"
 msgstr "Anmelden &nbsp;"
 
 #: public/admin/themes/default/product/product-reviews.html:15
-
 msgid "Vvveb - Reviews"
 msgstr "Vvveb - Anmelden"
 
@@ -20384,7 +20797,6 @@ msgstr ""
 #: public/admin/themes/default/content/comment.html:1082
 #: public/admin/themes/default/content/tag.html:1094
 #: admin/controller/content/comments.php:71
-
 msgid "Approved"
 msgstr "genehmigt"
 
@@ -20528,12 +20940,10 @@ msgstr "Datum"
 #: public/admin/themes/default/product/options.html:1161
 #: public/admin/themes/default/content/comments.html:1132
 #: public/admin/themes/default/content/comments.html:1183
-
 msgid "Approve"
 msgstr "genehmigt"
 
 #: public/admin/themes/default/product/product-reviews.html:1218
-
 msgid "No product_reviews to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -20582,7 +20992,6 @@ msgstr "Speichern"
 
 #: public/admin/themes/default/product/product.html:987
 #: admin/controller/settings/taxonomy.php:39
-
 msgid "product"
 msgstr "Produkt"
 
@@ -20665,7 +21074,6 @@ msgstr "Hersteller"
 #: public/admin/themes/default/product/vendor.html:971
 #: public/admin/themes/default/product/products.html:1076
 #: public/themes/landing/product/product.html:717
-
 msgid "Vendor"
 msgstr "Anbieter"
 
@@ -20676,7 +21084,6 @@ msgstr "Verwandte Produkte"
 #: public/admin/themes/default/product/product.html:1242
 #: public/admin/themes/default/content/post.html:1258
 #: public/admin/themes/default/content/page.html:1258
-
 msgid "Product 10"
 msgstr "Produkt 1"
 
@@ -20830,7 +21237,6 @@ msgstr "Wiederkehrendes Profil"
 #: public/admin/themes/default/product/product.html:2243
 #: public/admin/themes/default/product/product.html:2397
 #: public/admin/themes/default/product/product.html:2923
-
 msgid "User Group"
 msgstr "Kundengruppe"
 
@@ -20913,7 +21319,6 @@ msgstr ""
 #: public/plugins/weight-shipping/admin/settings.html:69
 #: public/plugins/flat-rate-shipping/admin/settings.html:96
 #: plugins/flat-rate-shipping/public/admin/settings.html:69
-
 msgid "Downloadable Products"
 msgstr "Verwandte Produkte"
 
@@ -20936,22 +21341,18 @@ msgid "2-3 Days"
 msgstr ""
 
 #: public/admin/themes/default/product/product.html:2822
-
 msgid "In Stock"
 msgstr "Aktie"
 
 #: public/admin/themes/default/product/product.html:2823
-
 msgid "Out Of Stock"
 msgstr "Status „Nicht vorrätig“."
 
 #: public/admin/themes/default/product/product.html:2824
-
 msgid "Pre-Order"
 msgstr "Aufträge"
 
 #: public/admin/themes/default/product/product.html:2829
-
 msgid "Date Available"
 msgstr ""
 "Datum\n"
@@ -20962,7 +21363,6 @@ msgid "Requires Shipping"
 msgstr "Erfordert Versand"
 
 #: public/admin/themes/default/product/product.html:2859
-
 msgid "Dimensions"
 msgstr "Fragen"
 
@@ -20971,13 +21371,11 @@ msgid "Width"
 msgstr ""
 
 #: public/admin/themes/default/product/product.html:2867
-
 msgid "Height"
 msgstr "Gewicht"
 
 #: public/admin/themes/default/product/product.html:2875
 #: config/admin-menu.php:848
-
 msgid "Length"
 msgstr ""
 "Länge\n"
@@ -20986,7 +21384,6 @@ msgstr ""
 #: public/admin/themes/default/product/product.html:2880
 #: public/admin/themes/default/settings/settings.html:1134
 #: public/admin/themes/default/settings/site.html:1390
-
 msgid "Length Class"
 msgstr ""
 "Länge\n"
@@ -21013,7 +21410,6 @@ msgstr "Zoll"
 #: public/admin/themes/default/product/product.html:2899
 #: public/admin/themes/default/settings/settings.html:1144
 #: public/admin/themes/default/settings/site.html:1400
-
 msgid "Weight Class"
 msgstr ""
 "Gewicht\n"
@@ -21084,12 +21480,10 @@ msgid "Private"
 msgstr "Privatgelände"
 
 #: public/admin/themes/default/product/vendor.html:15
-
 msgid "Vvveb - Vendor"
 msgstr "Vvveb – Dashboard"
 
 #: public/admin/themes/default/product/vendor.html:978
-
 msgid "Vendor list"
 msgstr "Anbieter"
 
@@ -21135,28 +21529,23 @@ msgstr "Slug"
 #: public/admin/themes/default/field/fields.html:1081
 #: public/admin/themes/default/content/tag.html:1081
 #: public/plugins/contact-form/admin/1message.html:63
-
 msgid "Set image"
 msgstr "Stellen Sie ein Produkt Bild ein"
 
 #: public/admin/themes/default/product/manufacturer.html:15
-
 msgid "Vvveb - Manufacturer"
 msgstr "Hersteller"
 
 #: public/admin/themes/default/product/manufacturer.html:978
-
 msgid "Manufacturer list"
 msgstr "Hersteller"
 
 #: public/admin/themes/default/product/manufacturers.html:15
-
 msgid "Vvveb - Manufactuers"
 msgstr "Hersteller"
 
 #: public/admin/themes/default/product/manufacturers.html:979
 #: public/admin/themes/default/product/manufacturers.html:1138
-
 msgid "Add manufacturer"
 msgstr "Hersteller"
 
@@ -21181,29 +21570,24 @@ msgid "Thumbnail"
 msgstr "Miniaturansicht"
 
 #: public/admin/themes/default/product/manufacturers.html:1134
-
 msgid "No manufacturers to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/product/product-review.html:15
-
 msgid "Vvveb - Review"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/product/product-review.html:971
-
 msgid "Review"
 msgstr "Rezensionen"
 
 #: public/admin/themes/default/product/product-review.html:978
-
 msgid "Review list"
 msgstr "Rezensionen"
 
 #: public/admin/themes/default/product/product-review.html:982
 #: public/admin/themes/default/product/product-question.html:982
 #: public/admin/themes/default/content/comment.html:982
-
 msgid "&nbsp; Save"
 msgstr "&nbsp; Beitrag speichern"
 
@@ -21224,23 +21608,19 @@ msgid "Url"
 msgstr ""
 
 #: public/admin/themes/default/product/option.html:15
-
 msgid "Vvveb - Option"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/product/option.html:971
-
 msgid "Option"
 msgstr "Optionen"
 
 #: public/admin/themes/default/product/option.html:978
-
 msgid "Option list"
 msgstr "Optionen"
 
 #: public/admin/themes/default/product/fields.html:15
 #: public/admin/themes/default/content/fields.html:15
-
 msgid "Vvveb - Fields"
 msgstr "Vvveb - Anmelden"
 
@@ -21251,14 +21631,12 @@ msgid "Fields"
 msgstr ""
 
 #: public/admin/themes/default/product/fields.html:980
-
 msgid "&nbsp; Add field"
 msgstr "&nbsp; Beitrag hinzufügen"
 
 #: public/admin/themes/default/product/fields.html:1226
 #: public/admin/themes/default/field/field-group.html:1291
 #: public/admin/themes/default/content/fields.html:1143
-
 msgid "No fields to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -21267,7 +21645,6 @@ msgid "Vvveb - Products"
 msgstr "Vvveb - Produkte"
 
 #: public/admin/themes/default/product/products.html:985
-
 msgid "Add product"
 msgstr "Neues Produkt hinzufügen"
 
@@ -21288,12 +21665,10 @@ msgid "$50"
 msgstr ""
 
 #: public/admin/themes/default/product/products.html:1257
-
 msgid "10"
 msgstr "0"
 
 #: public/admin/themes/default/product/products.html:1303
-
 msgid "No products to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -21302,7 +21677,6 @@ msgid "&nbsp; Add product"
 msgstr "&nbsp; Produkt hinzufügen"
 
 #: public/admin/themes/default/product/vendors.html:15
-
 msgid "Vvveb - Vendors"
 msgstr "Vvveb - Beiträge"
 
@@ -21333,7 +21707,6 @@ msgid "Article title"
 msgstr ""
 
 #: public/admin/themes/default/product/vendors.html:1132
-
 msgid "No vendors to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -21348,37 +21721,31 @@ msgid "46 KB"
 msgstr ""
 
 #: public/admin/themes/default/product/product-question.html:15
-
 msgid "Vvveb - Question"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/product/product-question.html:971
-
 msgid "Question"
 msgstr "Fragen"
 
 #: public/admin/themes/default/product/product-question.html:978
-
 msgid "Question list"
 msgstr "Fragen"
 
 #: public/admin/themes/default/product/categories.html:15
 #: public/admin/themes/default/content/categories.html:15
-
 msgid "Vvveb - Categories"
 msgstr "Kategorien"
 
 #: public/admin/themes/default/product/categories.html:979
 #: public/admin/themes/default/content/menus/menu.html:979
 #: public/admin/themes/default/content/categories.html:979
-
 msgid "Menu list"
 msgstr "Menüs"
 
 #: public/admin/themes/default/product/categories.html:985
 #: public/admin/themes/default/content/menus/menu.html:985
 #: public/admin/themes/default/content/categories.html:985
-
 msgid "Add item"
 msgstr "Neue hinzufügen"
 
@@ -21388,7 +21755,6 @@ msgstr "Neue hinzufügen"
 #: public/admin/themes/default/content/menus/menu.html:1233
 #: public/admin/themes/default/content/categories.html:1104
 #: public/admin/themes/default/content/categories.html:1242
-
 msgid "New item"
 msgstr "Neukunde"
 
@@ -21417,7 +21783,6 @@ msgstr "Titel"
 #: public/admin/themes/default/content/categories.html:1138
 #: public/admin/themes/default/content/categories.html:1276
 #: public/admin/themes/default/content/categories.html:1371
-
 msgid "Category Url"
 msgstr "Kategorien"
 
@@ -21439,7 +21804,6 @@ msgstr ""
 #: public/admin/themes/default/content/categories.html:1164
 #: public/admin/themes/default/content/categories.html:1302
 #: public/admin/themes/default/content/categories.html:1397
-
 msgid "Meta description"
 msgstr "Beschreibung"
 
@@ -21461,7 +21825,6 @@ msgstr ""
 #: public/admin/themes/default/content/menus/menu.html:1312
 #: public/admin/themes/default/content/categories.html:1192
 #: public/admin/themes/default/content/categories.html:1330
-
 msgid "Saving ..."
 msgstr "Wird geladen ..."
 
@@ -21481,7 +21844,6 @@ msgstr "Änderungen speichern"
 #: public/admin/themes/default/settings/taxonomies2.html:1271
 #: public/admin/themes/default/content/menus/menu.html:1206
 #: public/admin/themes/default/content/categories.html:1215
-
 msgid "No taxonomies to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -21492,13 +21854,11 @@ msgid "Hello, world! This is a toast message."
 msgstr ""
 
 #: public/admin/themes/default/editor/editor.html:15
-
 msgid "Vvveb - Editor"
 msgstr "Vvveb – Beitrag bearbeiten"
 
 #: public/admin/themes/default/editor/editor.html:752
 #: public/admin/themes/default/editor/editor.html:2397
-
 msgid "View page"
 msgstr "Artikel, Seite"
 
@@ -21508,23 +21868,19 @@ msgid "Saving"
 msgstr ""
 
 #: public/admin/themes/default/editor/editor.html:813
-
 msgid "New template"
 msgstr "Vorlage"
 
 #: public/admin/themes/default/editor/editor.html:875
-
 msgid "Add section"
 msgstr "Aktion"
 
 #: public/admin/themes/default/editor/editor.html:883
-
 msgid "Page Sections"
 msgstr "Zahlungsmöglichkeiten"
 
 #: public/admin/themes/default/editor/editor.html:980
 #: public/admin/themes/default/editor/editor.html:1369
-
 msgid "Components"
 msgstr "Kommentare"
 
@@ -21590,7 +21946,6 @@ msgid "body"
 msgstr ""
 
 #: public/admin/themes/default/editor/editor.html:1549
-
 msgid "section"
 msgstr "Aktion"
 
@@ -21608,12 +21963,10 @@ msgid "Code editor"
 msgstr ""
 
 #: public/admin/themes/default/editor/editor.html:2262
-
 msgid "Export html"
 msgstr "Export"
 
 #: public/admin/themes/default/editor/editor.html:2288
-
 msgid "VvvebJs"
 msgstr "Vvveb"
 
@@ -21626,7 +21979,6 @@ msgid "New template page"
 msgstr ""
 
 #: public/admin/themes/default/editor/editor.html:2334
-
 msgid "Blank Template"
 msgstr "Vorlage"
 
@@ -21639,7 +21991,6 @@ msgid "Album"
 msgstr ""
 
 #: public/admin/themes/default/editor/editor.html:2343
-
 msgid "File name"
 msgstr "Datei"
 
@@ -21654,12 +22005,10 @@ msgid "Cancel"
 msgstr ""
 
 #: public/admin/themes/default/editor/editor.html:2372
-
 msgid "Create template"
 msgstr "Vorlage"
 
 #: public/admin/themes/default/editor/editor.html:2386
-
 msgid "Page save"
 msgstr "Seiten"
 
@@ -21681,7 +22030,6 @@ msgid "Saving changes"
 msgstr ""
 
 #: public/admin/themes/default/editor/editor.html:2449
-
 msgid "Default template"
 msgstr "Standardvorlage"
 
@@ -21706,7 +22054,6 @@ msgid "Set as template for this page"
 msgstr ""
 
 #: public/admin/themes/default/editor/code.html:15
-
 msgid "Vvveb - Code Editor"
 msgstr "Vvveb – Beitrag bearbeiten"
 
@@ -21738,19 +22085,16 @@ msgid "No files here."
 msgstr ""
 
 #: public/admin/themes/default/editor/code.html:1052
-
 msgid "Editing:"
 msgstr "Bearbeiten"
 
 #: public/admin/themes/default/editor/code.html:1089
 #: public/admin/themes/default/media/media.html:1049
-
 msgid "Save status"
 msgstr "Status"
 
 #: public/admin/themes/default/settings/length-classes.html:15
 #: public/admin/themes/default/settings/length-class.html:15
-
 msgid "Vvveb - Length class"
 msgstr ""
 "Länge\n"
@@ -21758,7 +22102,6 @@ msgstr ""
 
 #: public/admin/themes/default/settings/length-classes.html:971
 #: public/admin/themes/default/settings/length-class.html:971
-
 msgid "Length class"
 msgstr ""
 "Länge\n"
@@ -21766,7 +22109,6 @@ msgstr ""
 
 #: public/admin/themes/default/settings/length-classes.html:977
 #: public/admin/themes/default/settings/length-classes.html:1139
-
 msgid "Add length class"
 msgstr ""
 "Länge\n"
@@ -21793,13 +22135,11 @@ msgid "Value"
 msgstr ""
 
 #: public/admin/themes/default/settings/length-classes.html:1135
-
 msgid "No length_class to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/settings/order-status.html:15
 #: public/admin/themes/default/settings/order-statuses.html:15
-
 msgid "Vvveb - Order status"
 msgstr "Bestellstatus"
 
@@ -21809,19 +22149,16 @@ msgid "Order status"
 msgstr "Bestellstatus"
 
 #: public/admin/themes/default/settings/order-status.html:978
-
 msgid "Order status list"
 msgstr "Bestellstatus"
 
 #: public/admin/themes/default/settings/return-reason.html:15
 #: public/admin/themes/default/settings/return-reasons.html:15
-
 msgid "Vvveb - Return reason"
 msgstr "Vvveb – Seite nicht gefunden"
 
 #: public/admin/themes/default/settings/return-reason.html:971
 #: public/admin/themes/default/settings/return-reasons.html:971
-
 msgid "Return reason"
 msgstr "Kehrt zurück"
 
@@ -21835,7 +22172,6 @@ msgid "Add return reason"
 msgstr ""
 
 #: public/admin/themes/default/settings/return-reasons.html:1121
-
 msgid "No return_reason to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -21845,7 +22181,6 @@ msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 #: public/admin/themes/default/settings/notifications.html:15
 #: public/admin/themes/default/theme/market.html:15
 #: public/admin/themes/default/theme/themes.html:15
-
 msgid "Vvveb - Themes"
 msgstr "Vvveb - Beiträge"
 
@@ -22179,30 +22514,25 @@ msgstr ""
 #: plugins/cdn/public/admin/settings.html:85
 #: plugins/plugin-market/public/admin/settings.html:83
 #: plugins/theme-market/public/admin/settings.html:83
-
 msgid "Site description"
 msgstr "Beschreibung"
 
 #: public/admin/themes/default/settings/stock-status.html:15
 #: public/admin/themes/default/settings/stock-statuses.html:15
-
 msgid "Vvveb - Stock status"
 msgstr "Vvveb - Beiträge"
 
 #: public/admin/themes/default/settings/stock-status.html:971
 #: public/admin/themes/default/settings/stock-statuses.html:971
-
 msgid "Stock status"
 msgstr "Status „Nicht vorrätig“."
 
 #: public/admin/themes/default/settings/stock-status.html:978
-
 msgid "Stock status list"
 msgstr "Status „Nicht vorrätig“."
 
 #: public/admin/themes/default/settings/weight-class.html:15
 #: public/admin/themes/default/settings/weight-classes.html:15
-
 msgid "Vvveb - Weight class"
 msgstr ""
 "Gewicht\n"
@@ -22210,27 +22540,23 @@ msgstr ""
 
 #: public/admin/themes/default/settings/weight-class.html:971
 #: public/admin/themes/default/settings/weight-classes.html:971
-
 msgid "Weight class"
 msgstr ""
 "Gewicht\n"
 " Klasse"
 
 #: public/admin/themes/default/settings/weight-class.html:978
-
 msgid "Weight class list"
 msgstr ""
 "Gewicht\n"
 " Klasse"
 
 #: public/admin/themes/default/settings/email.html:15
-
 msgid "Vvveb - Email settings"
 msgstr "Vvveb – Beitrag bearbeiten"
 
 #: public/admin/themes/default/settings/email.html:973
 #: config/admin-menu.php:934
-
 msgid "Email settings"
 msgstr "Allgemeine Einstellungen"
 
@@ -22248,7 +22574,6 @@ msgid "SMTP"
 msgstr ""
 
 #: public/admin/themes/default/settings/email.html:1056
-
 msgid "Mail Parameters"
 msgstr "Millimeter"
 
@@ -22265,7 +22590,6 @@ msgid "Use 'tls://' or 'ssl://' prefix for secure connection."
 msgstr ""
 
 #: public/admin/themes/default/settings/email.html:1074
-
 msgid "Username"
 msgstr "Benutzername oder E-Mail-Adresse"
 
@@ -22274,7 +22598,6 @@ msgid "Port"
 msgstr ""
 
 #: public/admin/themes/default/settings/email.html:1101
-
 msgid "Timeout"
 msgstr "Zeit"
 
@@ -22287,36 +22610,30 @@ msgid "Send to email address"
 msgstr ""
 
 #: public/admin/themes/default/settings/email.html:1117
-
 msgid "Send email"
 msgstr "%s ungültige E-Mail"
 
 #: public/admin/themes/default/settings/return-status.html:15
 #: public/admin/themes/default/settings/return-statuses.html:15
-
 msgid "Vvveb - Return status"
 msgstr "Vvveb - Beiträge"
 
 #: public/admin/themes/default/settings/return-status.html:971
 #: public/admin/themes/default/settings/return-statuses.html:971
-
 msgid "Return status"
 msgstr "Bestellstatus"
 
 #: public/admin/themes/default/settings/return-status.html:978
-
 msgid "Return status list"
 msgstr "Bestellstatus"
 
 #: public/admin/themes/default/settings/taxonomies.html:15
-
 msgid "Vvveb - Taxonomies"
 msgstr "Taxonomien"
 
 #: public/admin/themes/default/settings/taxonomies.html:977
 #: public/admin/themes/default/settings/taxonomies2.html:980
 #: public/admin/themes/default/content/taxonomy.html:977
-
 msgid "Add taxonomy"
 msgstr "Taxonomie"
 
@@ -22338,20 +22655,17 @@ msgstr ""
 
 #: public/admin/themes/default/settings/taxonomies.html:1074
 #: public/admin/themes/default/settings/taxonomies2.html:1178
-
 msgid "Post type"
 msgstr "Nach Datum"
 
 #: public/admin/themes/default/settings/taxonomies.html:1077
 #: public/admin/themes/default/settings/taxonomies2.html:1181
-
 msgid "Site id"
 msgstr "Websites"
 
 #: public/admin/themes/default/settings/taxonomies.html:1118
 #: public/admin/themes/default/settings/taxonomies2.html:1223
 #: public/admin/themes/default/plugin/plugins.html:1233
-
 msgid "Global"
 msgstr "Weltweiter Verkauf"
 
@@ -22373,23 +22687,19 @@ msgstr "&nbsp; Beitrag hinzufügen"
 
 #: public/admin/themes/default/settings/return-statuses.html:977
 #: public/admin/themes/default/settings/return-statuses.html:1125
-
 msgid "Add return status"
 msgstr "Bestellstatus"
 
 #: public/admin/themes/default/settings/return-statuses.html:1121
-
 msgid "No return_status to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/settings/settings.html:15
-
 msgid "Vvveb - Settings"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/settings/settings.html:1049
 #: public/admin/themes/default/settings/site.html:1060
-
 msgid "Local"
 msgstr "Standort"
 
@@ -22417,7 +22727,6 @@ msgstr "Standort"
 #: public/themes/landing/user/orders.html:663
 #: public/themes/landing/checkout/checkout.html:906
 #: public/themes/landing/checkout/checkout.html:985
-
 msgid "Address"
 msgstr "E-Mail-Addresse"
 
@@ -22442,7 +22751,6 @@ msgstr ""
 #: public/themes/landing/user/address/edit.html:824
 #: public/themes/landing/checkout/checkout.html:885
 #: public/themes/landing/checkout/checkout.html:964
-
 msgid "Country"
 msgstr "Länder"
 
@@ -22451,7 +22759,6 @@ msgstr "Länder"
 #: public/themes/landing/user/address/edit.html:832
 #: public/themes/landing/checkout/checkout.html:892
 #: public/themes/landing/checkout/checkout.html:971
-
 msgid "Country 2"
 msgstr "Länder"
 
@@ -22469,31 +22776,26 @@ msgstr ""
 
 #: public/admin/themes/default/settings/settings.html:1107
 #: public/admin/themes/default/settings/site.html:1363
-
 msgid "Defaults"
 msgstr "Standard"
 
 #: public/admin/themes/default/settings/settings.html:1110
 #: public/admin/themes/default/settings/site.html:1366
-
 msgid "Default Language"
 msgstr "Standardsprache"
 
 #: public/admin/themes/default/settings/settings.html:1118
 #: public/admin/themes/default/settings/site.html:1374
-
 msgid "Default Currency"
 msgstr "Standardwährung"
 
 #: public/admin/themes/default/settings/settings.html:1158
 #: public/admin/themes/default/settings/site.html:1414
-
 msgid "Timezone"
 msgstr "Zeit"
 
 #: public/admin/themes/default/settings/settings.html:1168
 #: public/admin/themes/default/settings/site.html:1424
-
 msgid "Date format"
 msgstr "Start Datum"
 
@@ -22501,7 +22803,6 @@ msgstr "Start Datum"
 #: public/admin/themes/default/settings/settings.html:1244
 #: public/admin/themes/default/settings/site.html:1454
 #: public/admin/themes/default/settings/site.html:1500
-
 msgid "Custom:"
 msgstr "Kunde"
 
@@ -22519,7 +22820,6 @@ msgstr ""
 #: public/admin/themes/default/settings/settings.html:1249
 #: public/admin/themes/default/settings/site.html:1463
 #: public/admin/themes/default/settings/site.html:1505
-
 msgid "Preview:"
 msgstr "Rezensionen"
 
@@ -22567,13 +22867,11 @@ msgstr ""
 
 #: public/admin/themes/default/settings/settings.html:1260
 #: public/admin/themes/default/settings/site.html:1516
-
 msgid "Default post comments"
 msgstr "Neue Kommentare"
 
 #: public/admin/themes/default/settings/settings.html:1265
 #: public/admin/themes/default/settings/site.html:1521
-
 msgid "Allow comments"
 msgstr "Neue Kommentare"
 
@@ -22584,7 +22882,6 @@ msgstr ""
 
 #: public/admin/themes/default/settings/settings.html:1273
 #: public/admin/themes/default/settings/site.html:1529
-
 msgid "Anonymous comments"
 msgstr "Neue Kommentare"
 
@@ -22625,7 +22922,6 @@ msgstr ""
 
 #: public/admin/themes/default/settings/settings.html:1334
 #: public/admin/themes/default/settings/site.html:1590
-
 msgid "New Order Status"
 msgstr "Bestellstatus"
 
@@ -22676,7 +22972,6 @@ msgstr ""
 
 #: public/admin/themes/default/settings/settings.html:1347
 #: public/admin/themes/default/settings/site.html:1603
-
 msgid "Refunded"
 msgstr "Rückerstattungen"
 
@@ -22687,7 +22982,6 @@ msgstr ""
 
 #: public/admin/themes/default/settings/settings.html:1349
 #: public/admin/themes/default/settings/site.html:1605
-
 msgid "Shipped"
 msgstr "Versand"
 
@@ -22697,36 +22991,30 @@ msgid "Voided"
 msgstr ""
 
 #: public/admin/themes/default/settings/taxonomies2.html:15
-
 msgid "Vvveb - taxonomies"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/settings/order-statuses.html:977
 #: public/admin/themes/default/settings/order-statuses.html:1126
-
 msgid "Add order status"
 msgstr "Bestellstatus"
 
 #: public/admin/themes/default/settings/order-statuses.html:1122
-
 msgid "No order_status to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/settings/length-class.html:978
-
 msgid "Length class list"
 msgstr ""
 "Länge\n"
 " Klasse"
 
 #: public/admin/themes/default/settings/tax-rate.html:15
-
 msgid "Vvveb - Tax rate"
 msgstr "Steuersätze"
 
 #: public/admin/themes/default/settings/tax-rate.html:971
 #: public/admin/themes/default/settings/tax-rates.html:971
-
 msgid "Tax rate"
 msgstr "Steuersätze"
 
@@ -22757,19 +23045,16 @@ msgid "Zone group"
 msgstr ""
 
 #: public/admin/themes/default/settings/sites.html:15
-
 msgid "Vvveb - Edit site"
 msgstr "Vvveb – Beitrag bearbeiten"
 
 #: public/admin/themes/default/settings/sites.html:977
-
 msgid "Add site"
 msgstr "Neue hinzufügen"
 
 #: public/admin/themes/default/settings/sites.html:1058
 #: public/admin/themes/default/settings/site.html:971
 #: public/admin/themes/default/settings/taxonomy.html:1081
-
 msgid "Site"
 msgstr "Websites"
 
@@ -22785,7 +23070,6 @@ msgid "Host"
 msgstr ""
 
 #: public/admin/themes/default/settings/sites.html:1073
-
 msgid "template"
 msgstr "Vorlage"
 
@@ -22802,7 +23086,6 @@ msgstr ""
 
 #: public/admin/themes/default/settings/sites.html:1118
 #: public/themes/themes-child/product/product.html:116
-
 msgid "Landing"
 msgstr "Ausstehend"
 
@@ -22811,19 +23094,16 @@ msgid "index.html"
 msgstr ""
 
 #: public/admin/themes/default/settings/sites.html:1155
-
 msgid "No sites to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/settings/return-action.html:15
 #: public/admin/themes/default/settings/return-actions.html:15
-
 msgid "Vvveb - Return action"
 msgstr "Vvveb – Seite nicht gefunden"
 
 #: public/admin/themes/default/settings/return-action.html:971
 #: public/admin/themes/default/settings/return-actions.html:971
-
 msgid "Return action"
 msgstr "Kehrt zurück"
 
@@ -22833,13 +23113,11 @@ msgstr ""
 
 #: public/admin/themes/default/settings/subscription-status.html:15
 #: public/admin/themes/default/settings/subscription-statuses.html:15
-
 msgid "Vvveb - Subscription status"
 msgstr "Vvveb - Beiträge"
 
 #: public/admin/themes/default/settings/subscription-status.html:971
 #: public/admin/themes/default/settings/subscription-statuses.html:971
-
 msgid "Subscription status"
 msgstr "Beschreibung"
 
@@ -22853,7 +23131,6 @@ msgid "Add subscription status"
 msgstr ""
 
 #: public/admin/themes/default/settings/subscription-statuses.html:1121
-
 msgid "No subscription_status to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -22865,32 +23142,26 @@ msgid "Add return action"
 msgstr ""
 
 #: public/admin/themes/default/settings/return-actions.html:1121
-
 msgid "No return_action to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/settings/stock-statuses.html:977
-
 msgid "Add stock status"
 msgstr "In den Warenkorb legen"
 
 #: public/admin/themes/default/settings/stock-statuses.html:1121
-
 msgid "No stock_status to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/settings/stock-statuses.html:1125
-
 msgid "Add stock_status"
 msgstr "In den Warenkorb legen"
 
 #: public/admin/themes/default/settings/site.html:15
-
 msgid "Vvveb - Site"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/settings/site.html:979
-
 msgid "Sites list"
 msgstr "Websites"
 
@@ -22899,12 +23170,10 @@ msgid "Save site"
 msgstr ""
 
 #: public/admin/themes/default/settings/site.html:1077
-
 msgid "Mail notifications"
 msgstr "E-Mail Benachrichtigungen"
 
 #: public/admin/themes/default/settings/site.html:1087
-
 msgid "Site key"
 msgstr "Websites"
 
@@ -22941,13 +23210,11 @@ msgid "to match all subdomains and tld."
 msgstr ""
 
 #: public/admin/themes/default/settings/site.html:1110
-
 msgid "Use"
 msgstr "Benutzer"
 
 #: public/admin/themes/default/settings/site.html:1110
 #: public/admin/themes/default/localization/languages.html:1115
-
 msgid "default"
 msgstr "Standard"
 
@@ -22972,23 +23239,18 @@ msgid "Used to generate links for the site"
 msgstr ""
 
 #: public/admin/themes/default/settings/site.html:1139
-msgid ""
-"Use * for wildcard for subdomain, domain or tld like *.mysite.com, subdomain."
-"*.com, subdomain.mysite.*"
+msgid "Use * for wildcard for subdomain, domain or tld like *.mysite.com, subdomain.*.com, subdomain.mysite.*"
 msgstr ""
 
 #: public/admin/themes/default/settings/site.html:1150
-
 msgid "Theme 1"
 msgstr "Themen"
 
 #: public/admin/themes/default/settings/site.html:1155
-
 msgid "Theme 2"
 msgstr "Themen"
 
 #: public/admin/themes/default/settings/site.html:1163
-
 msgid "Home template"
 msgstr "Vorlage"
 
@@ -22997,12 +23259,10 @@ msgid "Administration Email Address"
 msgstr ""
 
 #: public/admin/themes/default/settings/site.html:1216
-
 msgid "Contact Email Address"
 msgstr "E-Mail-Addresse"
 
 #: public/admin/themes/default/settings/site.html:1229
-
 msgid "Logo"
 msgstr "Ausloggen"
 
@@ -23032,99 +23292,81 @@ msgid "Notify on"
 msgstr ""
 
 #: public/admin/themes/default/settings/site.html:1620
-
 msgid "New user account"
 msgstr "Account registrieren"
 
 #: public/admin/themes/default/settings/site.html:1626
 #: public/themes/landing/email/order/new.html:10
-
 msgid "New order"
 msgstr "Neukunde"
 
 #: public/admin/themes/default/settings/site.html:1632
-
 msgid "New post comment"
 msgstr "Neue Kommentare"
 
 #: public/admin/themes/default/settings/site.html:1638
-
 msgid "New product question"
 msgstr "Keine Produkte gefunden!"
 
 #: public/admin/themes/default/settings/site.html:1644
-
 msgid "New product review"
 msgstr "Neues Produkt hinzufügen"
 
 #: public/admin/themes/default/settings/tax-rates.html:15
-
 msgid "Vvveb - Tax rates"
 msgstr "Steuersätze"
 
 #: public/admin/themes/default/settings/tax-rates.html:977
 #: public/admin/themes/default/settings/tax-rates.html:1147
-
 msgid "Add tax rate"
 msgstr "In den Warenkorb legen"
 
 #: public/admin/themes/default/settings/tax-rates.html:1143
-
 msgid "No tax rate to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/settings/taxonomy.html:15
 #: public/admin/themes/default/settings/taxonomy2.html:15
-
 msgid "Vvveb - Taxonomy"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/settings/taxonomy.html:1069
-
 msgid "Post Type"
 msgstr "Nach Datum"
 
 #: public/admin/themes/default/settings/taxonomy.html:1084
-
 msgid "Global (all sites)"
 msgstr "Weltweiter Verkauf"
 
 #: public/admin/themes/default/settings/weight-classes.html:977
 #: public/admin/themes/default/settings/weight-classes.html:1139
-
 msgid "Add weight class"
 msgstr ""
 "Gewicht\n"
 " Klasse"
 
 #: public/admin/themes/default/settings/weight-classes.html:1135
-
 msgid "No weight_class to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/settings/tax-class.html:15
-
 msgid "Vvveb - Tax class"
 msgstr "Vvveb - Beiträge"
 
 #: public/admin/themes/default/settings/tax-class.html:971
 #: public/admin/themes/default/settings/tax-classes.html:971
-
 msgid "Tax class"
 msgstr "Steuerklassen"
 
 #: public/admin/themes/default/settings/tax-class.html:978
-
 msgid "Return to tax classes"
 msgstr "Steuerklassen"
 
 #: public/admin/themes/default/settings/tax-class.html:1065
-
 msgid "Add tax rule"
 msgstr "In den Warenkorb legen"
 
 #: public/admin/themes/default/settings/tax-class.html:1072
-
 msgid "Tax Rate"
 msgstr "Steuersätze"
 
@@ -23148,13 +23390,11 @@ msgstr ""
 #: public/admin/themes/default/settings/tax-class.html:1120
 #: public/admin/themes/default/order/order.html:1468
 #: public/themes/landing/checkout/checkout.html:941
-
 msgid "Shipping Address"
 msgstr "Versand"
 
 #: public/admin/themes/default/settings/tax-class.html:1093
 #: public/admin/themes/default/settings/tax-class.html:1121
-
 msgid "Payment Address"
 msgstr "E-Mail-Addresse"
 
@@ -23164,51 +23404,42 @@ msgid "Store Address"
 msgstr ""
 
 #: public/admin/themes/default/settings/tax-classes.html:15
-
 msgid "Vvveb - Tax classes"
 msgstr "Steuerklassen"
 
 #: public/admin/themes/default/settings/tax-classes.html:977
 #: public/admin/themes/default/settings/tax-classes.html:1125
-
 msgid "Add tax class"
 msgstr "Steuerklassen"
 
 #: public/admin/themes/default/settings/tax-classes.html:1121
-
 msgid "No tax class to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/settings/taxonomy2.html:136
 #: public/admin/themes/default/settings/taxonomy2.html:458
-
 msgid "Taxonomys"
 msgstr "Taxonomie"
 
 #: public/admin/themes/default/settings/taxonomy2.html:976
-
 msgid "Taxonomy list"
 msgstr "Taxonomien"
 
 #: public/admin/themes/default/settings/taxonomy2.html:980
-
 msgid "Save taxonomy"
 msgstr "Taxonomie"
 
 #: public/admin/themes/default/order/order.html:15
 #: public/admin/themes/default/order/order/printshipping.html:15
 #: public/admin/themes/default/order/order/print.html:15
-
 msgid "Vvveb - Order"
 msgstr "Vvveb – Dashboard"
 
 #: public/admin/themes/default/order/order.html:981
-
 msgid "Order list"
 msgstr "Aufträge"
 
 #: public/admin/themes/default/order/order.html:985
-
 msgid "Print Preview"
 msgstr "Ausstehende Vorschau"
 
@@ -23217,7 +23448,6 @@ msgid "Print shipping details"
 msgstr ""
 
 #: public/admin/themes/default/order/order.html:991
-
 msgid "&nbsp; Save order"
 msgstr "&nbsp; Entwurf speichern"
 
@@ -23230,7 +23460,6 @@ msgid "001"
 msgstr ""
 
 #: public/admin/themes/default/order/order.html:1079
-
 msgid "Customer Details"
 msgstr "Benutzerdefinierte Felder"
 
@@ -23239,7 +23468,6 @@ msgstr "Benutzerdefinierte Felder"
 #: public/themes/landing/sections/contact-form/contact-form-2.html:12
 #: public/themes/landing/checkout/checkout.html:794
 #: public/themes/landing/checkout/checkout.html:945
-
 msgid "First Name"
 msgstr "Erste"
 
@@ -23248,7 +23476,6 @@ msgstr "Erste"
 #: public/themes/landing/sections/contact-form/contact-form-2.html:16
 #: public/themes/landing/checkout/checkout.html:799
 #: public/themes/landing/checkout/checkout.html:950
-
 msgid "Last Name"
 msgstr "Zuletzt"
 
@@ -23258,23 +23485,19 @@ msgid "12345678"
 msgstr ""
 
 #: public/admin/themes/default/order/order.html:1090
-
 msgid "View Profile"
 msgstr "Profil bearbeiten"
 
 #: public/admin/themes/default/order/order.html:1093
-
 msgid "Order note"
 msgstr "Ältere Beiträge"
 
 #: public/admin/themes/default/order/order.html:1131
-
 msgid "Order Details"
 msgstr "Bestellstatus"
 
 #: public/admin/themes/default/order/order.html:1142
 #: public/admin/themes/default/order/order/print.html:32
-
 msgid "Order ID:"
 msgstr "Aufträge"
 
@@ -23285,20 +23508,17 @@ msgstr ""
 
 #: public/admin/themes/default/order/order.html:1150
 #: public/admin/themes/default/order/order/print.html:40
-
 msgid "Order Date:"
 msgstr "Bestellstatus"
 
 #: public/admin/themes/default/order/order.html:1156
 #: public/admin/themes/default/order/order.html:1159
 #: public/admin/themes/default/order/order/print.html:43
-
 msgid "23/10/2019"
 msgstr "31.05.2018"
 
 #: public/admin/themes/default/order/order.html:1167
 #: public/admin/themes/default/order/order/print.html:48
-
 msgid "Payment method:"
 msgstr "Zahlungsmöglichkeiten"
 
@@ -23315,7 +23535,6 @@ msgid "Flat data-payment_description>Flat-text Shipping Rate"
 msgstr ""
 
 #: public/admin/themes/default/order/order.html:1187
-
 msgid "Shipping method:"
 msgstr "Versand"
 
@@ -23332,7 +23551,6 @@ msgid "Flat data-shipping_description>Flat-text Shipping Rate"
 msgstr ""
 
 #: public/admin/themes/default/order/order.html:1207
-
 msgid "Order Total:"
 msgstr "Bestellstatus"
 
@@ -23345,7 +23563,6 @@ msgstr ""
 
 #: public/admin/themes/default/order/order.html:1215
 #: public/admin/themes/default/order/order/print.html:95
-
 msgid "Reward points:"
 msgstr "Belohnungspunkte"
 
@@ -23356,25 +23573,21 @@ msgstr ""
 #: public/admin/themes/default/order/order.html:1247
 #: public/admin/themes/default/plugin/plugins.html:1103
 #: public/themes/landing/checkout/checkout.html:1206
-
 msgid "Payment"
 msgstr "Zahlungsmöglichkeiten"
 
 #: public/admin/themes/default/order/order.html:1256
 #: public/themes/landing/checkout/checkout.html:1213
-
 msgid "Default payment"
 msgstr "Kasse und Zahlungen"
 
 #: public/admin/themes/default/order/order.html:1263
 #: public/themes/landing/checkout/checkout.html:1220
-
 msgid "Payment description"
 msgstr "Zahlungsmöglichkeiten"
 
 #: public/admin/themes/default/order/order.html:1272
 #: public/themes/landing/checkout/checkout.html:1229
-
 msgid "Credit card payment"
 msgstr "Kasse und Zahlungen"
 
@@ -23390,19 +23603,16 @@ msgstr ""
 
 #: public/admin/themes/default/order/order.html:1316
 #: public/themes/landing/checkout/checkout.html:1157
-
 msgid "Default shipping"
 msgstr "Standard"
 
 #: public/admin/themes/default/order/order.html:1323
 #: public/themes/landing/checkout/checkout.html:1164
-
 msgid "Shipping description"
 msgstr "Beschreibung"
 
 #: public/admin/themes/default/order/order.html:1333
 #: public/themes/landing/checkout/checkout.html:1174
-
 msgid "Fast shipping"
 msgstr "Versand"
 
@@ -23413,7 +23623,6 @@ msgstr ""
 
 #: public/admin/themes/default/order/order.html:1378
 #: public/themes/landing/checkout/checkout.html:875
-
 msgid "Billing Address"
 msgstr "E-Mail-Addresse"
 
@@ -23435,7 +23644,6 @@ msgstr ""
 #: public/themes/landing/email/order/new.txt.html:92
 #: public/themes/landing/user/address/edit.html:796
 #: public/themes/landing/checkout/checkout.html:855
-
 msgid "Address 1"
 msgstr "E-Mail-Addresse"
 
@@ -23447,7 +23655,6 @@ msgstr "E-Mail-Addresse"
 #: public/themes/landing/email/order/new.txt.html:93
 #: public/themes/landing/user/address/edit.html:803
 #: public/themes/landing/checkout/checkout.html:856
-
 msgid "Address 2"
 msgstr "E-Mail-Addresse"
 
@@ -23469,13 +23676,11 @@ msgstr ""
 #: public/admin/themes/default/order/order.html:1433
 #: public/admin/themes/default/order/order.html:1523
 #: public/themes/landing/user/address/edit.html:817
-
 msgid "Post code"
 msgstr "Nach Datum"
 
 #: public/admin/themes/default/order/order.html:1439
 #: public/admin/themes/default/order/order.html:1529
-
 msgid "Country id"
 msgstr "Länder"
 
@@ -23491,13 +23696,11 @@ msgstr "Länder"
 #: public/admin/themes/default/order/order.html:1542
 #: public/admin/themes/default/order/order.html:1543
 #: public/admin/themes/default/order/order.html:1544
-
 msgid "Country name"
 msgstr "Länder"
 
 #: public/admin/themes/default/order/order.html:1449
 #: public/admin/themes/default/order/order.html:1539
-
 msgid "Zone id"
 msgstr "Zonen"
 
@@ -23655,7 +23858,6 @@ msgstr ""
 #: public/themes/landing/checkout/checkout.html:1107
 #: public/themes/landing/checkout/confirm.html:559
 #: public/themes/landing/index.maintenance.html:558
-
 msgid "Sub-Total"
 msgstr "Gesamt"
 
@@ -24077,7 +24279,6 @@ msgstr ""
 #: public/themes/landing/checkout/confirm.html:585
 #: public/themes/landing/index.maintenance.html:579
 #: public/themes/landing/index.maintenance.html:584
-
 msgid "Total:"
 msgstr "Gesamt"
 
@@ -24268,12 +24469,10 @@ msgstr ""
 #: public/themes/landing/checkout/checkout.html:1134
 #: public/themes/landing/checkout/confirm.html:586
 #: public/themes/landing/index.maintenance.html:585
-
 msgid "$0"
 msgstr "0"
 
 #: public/admin/themes/default/order/voucher.html:15
-
 msgid "Vvveb - Voucher"
 msgstr "Vvveb - Produkte"
 
@@ -24290,18 +24489,15 @@ msgstr ""
 #: public/admin/themes/default/order/orders.html:15
 #: public/themes/landing/user/order.html:10
 #: public/themes/landing/user/orders.html:10
-
 msgid "Vvveb - Orders"
 msgstr "Vvveb - Produkte"
 
 #: public/admin/themes/default/order/returns.html:981
-
 msgid "Add return"
 msgstr "Neuen Benutzer hinzufügen"
 
 #: public/admin/themes/default/order/returns.html:995
 #: public/admin/themes/default/order/subscriptions.html:995
-
 msgid "Order Name"
 msgstr "Bestellung aufgegeben!"
 
@@ -24339,7 +24535,6 @@ msgstr ""
 #: public/themes/landing/sections/posts/posts-3.html:40
 #: public/themes/landing/sections/posts/posts-3.html:59
 #: public/resources/svg/icons/ikonate/index.html:891
-
 msgid "New"
 msgstr "Nachricht"
 
@@ -24365,13 +24560,11 @@ msgid "Today 17:10"
 msgstr ""
 
 #: public/admin/themes/default/order/returns.html:1319
-
 msgid "No subscriptions to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/order/returns.html:1322
 #: public/admin/themes/default/order/subscriptions.html:1322
-
 msgid "&nbsp; Add order"
 msgstr "&nbsp; Beitrag hinzufügen"
 
@@ -24379,12 +24572,10 @@ msgstr "&nbsp; Beitrag hinzufügen"
 #: public/admin/themes/default/order/order/print.html:121
 #: public/themes/landing/email/order/new.html:592
 #: public/themes/landing/email/order/new.txt.html:72
-
 msgid "Shipping address"
 msgstr "Versand"
 
 #: public/admin/themes/default/order/order/printshipping.html:50
-
 msgid "Shipping address 1"
 msgstr "Versand"
 
@@ -24393,7 +24584,6 @@ msgid "shipping_address_1"
 msgstr ""
 
 #: public/admin/themes/default/order/order/printshipping.html:58
-
 msgid "Shipping address 2"
 msgstr "Versand"
 
@@ -24408,7 +24598,6 @@ msgstr ""
 #: public/admin/themes/default/order/order/printshipping.html:74
 #: public/themes/landing/checkout/checkout.html:912
 #: public/themes/landing/checkout/checkout.html:991
-
 msgid "Postcode"
 msgstr "Nach Datum"
 
@@ -24417,7 +24606,6 @@ msgid "postcode"
 msgstr ""
 
 #: public/admin/themes/default/order/order/printshipping.html:85
-
 msgid "country"
 msgstr "Rabatt:"
 
@@ -24429,7 +24617,6 @@ msgstr "Rabatt:"
 #: public/themes/landing/email/order/new.html:641
 #: public/themes/landing/email/order/new.txt.html:83
 #: public/themes/landing/email/order/new.txt.html:97
-
 msgid "Zone"
 msgstr "Zonen"
 
@@ -24439,25 +24626,21 @@ msgstr ""
 
 #: public/admin/themes/default/order/order/print.html:28
 #: public/themes/landing/email/order/new.html:491
-
 msgid "Order details"
 msgstr "Bestellstatus"
 
 #: public/admin/themes/default/order/order/print.html:54
 #: public/admin/themes/default/order/order/print.html:57
-
 msgid "Cash On Delivery"
 msgstr "Versand & Lieferung"
 
 #: public/admin/themes/default/order/order/print.html:60
 #: public/admin/themes/default/order/order/print.html:77
 #: public/admin/themes/default/order/order/print.html:80
-
 msgid "Flat Shipping Rate"
 msgstr "Versand"
 
 #: public/admin/themes/default/order/order/print.html:68
-
 msgid "Shipping:"
 msgstr "Versand"
 
@@ -24468,12 +24651,10 @@ msgstr ""
 #: public/admin/themes/default/order/order/print.html:105
 #: public/themes/landing/email/order/new.html:595
 #: public/themes/landing/email/order/new.txt.html:87
-
 msgid "Billing address"
 msgstr "E-Mail-Addresse"
 
 #: public/admin/themes/default/order/coupon.html:15
-
 msgid "Vvveb - Coupon"
 msgstr "Vvveb - Anmelden"
 
@@ -24482,27 +24663,22 @@ msgid "Coupon"
 msgstr ""
 
 #: public/admin/themes/default/order/coupon.html:978
-
 msgid "Return to coupons"
 msgstr "Rabatt Coupons"
 
 #: public/admin/themes/default/order/coupon.html:1069
-
 msgid "Discount"
 msgstr "Rabatt:"
 
 #: public/admin/themes/default/order/coupon.html:1077
-
 msgid "Free Shipping"
 msgstr "Versand"
 
 #: public/admin/themes/default/order/coupon.html:1083
-
 msgid "Restrictions"
 msgstr "Beschreibung"
 
 #: public/admin/themes/default/order/coupon.html:1086
-
 msgid "Cart total"
 msgstr "gesamt"
 
@@ -24530,17 +24706,14 @@ msgstr ""
 #: public/themes/blog-default/content/tag.html:116
 #: public/themes/blog-default/content/post-image-header.html:121
 #: public/themes/themes-child/product/product.html:114
-
 msgid "Category"
 msgstr "Kategorien"
 
 #: public/admin/themes/default/order/coupon.html:1110
-
 msgid "Date start"
 msgstr "Start Datum"
 
 #: public/admin/themes/default/order/coupon.html:1117
-
 msgid "Date end"
 msgstr "Datum Ende"
 
@@ -24553,8 +24726,7 @@ msgid "Coupon limit"
 msgstr ""
 
 #: public/admin/themes/default/order/coupon.html:1128
-msgid ""
-"The maximum number of times the coupon can be used. Leave blank for unlimited"
+msgid "The maximum number of times the coupon can be used. Leave blank for unlimited"
 msgstr ""
 
 #: public/admin/themes/default/order/coupon.html:1136
@@ -24562,23 +24734,18 @@ msgid "Coupon customer limit"
 msgstr ""
 
 #: public/admin/themes/default/order/coupon.html:1138
-msgid ""
-"The maximum number of times the coupon can be used by a customer. Leave "
-"blank for unlimited."
+msgid "The maximum number of times the coupon can be used by a customer. Leave blank for unlimited."
 msgstr ""
 
 #: public/admin/themes/default/order/subscriptions.html:972
-
 msgid "Subscriptions"
 msgstr "Beschreibung"
 
 #: public/admin/themes/default/order/subscriptions.html:981
-
 msgid "Add subscription"
 msgstr "Beschreibung"
 
 #: public/admin/themes/default/order/coupons.html:15
-
 msgid "Vvveb - Coupons"
 msgstr "Vvveb - Anmelden"
 
@@ -24592,12 +24759,10 @@ msgid "Add coupon"
 msgstr ""
 
 #: public/admin/themes/default/order/coupons.html:1120
-
 msgid "No coupon to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/order/vouchers.html:15
-
 msgid "Vvveb - Vouchers"
 msgstr "Vvveb - Produkte"
 
@@ -24607,17 +24772,14 @@ msgstr ""
 
 #: public/admin/themes/default/order/vouchers.html:977
 #: public/admin/themes/default/order/vouchers.html:1125
-
 msgid "Add voucher"
 msgstr "In den Warenkorb legen"
 
 #: public/admin/themes/default/order/vouchers.html:1121
-
 msgid "No voucher to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/order/orders.html:983
-
 msgid "Add order"
 msgstr "Rollen hinzufügen"
 
@@ -24626,7 +24788,6 @@ msgid "Vvveb - Page not found"
 msgstr "Vvveb – Seite nicht gefunden"
 
 #: public/admin/themes/default/error404.html:976
-
 msgid "Error 404"
 msgstr "Fehler"
 
@@ -24640,8 +24801,7 @@ msgstr ""
 #: public/admin/themes/default/email/user/reset.txt.html:454
 #: public/themes/landing/email/user/reset.html:448
 #: public/themes/landing/email/user/reset.txt.html:451
-msgid ""
-"Use this link to reset your password. The link is only valid for 24 hours."
+msgid "Use this link to reset your password. The link is only valid for 24 hours."
 msgstr ""
 
 #: public/admin/themes/default/email/user/reset.html:460
@@ -24898,7 +25058,6 @@ msgstr ""
 #: public/admin/themes/default/email/user/reset.txt.html:486
 #: public/themes/landing/email/user/reset.html:474
 #: public/themes/landing/email/user/reset.txt.html:483
-
 msgid "Reset your password"
 msgstr "Haben Sie Ihr Passwort vergessen?"
 
@@ -24941,7 +25100,6 @@ msgstr ""
 #: public/admin/themes/default/email/user/reset.txt.html:494
 #: public/themes/landing/email/user/reset.html:482
 #: public/themes/landing/email/user/reset.txt.html:491
-
 msgid "contact support"
 msgstr "Kontakt Formular"
 
@@ -24967,7 +25125,6 @@ msgstr ""
 #: public/themes/landing/email/user/signup.html:496
 #: public/themes/landing/email/user/signup.txt.html:24
 #: public/themes/landing/email/user/reset.txt.html:493
-
 msgid "The"
 msgstr "Themen"
 
@@ -24986,9 +25143,7 @@ msgstr ""
 #: public/admin/themes/default/email/user/reset.txt.html:502
 #: public/themes/landing/email/user/reset.html:490
 #: public/themes/landing/email/user/reset.txt.html:499
-msgid ""
-"If you’re having trouble with the button above, copy and paste the URL below "
-"into your web browser."
+msgid "If you’re having trouble with the button above, copy and paste the URL below into your web browser."
 msgstr ""
 
 #: public/admin/themes/default/email/user/reset.html:491
@@ -25009,14 +25164,12 @@ msgid "Company name"
 msgstr ""
 
 #: public/admin/themes/default/error500.html:15
-
 msgid "Vvveb - Internal server error"
 msgstr "Vvveb – Server unter Last"
 
 #: public/admin/themes/default/error500.html:974
 #: public/themes/landing/error500.html:642
 #: public/themes/blog-default/error500.html:374
-
 msgid "Internal server error!"
 msgstr "Interner Serverfehler, bitte versuchen Sie es später erneut."
 
@@ -25025,52 +25178,43 @@ msgid "(error 500)"
 msgstr ""
 
 #: public/admin/themes/default/localization/translations.html:15
-
 msgid "Vvveb - Translations"
 msgstr "Vvveb - Beiträge"
 
 #: public/admin/themes/default/localization/translations.html:1055
 #: public/admin/themes/default/localization/languages.html:977
 #: public/admin/themes/default/localization/languages.html:1156
-
 msgid "Add language"
 msgstr "Sprachen"
 
 #: public/admin/themes/default/localization/translations.html:1067
 #: public/admin/themes/default/localization/languages.html:1097
-
 msgid "Language name"
 msgstr "Sprachen"
 
 #: public/admin/themes/default/localization/translations.html:1068
-
 msgid "(default)"
 msgstr "Standard"
 
 #: public/admin/themes/default/localization/language.html:15
-
 msgid "Vvveb - Language"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/localization/language.html:971
 #: public/admin/themes/default/localization/language.html:1050
 #: public/resources/svg/icons/ikonate/index.html:776
-
 msgid "Language"
 msgstr "Sprachen"
 
 #: public/admin/themes/default/localization/language.html:978
-
 msgid "Language list"
 msgstr "Sprachen"
 
 #: public/admin/themes/default/localization/language.html:1053
-
 msgid "Custom"
 msgstr "Kunde"
 
 #: public/admin/themes/default/localization/language.html:1061
-
 msgid "Language pack"
 msgstr "Sprachen"
 
@@ -25091,33 +25235,27 @@ msgid "Locale"
 msgstr ""
 
 #: public/admin/themes/default/localization/zone-groups.html:15
-
 msgid "Vvveb - Zone Groups"
 msgstr "Vvveb - Produkte"
 
 #: public/admin/themes/default/localization/zone-groups.html:977
 #: public/admin/themes/default/localization/zone-groups.html:1125
-
 msgid "Add zone group"
 msgstr "Neues Produkt hinzufügen"
 
 #: public/admin/themes/default/localization/zone-groups.html:1088
-
 msgid "Geo zone"
 msgstr "Geozonen"
 
 #: public/admin/themes/default/localization/zone-groups.html:1121
-
 msgid "No zone group to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/localization/zone.html:15
-
 msgid "Vvveb - Zone"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/localization/zone.html:978
-
 msgid "Return to zones"
 msgstr "Kehrt zurück"
 
@@ -25126,7 +25264,6 @@ msgid "Zone code"
 msgstr ""
 
 #: public/admin/themes/default/localization/currencies.html:15
-
 msgid "Vvveb - Currencies"
 msgstr "Währungen"
 
@@ -25140,7 +25277,6 @@ msgid "Symbol"
 msgstr ""
 
 #: public/admin/themes/default/localization/currencies.html:1094
-
 msgid "Last updated"
 msgstr "Nach Datum"
 
@@ -25149,17 +25285,14 @@ msgid "Ron"
 msgstr ""
 
 #: public/admin/themes/default/localization/currencies.html:1179
-
 msgid "No currencies to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/localization/zone-group.html:15
-
 msgid "Vvveb - Zone Group"
 msgstr "Vvveb - Produkte"
 
 #: public/admin/themes/default/localization/zone-group.html:971
-
 msgid "Zone Group"
 msgstr "Kundengruppe"
 
@@ -25169,7 +25302,6 @@ msgstr ""
 
 #: public/admin/themes/default/localization/zone-group.html:1058
 #: public/admin/themes/default/localization/zones.html:982
-
 msgid "Add zone"
 msgstr "Neue hinzufügen"
 
@@ -25178,7 +25310,6 @@ msgstr "Neue hinzufügen"
 #: public/plugins/weight-shipping/admin/settings.html:78
 #: public/plugins/pick-up-shipping/admin/settings.html:63
 #: plugins/flat-rate-shipping/public/admin/settings.html:78
-
 msgid "All Zones"
 msgstr "Zonen"
 
@@ -25187,22 +25318,18 @@ msgstr "Zonen"
 #: public/themes/landing/user/address/edit.html:845
 #: public/themes/landing/checkout/checkout.html:902
 #: public/themes/landing/checkout/checkout.html:981
-
 msgid "Zone 3"
 msgstr "Zonen"
 
 #: public/admin/themes/default/localization/currency.html:15
-
 msgid "Vvveb - Currency"
 msgstr "Vvveb - Produkte"
 
 #: public/admin/themes/default/localization/currency.html:971
-
 msgid "Currency"
 msgstr "Währungen"
 
 #: public/admin/themes/default/localization/currency.html:978
-
 msgid "Currency list"
 msgstr "Währungen"
 
@@ -25219,12 +25346,10 @@ msgid "Decimal place"
 msgstr ""
 
 #: public/admin/themes/default/localization/country.html:15
-
 msgid "Vvveb - Country"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/localization/country.html:978
-
 msgid "Return countries"
 msgstr "Länder"
 
@@ -25237,7 +25362,6 @@ msgid "Iso code 3"
 msgstr ""
 
 #: public/admin/themes/default/localization/languages.html:15
-
 msgid "Vvveb - Languages"
 msgstr "Sprachen"
 
@@ -25260,27 +25384,22 @@ msgid "inactive"
 msgstr ""
 
 #: public/admin/themes/default/localization/languages.html:1152
-
 msgid "No languages to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/localization/zones.html:15
-
 msgid "Vvveb - Zones"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/localization/zones.html:1196
-
 msgid "No zone to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/localization/countries.html:15
-
 msgid "Vvveb - Countries"
 msgstr "Vvveb - Beiträge"
 
 #: public/admin/themes/default/localization/countries.html:982
-
 msgid "Add country"
 msgstr "Rabatt:"
 
@@ -25289,23 +25408,19 @@ msgid "ISO"
 msgstr ""
 
 #: public/admin/themes/default/localization/countries.html:1188
-
 msgid "No country to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/media/media-popup.html:15
-
 msgid "Vvveb - Media popup"
 msgstr "Vvveb – Beitrag bearbeiten"
 
 #: public/admin/themes/default/media/media.html:15
-
 msgid "Vvveb - Media"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/field/field.html:15
 #: public/admin/themes/default/field/fields.html:15
-
 msgid "Vvveb - Field"
 msgstr "Vvveb - Anmelden"
 
@@ -25325,7 +25440,6 @@ msgid "Save field"
 msgstr ""
 
 #: public/admin/themes/default/field/field-group.html:15
-
 msgid "Vvveb - fields"
 msgstr "Vvveb - Anmelden"
 
@@ -25335,23 +25449,19 @@ msgid "Field groups"
 msgstr ""
 
 #: public/admin/themes/default/field/field-group.html:981
-
 msgid "Add field"
 msgstr "Widget hinzufügen"
 
 #: public/admin/themes/default/field/field-groups.html:15
-
 msgid "Vvveb - Field groups"
 msgstr "Vvveb - Produkte"
 
 #: public/admin/themes/default/field/field-groups.html:981
 #: public/admin/themes/default/content/fields.html:992
-
 msgid "Add field group"
 msgstr "Neues Produkt hinzufügen"
 
 #: public/admin/themes/default/field/field-groups.html:1283
-
 msgid "No field_groups to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -25361,18 +25471,15 @@ msgid "Recover password"
 msgstr ""
 
 #: public/admin/themes/default/user/user.html:977
-
 msgid "User list"
 msgstr "Benutzer"
 
 #: public/admin/themes/default/user/user.html:1067
 #: public/themes/landing/user/profile.html:816
-
 msgid "Website"
 msgstr "Website bearbeiten"
 
 #: public/admin/themes/default/user/login.html:41
-
 msgid "Powered by Vvveb"
 msgstr "Bereitgestellt von"
 
@@ -25452,18 +25559,15 @@ msgstr ""
 
 #: public/admin/themes/default/user/reset/reset.html:101
 #: public/themes/landing/user/reset/reset.html:720
-
 msgid "New password"
 msgstr "Passwort"
 
 #: public/admin/themes/default/user/reset/reset.html:109
 #: public/themes/landing/user/reset/reset.html:728
-
 msgid "Change password"
 msgstr "Passwort"
 
 #: public/admin/themes/default/plugin/plugins.html:15
-
 msgid "Vvveb - Plugins"
 msgstr "Vvveb - Anmelden"
 
@@ -25473,14 +25577,11 @@ msgid "&nbsp; Upload plugin"
 msgstr ""
 
 #: public/admin/themes/default/plugin/plugins.html:994
-
 msgid "&nbsp; Install plugin"
 msgstr "Installierte Plugins"
 
 #: public/admin/themes/default/plugin/plugins.html:1068
-msgid ""
-"Safe mode is active and plugins are not loaded, if you have trouble with a "
-"plugin you can disable it below."
+msgid "Safe mode is active and plugins are not loaded, if you have trouble with a plugin you can disable it below."
 msgstr ""
 
 #: public/admin/themes/default/plugin/plugins.html:1079
@@ -25489,7 +25590,6 @@ msgstr ""
 
 #: public/admin/themes/default/plugin/plugins.html:1109
 #: public/resources/svg/icons/remix-icon/index.html:2769
-
 msgid "Development"
 msgstr "Entwicklerdokumentation"
 
@@ -25505,7 +25605,6 @@ msgstr ""
 #: public/admin/themes/default/plugin/plugins.html:1171
 #: public/admin/themes/default/plugin/market.html:1077
 #: public/admin/themes/default/tools/export.html:1230
-
 msgid "Plugin name"
 msgstr "Plugins"
 
@@ -25518,9 +25617,7 @@ msgstr ""
 
 #: public/admin/themes/default/plugin/plugins.html:1185
 #: public/admin/themes/default/tools/export.html:1244
-msgid ""
-"The most advanced frontend drag & drop page builder. Create high-end, pixel "
-"perfect websites at record speeds. Any theme, any page, any design."
+msgid "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design."
 msgstr ""
 
 #: public/admin/themes/default/plugin/plugins.html:1189
@@ -25606,7 +25703,6 @@ msgstr ""
 #: public/admin/themes/default/tools/export.html:1252
 #: public/resources/svg/icons/ikonate/index.html:1174
 #: public/resources/svg/icons/ikonate/index.html:1181
-
 msgid "Support"
 msgstr "Importieren"
 
@@ -25676,7 +25772,6 @@ msgstr ""
 
 #: public/admin/themes/default/plugin/plugins.html:1225
 #: public/admin/themes/default/theme/themes.html:1108
-
 msgid "Activate"
 msgstr "Privatgelände"
 
@@ -25695,12 +25790,10 @@ msgid "Vvveb - Plugins Marketplace"
 msgstr ""
 
 #: public/admin/themes/default/plugin/market/install.html:970
-
 msgid "Plugin install"
 msgstr "Plugins"
 
 #: public/admin/themes/default/plugin/market.html:1096
-
 msgid "Last Updated:"
 msgstr "Nach Datum"
 
@@ -25718,19 +25811,16 @@ msgid "with your version of Vvveb"
 msgstr ""
 
 #: public/admin/themes/default/plugin/market.html:1110
-
 msgid "Plugin details"
 msgstr "Plugins"
 
 #: public/admin/themes/default/plugin/market.html:1117
 #: public/admin/themes/default/theme/market.html:1085
-
 msgid "Downloading"
 msgstr "Downloads"
 
 #: public/admin/themes/default/plugin/market.html:1128
 #: public/admin/themes/default/theme/market.html:1096
-
 msgid "Installed"
 msgstr "Installierte Themes"
 
@@ -25756,14 +25846,12 @@ msgstr ""
 #: public/admin/themes/default/theme/themes/import.html:15
 #: public/admin/themes/default/theme/themes/install.html:15
 #: public/admin/themes/default/tools/import.html:15
-
 msgid "Vvveb - Import"
 msgstr "Vvveb - Beiträge"
 
 #: public/admin/themes/default/theme/themes/import.html:970
 #: public/admin/themes/default/theme/themes/install.html:970
 #: public/admin/themes/default/tools/import.html:971
-
 msgid " Import content"
 msgstr "CDN für statische Inhalte"
 
@@ -25790,7 +25878,6 @@ msgstr ""
 #: public/admin/themes/default/theme/themes/import.html:1073
 #: public/admin/themes/default/theme/themes/install.html:1073
 #: public/admin/themes/default/tools/import.html:1077
-
 msgid "Online import"
 msgstr "Demo-Import"
 
@@ -25810,7 +25897,6 @@ msgstr ""
 #: public/admin/themes/default/theme/themes/install.html:1082
 #: public/admin/themes/default/tools/import.html:1086
 #: public/admin/themes/default/tools/export.html:1387
-
 msgid "Website Url:"
 msgstr "Beitrags-URL"
 
@@ -25818,19 +25904,16 @@ msgstr "Beitrags-URL"
 #: public/admin/themes/default/theme/themes/install.html:1087
 #: public/admin/themes/default/tools/import.html:1091
 #: public/admin/themes/default/tools/export.html:1391
-
 msgid "Password:"
 msgstr "Passwort"
 
 #: public/admin/themes/default/theme/themes/import.html:1094
 #: public/admin/themes/default/theme/themes/install.html:1094
 #: public/admin/themes/default/tools/import.html:1098
-
 msgid "Start import"
 msgstr "Demo-Import"
 
 #: public/admin/themes/default/theme/market.html:1070
-
 msgid "Theme details"
 msgstr "Themen"
 
@@ -25839,27 +25922,22 @@ msgid "Upload theme"
 msgstr ""
 
 #: public/admin/themes/default/theme/themes.html:980
-
 msgid "Install theme"
 msgstr "Installierte Themes"
 
 #: public/admin/themes/default/theme/themes.html:1100
-
 msgid "Downloading 10%"
 msgstr "Downloads"
 
 #: public/admin/themes/default/theme/themes.html:1103
-
 msgid "Installing"
 msgstr "Installierte Plugins"
 
 #: public/admin/themes/default/theme/themes.html:1121
-
 msgid "Edit theme"
 msgstr "Website bearbeiten"
 
 #: public/admin/themes/default/theme/themes.html:1277
-
 msgid "Install resources"
 msgstr "Installierte Themes"
 
@@ -25877,28 +25955,23 @@ msgstr ""
 #: public/admin/themes/default/tools/security.html:1135
 #: public/admin/themes/default/tools/export.html:1129
 #: public/resources/svg/icons/remix-icon/index.html:9101
-
 msgid "Media"
 msgstr "Mittel"
 
 #: public/admin/themes/default/theme/themes.html:1320
-
 msgid "Required Plugins"
 msgstr "Erforderlich"
 
 #: public/admin/themes/default/theme/themes.html:1353
-
 msgid "Recommended Plugins"
 msgstr "Installierte Plugins"
 
 #: public/admin/themes/default/theme/themes.html:1395
-
 msgid "Install theme resources"
 msgstr "Installierte Themes"
 
 #: public/admin/themes/default/content/menus.html:15
 #: public/admin/themes/default/content/menus/menu.html:15
-
 msgid "Vvveb - Menus"
 msgstr "Vvveb - Anmelden"
 
@@ -25909,18 +25982,15 @@ msgid "Menus"
 msgstr "Menüs"
 
 #: public/admin/themes/default/content/menus.html:992
-
 msgid "Add menu"
 msgstr "Neue hinzufügen"
 
 #: public/admin/themes/default/content/menus.html:1240
-
 msgid "No menus to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/content/comments.html:15
 #: public/themes/landing/user/comments.html:10
-
 msgid "Vvveb - Comments"
 msgstr "Vvveb - Beiträge"
 
@@ -25955,7 +26025,6 @@ msgstr "Vvveb – Beitrag bearbeiten"
 #: public/themes/blog-default/content/tag.html:96
 #: public/themes/blog-default/content/post-image-header.html:101
 #: admin/controller/settings/taxonomy.php:39
-
 msgid "Post"
 msgstr "Beiträge"
 
@@ -25988,13 +26057,11 @@ msgstr ""
 
 #: public/admin/themes/default/content/post.html:1137
 #: public/admin/themes/default/content/page.html:1137
-
 msgid "(optional)"
 msgstr "Optionswert"
 
 #: public/admin/themes/default/content/post.html:1193
 #: public/admin/themes/default/content/page.html:1193
-
 msgid "options"
 msgstr "Optionen"
 
@@ -26005,7 +26072,6 @@ msgstr "Datum der Veröffentlichung"
 
 #: public/admin/themes/default/content/post.html:1215
 #: public/admin/themes/default/content/page.html:1215
-
 msgid "Password protected"
 msgstr "Passwort"
 
@@ -26014,22 +26080,18 @@ msgstr "Passwort"
 #: public/admin/themes/default/content/menus/menu.html:1353
 #: public/admin/themes/default/content/menu_template.html:26
 #: public/resources/svg/icons/ikonate/index.html:802
-
 msgid "Link"
 msgstr "Links"
 
 #: public/admin/themes/default/content/tags.html:15
-
 msgid "Vvveb - tags"
 msgstr "Vvveb - Beiträge"
 
 #: public/admin/themes/default/content/tags.html:981
-
 msgid "Add tag"
 msgstr "In den Warenkorb legen"
 
 #: public/admin/themes/default/content/tags.html:1285
-
 msgid "No tags to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -26059,19 +26121,16 @@ msgstr ""
 
 #: public/admin/themes/default/content/posts.html:1018
 #: public/admin/themes/default/content/pages.html:1018
-
 msgid "January 2030"
 msgstr "Januar 2021"
 
 #: public/admin/themes/default/content/posts.html:1019
 #: public/admin/themes/default/content/pages.html:1019
-
 msgid "February 2023"
 msgstr "Januar 2021"
 
 #: public/admin/themes/default/content/posts.html:1020
 #: public/admin/themes/default/content/pages.html:1020
-
 msgid "January 2023"
 msgstr "Januar 2021"
 
@@ -26194,7 +26253,6 @@ msgstr ""
 
 #: public/admin/themes/default/content/posts.html:1024
 #: public/admin/themes/default/content/pages.html:1024
-
 msgid "January 2013"
 msgstr "Januar 2021"
 
@@ -26205,7 +26263,6 @@ msgstr ""
 
 #: public/admin/themes/default/content/posts.html:1026
 #: public/admin/themes/default/content/pages.html:1026
-
 msgid "January 2012"
 msgstr "Januar 2021"
 
@@ -26216,13 +26273,11 @@ msgstr ""
 
 #: public/admin/themes/default/content/posts.html:1028
 #: public/admin/themes/default/content/pages.html:1028
-
 msgid "October 2010"
 msgstr "Oktober 2018"
 
 #: public/admin/themes/default/content/posts.html:1029
 #: public/admin/themes/default/content/pages.html:1029
-
 msgid "September 2010"
 msgstr "Dezember 2020"
 
@@ -26233,7 +26288,6 @@ msgstr ""
 
 #: public/admin/themes/default/content/posts.html:1031
 #: public/admin/themes/default/content/pages.html:1031
-
 msgid "July 2010"
 msgstr "Januar 2021"
 
@@ -26244,7 +26298,6 @@ msgstr ""
 
 #: public/admin/themes/default/content/posts.html:1033
 #: public/admin/themes/default/content/pages.html:1033
-
 msgid "May 2010"
 msgstr "Januar 2021"
 
@@ -26260,25 +26313,21 @@ msgstr ""
 
 #: public/admin/themes/default/content/posts.html:1036
 #: public/admin/themes/default/content/pages.html:1036
-
 msgid "February 2010"
 msgstr "Januar 2021"
 
 #: public/admin/themes/default/content/posts.html:1037
 #: public/admin/themes/default/content/pages.html:1037
-
 msgid "January 2010"
 msgstr "Januar 2021"
 
 #: public/admin/themes/default/content/posts.html:1038
 #: public/admin/themes/default/content/pages.html:1038
-
 msgid "October 2009"
 msgstr "Oktober 2018"
 
 #: public/admin/themes/default/content/posts.html:1039
 #: public/admin/themes/default/content/pages.html:1039
-
 msgid "September 2009"
 msgstr "Dezember 2020"
 
@@ -26304,13 +26353,11 @@ msgstr ""
 
 #: public/admin/themes/default/content/posts.html:1206
 #: public/admin/themes/default/content/pages.html:1206
-
 msgid "Post name"
 msgstr "Nach Datum"
 
 #: public/admin/themes/default/content/posts.html:1286
 #: public/admin/themes/default/content/pages.html:1286
-
 msgid "s to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
@@ -26319,7 +26366,6 @@ msgid "Field Groups"
 msgstr ""
 
 #: public/admin/themes/default/content/taxonomy.html:15
-
 msgid "Vvveb - Edit taxonomy"
 msgstr "Vvveb – Beitrag bearbeiten"
 
@@ -26328,27 +26374,22 @@ msgid "type"
 msgstr ""
 
 #: public/admin/themes/default/content/taxonomy.html:1097
-
 msgid "categories"
 msgstr "Kategorien"
 
 #: public/admin/themes/default/content/taxonomy.html:1129
-
 msgid "No taxonomy to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/admin/themes/default/content/comment.html:15
-
 msgid "Vvveb - Comment"
 msgstr "Vvveb - Anmelden"
 
 #: public/admin/themes/default/content/comment.html:978
-
 msgid "Comment list"
 msgstr "Kommentare"
 
 #: public/admin/themes/default/content/tag.html:15
-
 msgid "Vvveb - Tag"
 msgstr "Vvveb - Anmelden"
 
@@ -26371,7 +26412,6 @@ msgstr "Vvveb - Anmelden"
 #: public/themes/blog-default/content/post-image-header.html:116
 #: public/resources/svg/icons/ikonate/index.html:1219
 #: public/resources/svg/icons/ikonate/index.html:1223
-
 msgid "Tag"
 msgstr "Stichworte"
 
@@ -26384,7 +26424,6 @@ msgid "Save tag"
 msgstr ""
 
 #: public/admin/themes/default/tools/systeminfo.html:15
-
 msgid "Vvveb - System info"
 msgstr "Systeminformationen"
 
@@ -26432,7 +26471,6 @@ msgid "GD 7.4.18"
 msgstr ""
 
 #: public/admin/themes/default/tools/security.html:15
-
 msgid "Vvveb - Security"
 msgstr "Sicherheit"
 
@@ -26445,7 +26483,6 @@ msgid "Integrity check"
 msgstr ""
 
 #: public/admin/themes/default/tools/security.html:1002
-
 msgid "Core files"
 msgstr "leere Akte"
 
@@ -26456,7 +26493,6 @@ msgstr "leere Akte"
 #: public/admin/themes/default/tools/update.html:1106
 #: public/admin/themes/default/tools/update.html:1159
 #: public/admin/themes/default/tools/update.html:1213
-
 msgid "Check now"
 msgstr "Kontrollkästchen"
 
@@ -26529,7 +26565,6 @@ msgid "Last run log"
 msgstr ""
 
 #: public/admin/themes/default/tools/cron.html:15
-
 msgid "Vvveb - Cron"
 msgstr "Vvveb - Anmelden"
 
@@ -26546,19 +26581,14 @@ msgid "Activated by site traffic on page load."
 msgstr ""
 
 #: public/admin/themes/default/tools/cron.html:1068
-
 msgid "Manual configuration"
 msgstr "Konfiguration"
 
 #: public/admin/themes/default/tools/cron.html:1076
-msgid ""
-"You need to run the following command every hour, if you don't have access "
-"then you need to call the url bellow every hour. For more info on how to "
-"configure cron jobs please read"
+msgid "You need to run the following command every hour, if you don't have access then you need to call the url bellow every hour. For more info on how to configure cron jobs please read"
 msgstr ""
 
 #: public/admin/themes/default/tools/cron.html:1076
-
 msgid "Cron Documentation"
 msgstr "Benutzerdokumentation"
 
@@ -26567,12 +26597,10 @@ msgid "Manual call"
 msgstr ""
 
 #: public/admin/themes/default/tools/cron.html:1082
-
 msgid "CLI option"
 msgstr "Standort"
 
 #: public/admin/themes/default/tools/cron.html:1085
-
 msgid "Command"
 msgstr "Kommentar"
 
@@ -26581,7 +26609,6 @@ msgid "Web url"
 msgstr ""
 
 #: public/admin/themes/default/tools/cron.html:1095
-
 msgid "URL"
 msgstr "SEO-URL"
 
@@ -26590,8 +26617,7 @@ msgid "not recommended"
 msgstr ""
 
 #: public/admin/themes/default/tools/cron.html:1118
-msgid ""
-"Some functions that depend on background services may not work properly."
+msgid "Some functions that depend on background services may not work properly."
 msgstr ""
 
 #: public/admin/themes/default/tools/import.html:980
@@ -26599,17 +26625,14 @@ msgid "Upload file"
 msgstr ""
 
 #: public/admin/themes/default/tools/errorlog.html:15
-
 msgid "Vvveb - Error log"
 msgstr "Fehlerprotokoll"
 
 #: public/admin/themes/default/tools/errorlog.html:1026
-
 msgid "Error log:"
 msgstr "Fehlerprotokoll"
 
 #: public/admin/themes/default/tools/errorlog.html:1027
-
 msgid "is readable"
 msgstr "Abgeschaltet"
 
@@ -26626,17 +26649,14 @@ msgid "lines"
 msgstr ""
 
 #: public/admin/themes/default/tools/errorlog.html:1035
-
 msgid "Clear log"
 msgstr "Klar"
 
 #: public/admin/themes/default/tools/errorlog.html:1039
-
 msgid "Download log"
 msgstr "Downloads"
 
 #: public/admin/themes/default/tools/update.html:15
-
 msgid "Vvveb - Updates"
 msgstr "Vvveb - Beiträge"
 
@@ -26646,7 +26666,6 @@ msgstr ""
 
 #: public/admin/themes/default/tools/update.html:1046
 #: public/admin/themes/default/tools/backup.html:1056
-
 msgid "Processing ..."
 msgstr "Wird geladen ..."
 
@@ -26655,12 +26674,10 @@ msgid "Core"
 msgstr ""
 
 #: public/admin/themes/default/tools/update.html:1068
-
 msgid "Current version"
 msgstr "Währungen"
 
 #: public/admin/themes/default/tools/update.html:1077
-
 msgid "Lastest version"
 msgstr "Letzte Bestellungen"
 
@@ -26670,7 +26687,6 @@ msgstr ""
 
 #: public/admin/themes/default/tools/update.html:1127
 #: public/admin/themes/default/tools/update.html:1182
-
 msgid "Updates available"
 msgstr ""
 "Datum\n"
@@ -26688,30 +26704,25 @@ msgstr ""
 
 #: public/admin/themes/default/tools/update.html:1139
 #: public/admin/themes/default/tools/update.html:1194
-
 msgid "Total plugins:"
 msgstr "Test-Plugin"
 
 #: public/admin/themes/default/tools/update.html:1139
 #: public/admin/themes/default/tools/update.html:1194
-
 msgid "40"
 msgstr "0"
 
 #: public/admin/themes/default/tools/backup.html:15
-
 msgid "Vvveb - Backup"
 msgstr "Vvveb – Dashboard"
 
 #: public/admin/themes/default/tools/backup.html:980
 #: public/admin/themes/default/tools/backup.html:1127
-
 msgid "Backing up"
 msgstr "Sicherung"
 
 #: public/admin/themes/default/tools/backup.html:985
 #: public/admin/themes/default/tools/backup.html:1132
-
 msgid "Backup now"
 msgstr "Sicherung"
 
@@ -26781,7 +26792,6 @@ msgstr ""
 #: public/admin/themes/default/tools/backup.html:1089
 #: public/themes/themes-child/product/product.html:67
 #: public/resources/svg/icons/ikonate/index.html:558
-
 msgid "Download"
 msgstr "Downloads"
 
@@ -26848,7 +26858,6 @@ msgid "Never"
 msgstr ""
 
 #: public/admin/themes/default/tools/cache.html:15
-
 msgid "Vvveb - Cache"
 msgstr "Vvveb – Dashboard"
 
@@ -26865,7 +26874,6 @@ msgid "Frontend assets cache"
 msgstr ""
 
 #: public/admin/themes/default/tools/cache.html:1074 admin/admin-bar.php:127
-
 msgid "Compiled templates"
 msgstr "minimale Blog-Vorlage"
 
@@ -26874,23 +26882,19 @@ msgid "Full page cache"
 msgstr ""
 
 #: public/admin/themes/default/tools/export.html:15
-
 msgid "Vvveb - Export"
 msgstr "Vvveb – Beitrag bearbeiten"
 
 #: public/admin/themes/default/tools/export.html:971
 #: public/admin/themes/default/tools/export.html:978
-
 msgid "Export data"
 msgstr "Export"
 
 #: public/admin/themes/default/tools/export.html:1002
-
 msgid "Toggle all"
 msgstr "Primär umschalten"
 
 #: public/admin/themes/default/tools/export.html:1131
-
 msgid "1000"
 msgstr "&#10006;"
 
@@ -26899,10 +26903,7 @@ msgid "Online export"
 msgstr ""
 
 #: public/admin/themes/default/tools/export.html:1374
-msgid ""
-"Enable this option if you want to transfer the contents of this website to "
-"another Vvveb website, you can use the url and password bellow in the import "
-"section on the Vvveb website where you want to transfer content"
+msgid "Enable this option if you want to transfer the contents of this website to another Vvveb website, you can use the url and password bellow in the import section on the Vvveb website where you want to transfer content"
 msgstr ""
 
 #: public/admin/themes/default/tools/export.html:1376
@@ -27084,19 +27085,16 @@ msgstr ""
 #: public/themes/themes-child/content/index.html:112
 #: public/themes/themes-child/content/category.html:111
 #: public/themes/themes-child/content/post.html:112
-
 msgid "Post Title"
 msgstr "Nach Datum"
 
 #: public/themes/docs-child/content/category.html:120
 #: public/themes/themes-child/content/category.html:119
-
 msgid "No posts in this category!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/themes/landing/index.html:10
 #: public/themes/landing/index-landing.html:10
-
 msgid "Vvveb Landing - Homepage"
 msgstr "Canvas - Startseite"
 
@@ -27549,7 +27547,6 @@ msgstr "Entwicklerdokumentation"
 #: public/themes/blog-default/content/post-image-hero.html:164
 #: public/themes/blog-default/content/tag.html:159
 #: public/themes/blog-default/content/post-image-header.html:164
-
 msgid "About us"
 msgstr "Um"
 
@@ -28432,7 +28429,6 @@ msgstr ""
 #: public/themes/landing/checkout/checkout.html:1091
 #: public/themes/landing/checkout/confirm.html:543
 #: public/themes/landing/index.maintenance.html:542
-
 msgid "No products added yet!"
 msgstr "Keine Produkte gefunden!"
 
@@ -28479,7 +28475,6 @@ msgstr "Keine Produkte gefunden!"
 #: public/themes/landing/checkout/checkout.html:598
 #: public/themes/landing/checkout/confirm.html:599
 #: public/themes/landing/index.maintenance.html:598
-
 msgid "View cart"
 msgstr "Sicht"
 
@@ -28525,14 +28520,12 @@ msgstr ""
 #: public/themes/landing/index.html:544
 #: public/themes/landing/sections/hero.html:227
 #: public/themes/landing/sections/hero/hero-3.html:9
-
 msgid "Powerful and easy to use drag and drop website builder for blogs,"
 msgstr "Leistungsstarker und benutzerfreundlicher Drag-and-Drop-Builder"
 
 #: public/themes/landing/index.html:545
 #: public/themes/landing/sections/hero.html:228
 #: public/themes/landing/sections/hero/hero-3.html:10
-
 msgid "presentation or ecommerce stores."
 msgstr "für Blogs, Websites oder E-Commerce-Shops."
 
@@ -28543,7 +28536,6 @@ msgstr "für Blogs, Websites oder E-Commerce-Shops."
 #: public/themes/landing/sections/hero/hero-4.html:10
 #: public/themes/landing/sections/hero/hero-3.html:14
 #: public/themes/landing/sections/hero/hero-2.html:10
-
 msgid "Free Download"
 msgstr "Kostenfreier Download"
 
@@ -28552,7 +28544,6 @@ msgstr "Kostenfreier Download"
 #: public/themes/landing/sections/hero.html:233
 #: public/themes/landing/sections/hero/hero-3.html:15
 #: public/themes/landing/sections/hero/hero-2.html:11
-
 msgid "Live Demo"
 msgstr "Live-Demo"
 
@@ -28567,7 +28558,6 @@ msgstr "Live-Demo"
 #: public/themes/landing/sections/image-gallery.html:197
 #: public/themes/landing/sections/map.html:197
 #: public/themes/landing/index-landing.html:307
-
 msgid "Better Security"
 msgstr "Sicherheit"
 
@@ -28619,10 +28609,7 @@ msgstr "Sicherheit"
 #: public/themes/landing/sections/map.html:329
 #: public/themes/landing/sections/map.html:403
 #: public/themes/landing/sections/map.html:477
-
-msgid ""
-"Vvveb is 100% safe against sql injections, a vulerability that affects most "
-"CMSs."
+msgid "Vvveb is 100% safe against sql injections, a vulerability that affects most CMSs."
 msgstr "Vvveb ist 100 % sicher gegen SQL-Injektionen"
 
 #: public/themes/landing/index.html:604
@@ -28686,14 +28673,12 @@ msgstr ""
 #: public/themes/landing/sections/map.html:341
 #: public/themes/landing/sections/map.html:420
 #: public/themes/landing/sections/map.html:494
-
 msgid "Vvveb uses only html for templating for maximum flexibility."
 msgstr "Für maximale Flexibilität verwendet Vvveb einfaches HTML als Vorlage"
 
 #: public/themes/landing/index.html:646
 #: public/themes/landing/sections/features/features-1.html:7
 #: public/themes/landing/sections/features.html:146
-
 msgid "new"
 msgstr "Neue hinzufügen"
 
@@ -28786,9 +28771,7 @@ msgstr ""
 #: public/themes/landing/index.html:666
 #: public/themes/landing/sections/features/features-1.html:27
 #: public/themes/landing/sections/features.html:166
-msgid ""
-"Intuitive building with simple drag and drop for sections, components and "
-"blocks"
+msgid "Intuitive building with simple drag and drop for sections, components and blocks"
 msgstr ""
 
 #: public/themes/landing/index.html:684
@@ -28875,7 +28858,6 @@ msgstr ""
 #: public/themes/landing/sections/team/team-2.html:98
 #: public/themes/landing/sections/team/team-6.html:45
 #: public/themes/landing/sections/team/team-6.html:111
-
 msgid "Jane Doe"
 msgstr "John Doe"
 
@@ -29040,7 +29022,6 @@ msgstr ""
 #: public/themes/landing/sections/contact-form/contact-form-4.html:6
 #: public/themes/landing/sections/contact-form/contact-form-6.html:14
 #: public/themes/landing/sections/contact-form/contact-form-1.html:9
-
 msgid "Contact Us"
 msgstr "Kontakt"
 
@@ -30030,7 +30011,6 @@ msgstr "Nach Datum"
 #: public/themes/blog-default/content/post-image-hero.html:394
 #: public/themes/blog-default/content/tag.html:419
 #: public/themes/blog-default/content/post-image-header.html:393
-
 msgid "0 Comments"
 msgstr "Kommentare"
 
@@ -30098,7 +30078,6 @@ msgstr "Um"
 #: public/themes/blog-default/content/post.html:841
 #: public/themes/blog-default/content/archive.html:628
 #: public/themes/blog-default/content/tag.html:624
-
 msgid "Recent posts"
 msgstr "Neuere Beiträge"
 
@@ -30119,7 +30098,6 @@ msgstr "Neuere Beiträge"
 #: public/themes/blog-default/content/post.html:862
 #: public/themes/blog-default/content/archive.html:649
 #: public/themes/blog-default/content/tag.html:645
-
 msgid "Recent comments"
 msgstr "Neue Kommentare"
 
@@ -30181,7 +30159,6 @@ msgstr ""
 #: public/themes/blog-default/content/post.html:888
 #: public/themes/blog-default/content/archive.html:675
 #: public/themes/blog-default/content/tag.html:671
-
 msgid "Web Design"
 msgstr "Design"
 
@@ -30230,7 +30207,6 @@ msgstr ""
 #: public/themes/blog-default/content/post.html:894
 #: public/themes/blog-default/content/archive.html:681
 #: public/themes/blog-default/content/tag.html:677
-
 msgid "Freebies"
 msgstr "Frei"
 
@@ -30288,7 +30264,6 @@ msgstr "Archiv"
 #: public/themes/blog-default/content/post.html:935
 #: public/themes/blog-default/content/archive.html:722
 #: public/themes/blog-default/content/tag.html:718
-
 msgid "Popular tags"
 msgstr "Beliebt"
 
@@ -30309,7 +30284,6 @@ msgstr "Beliebt"
 #: public/themes/blog-default/content/post.html:963
 #: public/themes/blog-default/content/archive.html:750
 #: public/themes/blog-default/content/tag.html:746
-
 msgid "Select month"
 msgstr "Wählen"
 
@@ -30338,7 +30312,6 @@ msgstr ""
 #: public/themes/landing/product/category.html:707
 #: public/themes/landing/product/vendor.html:707
 #: public/themes/landing/product/manufacturer.html:707
-
 msgid "Color"
 msgstr "Colorlib"
 
@@ -30358,7 +30331,6 @@ msgstr "Colorlib"
 #: public/themes/landing/blank.html:660
 #: public/themes/landing/content/page.html:658
 #: public/themes/landing/content/page.html:660
-
 msgid "Library"
 msgstr "Medienbibliothek"
 
@@ -30404,18 +30376,15 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:798
 #: public/themes/landing/product/manufacturer.html:798
 #: public/themes/themes-child/index.html:117
-
 msgid "Popularity"
 msgstr "Beliebt"
 
 #: public/themes/landing/product/category.html:754
-
 msgid "Category name"
 msgstr "Kategorien"
 
 #: public/themes/landing/product/product.html:10
 #: public/themes/landing/product/product (copy 1).html:11
-
 msgid "Landing - Product"
 msgstr " Produkt"
 
@@ -30428,23 +30397,19 @@ msgstr ""
 #: public/themes/landing/product/product.html:712
 #: public/themes/landing/product/product.html:719
 #: public/themes/landing/product/product (copy 1).html:711
-
 msgid "mango"
 msgstr "Mango"
 
 #: public/themes/landing/product/product.html:724
-
 msgid "Availability"
 msgstr "Sichtbarkeit"
 
 #: public/themes/landing/product/product.html:725
-
 msgid "In stock"
 msgstr "Aktie"
 
 #: public/themes/landing/product/product.html:738
 #: public/themes/landing/product/product (copy 1).html:725
-
 msgid "(30 reviews)"
 msgstr "Gesamtbewertungen"
 
@@ -30465,7 +30430,6 @@ msgstr ""
 
 #: public/themes/landing/product/product.html:802
 #: public/themes/landing/product/product (copy 1).html:789
-
 msgid "Buy now"
 msgstr "Kaufe jetzt"
 
@@ -30476,7 +30440,6 @@ msgstr ""
 
 #: public/themes/landing/product/product.html:838
 #: public/themes/landing/product/product (copy 1).html:825
-
 msgid "Questions & Answers"
 msgstr "Fragen"
 
@@ -30525,33 +30488,28 @@ msgstr ""
 #: public/themes/blog-default/content/post.html:772
 #: public/themes/blog-default/content/post-image-hero.html:772
 #: public/themes/blog-default/content/post-image-header.html:771
-
 msgid "Email address"
 msgstr "E-Mail-Addresse"
 
 #: public/themes/landing/product/product.html:936
 #: public/themes/landing/product/product.html:1031
 #: public/themes/landing/product/product (copy 1).html:923 1).html:1018
-
 msgid "Post review"
 msgstr "Gesamtbewertungen"
 
 #: public/themes/landing/product/product.html:1044
 #: public/themes/landing/product/product (copy 1).html:1031
-
 msgid "Related products"
 msgstr "Verwandte Produkte"
 
 #: public/themes/landing/product/vendor.html:754
 #: public/themes/landing/product/manufacturer.html:754
-
 msgid "Manufacturer name"
 msgstr "Hersteller"
 
 #: admin/admin-bar.php:92
 msgid "Forums"
 msgstr ""
-
 
 msgid "Contribute"
 msgstr "Attribut"
@@ -30610,7 +30568,6 @@ msgid "Frontend"
 msgstr "Frontend"
 
 #: public/themes/landing/index-landing.html:250
-
 msgid "Admin dashboard"
 msgstr "Armaturenbrett"
 
@@ -30630,7 +30587,6 @@ msgid "Landing - Cart"
 msgstr ""
 
 #: public/themes/landing/index.coming-soon.html:642
-
 msgid "Comming soon!"
 msgstr "Demnächst"
 
@@ -30739,7 +30695,6 @@ msgstr "Unbegrenzte Theme-Flexibilität"
 #: public/themes/landing/sections/image-gallery.html:418
 #: public/themes/landing/sections/map.html:339
 #: public/themes/landing/sections/map.html:418
-
 msgid "Unlimited flexibility"
 msgstr "Unbegrenzte Theme-Flexibilität"
 
@@ -30767,7 +30722,6 @@ msgstr "Unbegrenzte Theme-Flexibilität"
 #: public/themes/landing/sections/features.html:688
 #: public/themes/landing/sections/features.html:726
 #: public/themes/landing/sections/features.html:769
-
 msgid "Drag and drop"
 msgstr "Drag-and-Drop-Builder"
 
@@ -30785,7 +30739,6 @@ msgstr "Drag-and-Drop-Builder"
 #: public/themes/landing/sections/features.html:700
 #: public/themes/landing/sections/features.html:738
 #: public/themes/landing/sections/features.html:779
-
 msgid "Live code editor"
 msgstr "Live-Demo"
 
@@ -30804,7 +30757,6 @@ msgstr ""
 #: public/themes/landing/sections/features/features-10.html:41
 #: public/themes/landing/sections/features.html:751
 #: public/themes/landing/sections/features.html:789
-
 msgid "Bootstrap 5 Components"
 msgstr "Gesamtzahl der Kommentare"
 
@@ -30836,7 +30788,6 @@ msgstr ""
 #: public/themes/landing/sections/features.html:236
 #: public/themes/landing/sections/features.html:329
 #: public/themes/landing/sections/features.html:381
-
 msgid "Live code edit"
 msgstr "Live-Demo"
 
@@ -30847,7 +30798,6 @@ msgstr ""
 
 #: public/themes/landing/sections/features/features-5.html:10
 #: public/themes/landing/sections/features.html:370
-
 msgid "Open Source CMS Reinvented"
 msgstr "Open-Source-CMS"
 
@@ -30906,7 +30856,6 @@ msgstr ""
 #: public/themes/landing/sections/team.html:1034
 #: public/themes/landing/sections/team/team-1.html:147
 #: public/themes/landing/sections/team/team-6.html:79
-
 msgid "CMO - Operations"
 msgstr "Optionen"
 
@@ -30952,13 +30901,11 @@ msgstr ""
 #: public/themes/landing/sections/contact-form.html:276
 #: public/themes/landing/sections/contact-form/contact-form-3.html:31
 #: public/themes/landing/sections/contact-form/contact-form-2.html:36
-
 msgid "How can we help?"
 msgstr "Wie wir helfen"
 
 #: public/themes/landing/sections/contact-form.html:262
 #: public/themes/landing/sections/contact-form/contact-form-3.html:17
-
 msgid "Your Email Address"
 msgstr "E-Mail-Addresse"
 
@@ -30986,7 +30933,6 @@ msgstr ""
 
 #: public/themes/landing/sections/contact-form.html:364
 #: public/themes/landing/sections/contact-form/contact-form-5.html:15
-
 msgid "Contact Form"
 msgstr "Kontakt Formular"
 
@@ -30994,7 +30940,6 @@ msgstr "Kontakt Formular"
 #: public/themes/landing/sections/contact-form/contact-form-5.html:31
 #: public/themes/landing/checkout/checkout.html:804
 #: public/themes/landing/checkout/checkout.html:955
-
 msgid "Email Address"
 msgstr "E-Mail-Addresse"
 
@@ -31015,7 +30960,6 @@ msgstr ""
 
 #: public/themes/landing/sections/contact-form.html:717
 #: public/themes/landing/sections/contact-form/contact-form-9.html:13
-
 msgid "Quick Contact"
 msgstr "Kontakt"
 
@@ -31026,7 +30970,6 @@ msgstr ""
 
 #: public/themes/landing/sections/contact-form.html:760
 #: public/themes/landing/sections/contact-form/contact-form-9.html:56
-
 msgid "New York"
 msgstr "Neukunde"
 
@@ -31047,7 +30990,6 @@ msgid "hello@vvveb.com"
 msgstr ""
 
 #: public/themes/landing/sections/footer/footer-3.html:75
-
 msgid ". Powered by"
 msgstr "Bereitgestellt von"
 
@@ -31064,12 +31006,10 @@ msgid "Stores"
 msgstr ""
 
 #: public/themes/landing/sections/footer/footer-2.html:50
-
 msgid "Our Blog"
 msgstr "Blog"
 
 #: public/themes/landing/sections/footer/footer-2.html:61
-
 msgid "Register"
 msgstr "Account registrieren"
 
@@ -31078,7 +31018,6 @@ msgid "Wishlist"
 msgstr ""
 
 #: public/themes/landing/sections/footer/footer-2.html:67
-
 msgid "Our Products"
 msgstr " Produkt"
 
@@ -31092,13 +31031,11 @@ msgstr ""
 #: public/themes/landing/sections/showcase.html:607
 #: public/themes/landing/sections/showcase.html:613
 #: public/themes/landing/sections/showcase.html:626
-
 msgid "Nice Heading"
 msgstr "Weiterlesen"
 
 #: public/themes/landing/sections/posts.html:260
 #: public/themes/landing/sections/posts/posts-2.html:6
-
 msgid "News sections"
 msgstr "Neue Kollektion"
 
@@ -31141,7 +31078,6 @@ msgstr ""
 
 #: public/themes/landing/sections/hero.html:288
 #: public/themes/landing/sections/hero/hero-5.html:9
-
 msgid "Download Now"
 msgstr "Downloads"
 
@@ -31177,7 +31113,6 @@ msgid "&Acirc;&pound;"
 msgstr ""
 
 #: public/themes/landing/email/order/new.html:451
-
 msgid "Order confirmation"
 msgstr "Konfiguration"
 
@@ -31187,7 +31122,6 @@ msgid "Thanks for your order on"
 msgstr ""
 
 #: public/themes/landing/email/order/new.html:476
-
 msgid "View order"
 msgstr "Gesamte Neuaufträge"
 
@@ -31218,13 +31152,11 @@ msgstr ""
 
 #: public/themes/landing/email/order/new.html:581
 #: public/themes/landing/email/order/new.txt.html:67
-
 msgid "Customer information"
 msgstr "Kundengruppe"
 
 #: public/themes/landing/email/order/new.html:652
 #: public/themes/landing/email/order/new.txt.html:103
-
 msgid "Shipping method"
 msgstr "Versand"
 
@@ -31245,9 +31177,7 @@ msgstr ""
 
 #: public/themes/landing/email/order/new.html:672
 #: public/themes/landing/email/order/new.txt.html:116
-msgid ""
-"If you have any questions about this order, simply reply to this email or "
-"contact us on"
+msgid "If you have any questions about this order, simply reply to this email or contact us on"
 msgstr ""
 
 #: public/themes/landing/email/order/new.html:673
@@ -31276,7 +31206,6 @@ msgid "Order information"
 msgstr ""
 
 #: public/themes/landing/email/user/signup.html:10
-
 msgid "New account"
 msgstr "Neue Kommentare"
 
@@ -31284,7 +31213,6 @@ msgstr "Neue Kommentare"
 #: public/themes/landing/email/user/signup.html:470
 #: public/themes/landing/email/user/signup.txt.html:9
 #: public/themes/landing/email/user/signup.txt.html:15
-
 msgid "Welcome to"
 msgstr "Willkommen"
 
@@ -31294,7 +31222,6 @@ msgid "This email confirms the creation of your account."
 msgstr ""
 
 #: public/themes/landing/email/user/signup.html:483 system/functions.php:803
-
 msgid "User dashboard"
 msgstr "Armaturenbrett"
 
@@ -31309,19 +31236,15 @@ msgstr ""
 
 #: public/themes/landing/error500.html:647
 #: public/themes/blog-default/error500.html:376
-msgid ""
-"The site is experiencing some dificulties, please try again, if the problem "
-"still persists please contact support."
+msgid "The site is experiencing some dificulties, please try again, if the problem still persists please contact support."
 msgstr ""
 
 #: public/themes/landing/contact.html:10
-
 msgid "Vvveb - Contact form"
 msgstr "Kontakt Formular"
 
 #: public/themes/landing/contact.html:642
 #: public/themes/blog-default/contact.html:355
-
 msgid "Contact us"
 msgstr "Kontakt"
 
@@ -31336,7 +31259,6 @@ msgid "community forum"
 msgstr ""
 
 #: public/themes/landing/index-blog.html:10
-
 msgid "Vvveb Landing - Blog"
 msgstr "Vvveb-Blog"
 
@@ -31346,7 +31268,6 @@ msgid "Cart"
 msgstr ""
 
 #: public/themes/landing/cart/cart.html:748
-
 msgid "No products!"
 msgstr "Keine Produkte gefunden!"
 
@@ -31356,14 +31277,12 @@ msgid "Apply"
 msgstr ""
 
 #: public/themes/landing/cart/cart.html:831
-
 msgid "No products to display in the cart!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/themes/landing/cart/cart.html:834
 #: public/themes/landing/checkout/order.html:706
 #: public/themes/landing/checkout/confirm.html:718
-
 msgid "Continue shopping"
 msgstr "Weiterlesen"
 
@@ -31392,7 +31311,6 @@ msgstr ""
 #: public/themes/landing/user/downloads.html:653
 #: public/themes/landing/user/profile.html:653
 #: public/themes/landing/user/orders.html:653
-
 msgid "Your Orders"
 msgstr "Sortierreihenfolge"
 
@@ -31409,7 +31327,6 @@ msgstr ""
 
 #: public/themes/landing/user/order.html:773
 #: public/themes/landing/user/orders.html:773
-
 msgid "Order id"
 msgstr "Aufträge"
 
@@ -31419,18 +31336,14 @@ msgid "Client"
 msgstr ""
 
 #: public/themes/landing/user/index.html:10
-
 msgid "Vvveb - User dashboard"
 msgstr "Vvveb – Dashboard"
 
 #: public/themes/landing/user/index.html:775
-msgid ""
-"This is your user dashboard, you can view or manage your content or profile "
-"from the sidebar menu."
+msgid "This is your user dashboard, you can view or manage your content or profile from the sidebar menu."
 msgstr ""
 
 #: public/themes/landing/user/address/edit.html:10
-
 msgid "Vvveb - Address edit"
 msgstr "Vvveb - Produkte"
 
@@ -31445,41 +31358,33 @@ msgid "Address list"
 msgstr ""
 
 #: public/themes/landing/user/address/edit.html:859
-
 msgid "Save address"
 msgstr "Datum hinzugefügt"
 
 #: public/themes/landing/user/address.html:10
 #: public/themes/landing/user/downloads.html:10
-
 msgid "Vvveb - Downloads"
 msgstr "Vvveb – Dashboard"
 
 #: public/themes/landing/user/address.html:767
-
 msgid "Addresses"
 msgstr "E-Mail-Addresse"
 
 #: public/themes/landing/user/address.html:800
-
 msgid "No addresses to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/themes/landing/user/reset.html:10
 #: public/themes/landing/user/reset/reset.html:10
-
 msgid "Vvveb - Password recover"
 msgstr "Vvveb – Dashboard"
 
 #: public/themes/landing/user/reset.html:651
-
 msgid "Reset account password"
 msgstr "Haben Sie Ihr Passwort vergessen?"
 
 #: public/themes/landing/user/reset.html:653
-msgid ""
-"Enter your account email and we will send you a reset link to change your "
-"password."
+msgid "Enter your account email and we will send you a reset link to change your password."
 msgstr ""
 
 #: public/themes/landing/user/comments.html:769
@@ -31491,7 +31396,6 @@ msgid "You don't have any downloads."
 msgstr ""
 
 #: public/themes/landing/user/signup.html:10
-
 msgid "Vvveb - Signup"
 msgstr "Vvveb - Anmelden"
 
@@ -31509,7 +31413,6 @@ msgid "I agree to"
 msgstr ""
 
 #: public/themes/landing/user/signup.html:784
-
 msgid "Create Account"
 msgstr "Account registrieren"
 
@@ -31518,7 +31421,6 @@ msgid "Have an account?"
 msgstr ""
 
 #: public/themes/landing/user/profile.html:10
-
 msgid "Vvveb - Profile"
 msgstr "Vvveb - Beiträge"
 
@@ -31531,12 +31433,10 @@ msgid "Welcome back! Enter your email to get started."
 msgstr ""
 
 #: public/themes/landing/user/login.html:763
-
 msgid "Create user account"
 msgstr "Account registrieren"
 
 #: public/themes/landing/user/reset/reset.html:652
-
 msgid "Reset password"
 msgstr "Passwort"
 
@@ -31545,28 +31445,22 @@ msgid "Enter the new password for your account"
 msgstr ""
 
 #: public/themes/landing/user/edit.html:10
-
 msgid "Vvveb - User edit"
 msgstr "Vvveb – Dashboard"
 
 #: public/themes/landing/user/edit.html:652
-
 msgid "New User"
 msgstr "Neukunde"
 
 #: public/themes/landing/user/edit.html:656
-msgid ""
-"By creating an account you will be able to shop faster, be up to date on an "
-"order's status, and keep track of the orders you have previously made."
+msgid "By creating an account you will be able to shop faster, be up to date on an order's status, and keep track of the orders you have previously made."
 msgstr ""
 
 #: public/themes/landing/user/edit.html:657
-
 msgid "Continue"
 msgstr "Weiterlesen"
 
 #: public/themes/landing/user/edit.html:665
-
 msgid "Returning User"
 msgstr "Kehrt zurück"
 
@@ -31575,7 +31469,6 @@ msgid "I am a returning user"
 msgstr ""
 
 #: public/themes/landing/user/edit.html:677
-
 msgid "Recover Password"
 msgstr "Passwort"
 
@@ -31597,13 +31490,11 @@ msgstr ""
 
 #: public/themes/landing/content/user.html:10
 #: public/themes/blog-default/content/user.html:13
-
 msgid "Blog Author Page - Vvveb Default Blog Template"
 msgstr "Blog-Startseite – Vvveb-Standard-Blog-Vorlage"
 
 #: public/themes/landing/content/user.html:642
 #: public/themes/blog-default/content/user.html:355
-
 msgid "Author:"
 msgstr "Autor"
 
@@ -31613,13 +31504,11 @@ msgstr "Autor"
 #: public/themes/blog-default/content/post.html:13
 #: public/themes/blog-default/content/post-image-hero.html:13
 #: public/themes/blog-default/content/post-image-header.html:13
-
 msgid "Blog Post Page - Vvveb Default Blog Template"
 msgstr "Blog-Startseite – Vvveb-Standard-Blog-Vorlage"
 
 #: public/themes/landing/content/post.html:638
 #: public/themes/blog-default/content/post.html:356
-
 msgid "Post title"
 msgstr "Nach Datum"
 
@@ -31662,8 +31551,7 @@ msgstr ""
 #: public/themes/blog-default/content/post-image-header.html:560
 #: public/themes/blog-default/content/post-image-header.html:598
 #: public/themes/blog-default/content/post-image-header.html:638
-msgid ""
-"This is a preview, your comment will be visible after it has been approved."
+msgid "This is a preview, your comment will be visible after it has been approved."
 msgstr ""
 
 #: public/themes/landing/content/post.html:846
@@ -31672,7 +31560,6 @@ msgstr ""
 #: public/themes/blog-default/content/post.html:581
 #: public/themes/blog-default/content/post-image-hero.html:581
 #: public/themes/blog-default/content/post-image-header.html:580
-
 msgid "John doe"
 msgstr "John Doe"
 
@@ -31706,7 +31593,6 @@ msgstr ""
 #: public/themes/blog-default/content/post-image-hero.html:732
 #: public/themes/blog-default/content/post-image-header.html:717
 #: public/themes/blog-default/content/post-image-header.html:731
-
 msgid "author"
 msgstr "Autor"
 
@@ -31734,7 +31620,6 @@ msgstr ""
 #: public/themes/blog-default/content/post.html:789
 #: public/themes/blog-default/content/post-image-hero.html:789
 #: public/themes/blog-default/content/post-image-header.html:788
-
 msgid "Posting"
 msgstr "Beiträge"
 
@@ -31744,13 +31629,11 @@ msgstr "Beiträge"
 #: public/themes/blog-default/content/post.html:793
 #: public/themes/blog-default/content/post-image-hero.html:793
 #: public/themes/blog-default/content/post-image-header.html:792
-
 msgid "Post comment"
 msgstr "Gesamtzahl der Kommentare"
 
 #: public/themes/landing/content/page.html:646
 #: public/themes/blog-default/content/page.html:355
-
 msgid "Vvveb CMS"
 msgstr "Vvveb"
 
@@ -31774,7 +31657,6 @@ msgstr ""
 
 #: public/themes/landing/checkout/order.html:704
 #: public/themes/landing/checkout/confirm.html:713
-
 msgid "Your order"
 msgstr "Sortierreihenfolge"
 
@@ -31784,14 +31666,11 @@ msgstr ""
 
 #: public/themes/landing/checkout/order.html:704
 #: public/themes/landing/checkout/confirm.html:714
-
 msgid "has been placed!"
 msgstr "Bestellung aufgegeben!"
 
 #: public/themes/landing/checkout/order.html:705
-msgid ""
-"You will soon receive an email to inform you of the status of your order "
-"once it's processed."
+msgid "You will soon receive an email to inform you of the status of your order once it's processed."
 msgstr ""
 
 #: public/themes/landing/checkout/checkout.html:10
@@ -31803,17 +31682,14 @@ msgid "I already have an account"
 msgstr ""
 
 #: public/themes/landing/checkout/checkout.html:815
-
 msgid "Register account"
 msgstr "Account registrieren"
 
 #: public/themes/landing/checkout/checkout.html:822
-
 msgid "Guest checkout"
 msgstr "Kasse"
 
 #: public/themes/landing/checkout/checkout.html:857
-
 msgid "Bucharest"
 msgstr "Balkendiagramm"
 
@@ -31853,12 +31729,10 @@ msgid "Subscribe to our newsletter"
 msgstr ""
 
 #: public/themes/landing/checkout/checkout.html:1262
-
 msgid "Order Notes"
 msgstr "Ältere Beiträge"
 
 #: public/themes/landing/checkout/checkout.html:1267
-
 msgid "Place order"
 msgstr "Letzte Bestellungen"
 
@@ -31875,7 +31749,6 @@ msgid "We will keep you updated on your order status."
 msgstr ""
 
 #: public/themes/landing/index.maintenance.html:642
-
 msgid "Under maintenance!"
 msgstr "Wartung"
 
@@ -32020,7 +31893,6 @@ msgstr ""
 #: public/themes/blog-default/content/post-image-hero.html:96
 #: public/themes/blog-default/content/tag.html:91
 #: public/themes/blog-default/content/post-image-header.html:96
-
 msgid "Post image hero"
 msgstr "Autor des Beitrags"
 
@@ -32041,7 +31913,6 @@ msgstr "Autor des Beitrags"
 #: public/themes/blog-default/content/tag.html:101
 #: public/themes/blog-default/content/post-image-header.html:106
 #: admin/controller/settings/taxonomy.php:39
-
 msgid "Page"
 msgstr "Seiten"
 
@@ -32061,22 +31932,18 @@ msgstr "Seiten"
 #: public/themes/blog-default/content/post-image-hero.html:111
 #: public/themes/blog-default/content/tag.html:106
 #: public/themes/blog-default/content/post-image-header.html:111
-
 msgid "Archive"
 msgstr "Archiv"
 
 #: public/themes/blog-default/search/index.html:13
-
 msgid "Search - Vvveb Default Blog Template"
 msgstr "Blog-Startseite – Vvveb-Standard-Blog-Vorlage"
 
 #: public/themes/blog-default/error404.html:13
-
 msgid "Blog - 404 Page not found!"
 msgstr "Vvveb – Seite nicht gefunden"
 
 #: public/themes/blog-default/error404.html:355
-
 msgid "Not found"
 msgstr "Keine Einträge gefunden!"
 
@@ -32101,27 +31968,22 @@ msgid "Server error"
 msgstr ""
 
 #: public/themes/blog-default/contact.html:13
-
 msgid "Contact form - Vvveb Default Blog Template"
 msgstr "Blog-Startseite – Vvveb-Standard-Blog-Vorlage"
 
 #: public/themes/blog-default/content/category.html:13
-
 msgid "Blog Category Page - Vvveb Default Blog Template"
 msgstr "Blog-Startseite – Vvveb-Standard-Blog-Vorlage"
 
 #: public/themes/blog-default/content/page.html:13
-
 msgid "Page - Vvveb Default Blog Template"
 msgstr "Blog-Startseite – Vvveb-Standard-Blog-Vorlage"
 
 #: public/themes/blog-default/content/archive.html:13
-
 msgid "Blog Archive Page - Vvveb Default Blog Template"
 msgstr "Blog-Startseite – Vvveb-Standard-Blog-Vorlage"
 
 #: public/themes/blog-default/content/tag.html:13
-
 msgid "Blog Tag Page - Vvveb Default Blog Template"
 msgstr "Blog-Startseite – Vvveb-Standard-Blog-Vorlage"
 
@@ -32134,17 +31996,14 @@ msgid "Newest"
 msgstr "Neueste"
 
 #: public/themes/themes-child/index.html:141
-
 msgid "Blog default"
 msgstr "Standard"
 
 #: public/themes/themes-child/index.html:143
-
 msgid "vvveb"
 msgstr "Vvveb"
 
 #: public/themes/themes-child/index.html:176
-
 msgid "&lsaquo;"
 msgstr "&rsaquo;"
 
@@ -32185,24 +32044,20 @@ msgid "Repository"
 msgstr ""
 
 #: public/themes/themes-child/product/product.html:123
-
 msgid "github"
 msgstr "Github"
 
 #: public/themes/themes-child/product/product.html:137
-
 msgid "Theme Author"
 msgstr "Autor"
 
 #: public/themes/themes-child/product/product.html:142
-
 msgid "Contact author"
 msgstr "Kontakt Formular"
 
 #: public/themes/landing-child/index.html:18
 #: public/plugins/test-plugin/index.html:15
 #: plugins/test-plugin/public/index.html:15
-
 msgid "test plugin html"
 msgstr "Test-Plugin"
 
@@ -32228,14 +32083,12 @@ msgstr ""
 #: public/plugins/weight-shipping/admin/settings.html:75
 #: public/plugins/pick-up-shipping/admin/settings.html:60
 #: plugins/flat-rate-shipping/public/admin/settings.html:75
-
 msgid "Geo Zone"
 msgstr "Geozonen"
 
 #: public/plugins/weight-shipping/admin/settings.html:79
 #: public/plugins/pick-up-shipping/admin/settings.html:64
 #: plugins/flat-rate-shipping/public/admin/settings.html:79
-
 msgid "UK Shipping"
 msgstr "Versand"
 
@@ -32256,7 +32109,6 @@ msgstr "Sortierreihenfolge"
 #: public/plugins/markdown-import/admin/settings.html:16
 #: plugins/markdown-editor/public/admin/settings.html:16
 #: plugins/markdown-import/public/admin/settings.html:16
-
 msgid "Vvveb - Markdown Plugin"
 msgstr "Vvveb - Anmelden"
 
@@ -32264,7 +32116,6 @@ msgstr "Vvveb - Anmelden"
 #: public/plugins/markdown-import/admin/settings.html:40
 #: plugins/markdown-editor/public/admin/settings.html:40
 #: plugins/markdown-import/public/admin/settings.html:40
-
 msgid "Markdown plugin"
 msgstr "Abschlag"
 
@@ -32279,13 +32130,11 @@ msgstr ""
 #: public/plugins/markdown-import/admin/settings.html:59
 #: plugins/markdown-editor/public/admin/settings.html:59
 #: plugins/markdown-import/public/admin/settings.html:59
-
 msgid "&nbsp; Import"
 msgstr "&nbsp; Beitrag hinzufügen"
 
 #: public/plugins/chatgpt/admin/settings.html:16
 #: plugins/chatgpt/public/admin/settings.html:16
-
 msgid "Vvveb - ChatGPT Plugin"
 msgstr "Vvveb - Anmelden"
 
@@ -32311,13 +32160,11 @@ msgstr ""
 #: plugins/contact-form/public/admin/settings.html:47
 #: plugins/theme-market/public/admin/settings.html:46
 #: plugins/theme-market/admin/public/admin/settings.html:46
-
 msgid "&nbsp; Save settings"
 msgstr "&nbsp; Beitrag speichern"
 
 #: public/plugins/chatgpt/admin/settings.html:79
 #: plugins/chatgpt/public/admin/settings.html:79
-
 msgid "Temperature"
 msgstr "Vorlage"
 
@@ -32328,18 +32175,15 @@ msgstr ""
 
 #: public/plugins/debug/admin/settings.html:16
 #: plugins/debug/public/admin/settings.html:16
-
 msgid "Vvveb - Debug Plugin"
 msgstr "Vvveb - Anmelden"
 
 #: public/plugins/debug/admin/settings.html:41
 #: plugins/debug/public/admin/settings.html:41
-
 msgid "Debug plugin"
 msgstr "Test-Plugin"
 
 #: public/plugins/debug/debug.html:9 plugins/debug/public/debug.html:9
-
 msgid "&laquo;"
 msgstr "&rsaquo;"
 
@@ -32348,7 +32192,6 @@ msgid "Tab One"
 msgstr ""
 
 #: public/plugins/debug/debug.html:18 plugins/debug/public/debug.html:18
-
 msgid "Tab One Content"
 msgstr "Inhalt"
 
@@ -32379,7 +32222,6 @@ msgstr ""
 #: plugins/plugin-market/admin/public/admin/settings.html:16
 #: plugins/contact-form/public/admin/settings.html:16
 #: plugins/theme-market/admin/public/admin/settings.html:16
-
 msgid "Vvveb - Insert Scripts Plugin"
 msgstr "Skripte einfügen"
 
@@ -32390,7 +32232,6 @@ msgstr "Skripte einfügen"
 #: plugins/plugin-market/admin/public/admin/settings.html:41
 #: plugins/contact-form/public/admin/settings.html:41
 #: plugins/theme-market/admin/public/admin/settings.html:41
-
 msgid "Insert Scripts Plugin"
 msgstr "Skripte einfügen"
 
@@ -32401,7 +32242,6 @@ msgstr "Skripte einfügen"
 #: plugins/plugin-market/admin/public/admin/settings.html:58
 #: plugins/contact-form/public/admin/settings.html:60
 #: plugins/theme-market/admin/public/admin/settings.html:58
-
 msgid "Header scripts"
 msgstr "Skripte einfügen"
 
@@ -32412,19 +32252,16 @@ msgstr "Skripte einfügen"
 #: plugins/plugin-market/admin/public/admin/settings.html:67
 #: plugins/contact-form/public/admin/settings.html:69
 #: plugins/theme-market/admin/public/admin/settings.html:67
-
 msgid "Footer scripts"
 msgstr "Skripte einfügen"
 
 #: public/plugins/cdn/admin/settings.html:16
 #: plugins/cdn/public/admin/settings.html:16
-
 msgid "Vvveb - CDN Plugin"
 msgstr "Vvveb - Anmelden"
 
 #: public/plugins/cdn/admin/settings.html:41
 #: plugins/cdn/public/admin/settings.html:41
-
 msgid "CDN plugin"
 msgstr "Test-Plugin"
 
@@ -32432,7 +32269,6 @@ msgstr "Test-Plugin"
 #: public/plugins/theme-market/admin/settings.html:16
 #: plugins/plugin-market/public/admin/settings.html:16
 #: plugins/theme-market/public/admin/settings.html:16
-
 msgid "Vvveb - Akismet Plugin"
 msgstr "Vvveb - Anmelden"
 
@@ -32440,7 +32276,6 @@ msgstr "Vvveb - Anmelden"
 #: public/plugins/theme-market/admin/settings.html:41
 #: plugins/plugin-market/public/admin/settings.html:41
 #: plugins/theme-market/public/admin/settings.html:41
-
 msgid "Akismet plugin"
 msgstr "Test-Plugin"
 
@@ -32450,25 +32285,21 @@ msgstr ""
 
 #: public/plugins/contact-form/admin/messages.html:14
 #: plugins/contact-form/public/admin/messages.html:14
-
 msgid "Vvveb - Messages"
 msgstr "Vvveb - Beiträge"
 
 #: public/plugins/contact-form/admin/messages.html:38
 #: plugins/contact-form/public/admin/messages.html:38
-
 msgid "Messages"
 msgstr "Mitteilungen"
 
 #: public/plugins/contact-form/admin/messages.html:168
 #: plugins/contact-form/public/admin/messages.html:160
-
 msgid "No messages to display!"
 msgstr "Keine Beiträge zum Anzeigen vorhanden!"
 
 #: public/plugins/contact-form/admin/messages.html:172
 #: plugins/contact-form/public/admin/messages.html:164
-
 msgid "Add message"
 msgstr "Neue Seite hinzufügen"
 
@@ -32479,13 +32310,11 @@ msgstr ""
 
 #: public/plugins/contact-form/admin/message.html:14
 #: plugins/contact-form/public/admin/message.html:14
-
 msgid "Vvveb - Message"
 msgstr "Vvveb - Beiträge"
 
 #: public/plugins/contact-form/admin/message.html:72
 #: plugins/contact-form/public/admin/message.html:72
-
 msgid "User Meta"
 msgstr "Benutzer erstellt!"
 
@@ -32504,7 +32333,6 @@ msgstr ""
 #: plugins/pick-up-shipping/admin/public/admin/settings.html:41
 #: plugins/gravatar/public/admin/settings.html:41
 #: plugins/gravatar/admin/public/admin/settings.html:41
-
 msgid "Gravatar plugin"
 msgstr "Test-Plugin"
 
@@ -32523,7 +32351,6 @@ msgstr ""
 #: plugins/pick-up-shipping/admin/public/admin/settings.html:67
 #: plugins/gravatar/public/admin/settings.html:67
 #: plugins/gravatar/admin/public/admin/settings.html:67
-
 msgid "Maximum Rating"
 msgstr "Mindestens hinzufügen"
 
@@ -32569,7 +32396,6 @@ msgstr ""
 #: plugins/pick-up-shipping/admin/public/admin/settings.html:76
 #: plugins/gravatar/public/admin/settings.html:76
 #: plugins/gravatar/admin/public/admin/settings.html:76
-
 msgid "Default Avatar"
 msgstr "Standard"
 
@@ -32579,9 +32405,7 @@ msgstr "Standard"
 #: plugins/pick-up-shipping/admin/public/admin/settings.html:79
 #: plugins/gravatar/public/admin/settings.html:79
 #: plugins/gravatar/admin/public/admin/settings.html:79
-msgid ""
-"For users without a custom avatar of their own, you can either display a "
-"generic logo or a generated one based on their email address."
+msgid "For users without a custom avatar of their own, you can either display a generic logo or a generated one based on their email address."
 msgstr ""
 
 #: public/plugins/gravatar/admin/settings.html:87
@@ -32680,7 +32504,6 @@ msgid "Refresh page"
 msgstr "Seite neu laden"
 
 #: public/maintenance.html:60
-
 msgid "The server is currently under load, please try again later."
 msgstr "Interner Serverfehler, bitte versuchen Sie es später erneut."
 
@@ -32689,7 +32512,6 @@ msgid "Buildings"
 msgstr ""
 
 #: public/resources/svg/icons/remix-icon/index.html:1425
-
 msgid "Communication"
 msgstr "Konfiguration"
 
@@ -32698,17 +32520,14 @@ msgid "Device"
 msgstr ""
 
 #: public/resources/svg/icons/remix-icon/index.html:4005
-
 msgid "Document"
 msgstr "Kommentar"
 
 #: public/resources/svg/icons/remix-icon/index.html:5205
-
 msgid "Editor"
 msgstr "Bearbeiten"
 
 #: public/resources/svg/icons/remix-icon/index.html:5789
-
 msgid "Finance"
 msgstr "Wartung"
 
@@ -32717,7 +32536,6 @@ msgid "Health"
 msgstr ""
 
 #: public/resources/svg/icons/remix-icon/index.html:6941
-
 msgid "Logos"
 msgstr "Ausloggen"
 
@@ -32732,7 +32550,6 @@ msgstr ""
 
 #: public/resources/svg/icons/remix-icon/index.html:10817
 #: config/admin-menu.php:926
-
 msgid "System"
 msgstr "Systeminformationen"
 
@@ -32741,12 +32558,10 @@ msgid "Weather"
 msgstr ""
 
 #: public/resources/svg/icons/clarity-icons/index.html:69
-
 msgid "chart"
 msgstr "Balkendiagramm"
 
 #: public/resources/svg/icons/clarity-icons/index.html:385
-
 msgid "commerce"
 msgstr "E-Commerce"
 
@@ -32854,7 +32669,6 @@ msgid "basic elaboration"
 msgstr ""
 
 #: public/resources/svg/icons/linea/index.html:4962
-
 msgid "ecommerce"
 msgstr "E-Commerce"
 
@@ -32948,7 +32762,6 @@ msgid "Arrow Up"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:217
-
 msgid "Back"
 msgstr "Sicherung"
 
@@ -33002,7 +32815,6 @@ msgid "Bin"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:274
-
 msgid "Bluetooth"
 msgstr "Blau"
 
@@ -33032,7 +32844,6 @@ msgid "Bug"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:308
-
 msgid "Add to calendar"
 msgstr "In den Warenkorb legen"
 
@@ -33061,7 +32872,6 @@ msgid "Cards"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:356
-
 msgid "Add do cart"
 msgstr "In den Warenkorb legen"
 
@@ -33074,7 +32884,6 @@ msgid "Chart"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:377
-
 msgid "New chat"
 msgstr "Liniendiagramm"
 
@@ -33084,7 +32893,6 @@ msgid "Chat"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:385
-
 msgid "Delete a chat"
 msgstr "Ausgewählte löschen"
 
@@ -33097,7 +32905,6 @@ msgid "Checkbox in intermediate state"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:401
-
 msgid "Checkbox (selected)"
 msgstr "Kontrollkästchen 2"
 
@@ -33155,7 +32962,6 @@ msgid "Cloud"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:458
-
 msgid "Colours"
 msgstr "Colorlib"
 
@@ -33164,12 +32970,10 @@ msgid "Component"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:469
-
 msgid "Contact Book"
 msgstr "Kontakt Formular"
 
 #: public/resources/svg/icons/ikonate/index.html:474
-
 msgid "Contrast control"
 msgstr "Kontakt Formular"
 
@@ -33210,7 +33014,6 @@ msgid "Danger"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:527
-
 msgid "Delete (Backspace)"
 msgstr "Ausgewählte löschen"
 
@@ -33245,7 +33048,6 @@ msgid "Ellypsis"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:581
-
 msgid "Entrance"
 msgstr "Wartung"
 
@@ -33291,7 +33093,6 @@ msgid "Flag"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:647
-
 msgid "Add to folder"
 msgstr "In den Warenkorb legen"
 
@@ -33312,7 +33113,6 @@ msgid "Forward"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:667
-
 msgid "Glasses"
 msgstr "Klassen"
 
@@ -33321,17 +33121,14 @@ msgid "Grid"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:679
-
 msgid "Small Grid"
 msgstr "Klein"
 
 #: public/resources/svg/icons/ikonate/index.html:685
-
 msgid "Large Grid"
 msgstr "Groß"
 
 #: public/resources/svg/icons/ikonate/index.html:691
-
 msgid "Menu"
 msgstr "Menüs"
 
@@ -33377,7 +33174,6 @@ msgid "Inbox"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:759
-
 msgid "Information"
 msgstr "Konfiguration"
 
@@ -33402,12 +33198,10 @@ msgid "Light Bulb"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:796
-
 msgid "Line Chart"
 msgstr "Liniendiagramm"
 
 #: public/resources/svg/icons/ikonate/index.html:812
-
 msgid "List view"
 msgstr "Aufführen"
 
@@ -33500,7 +33294,6 @@ msgid "Person"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:956
-
 msgid "Placeholder"
 msgstr "Seitenersteller"
 
@@ -33513,7 +33306,6 @@ msgid "Plus"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:966
-
 msgid "Power"
 msgstr "Bereitgestellt von"
 
@@ -33522,7 +33314,6 @@ msgid "print"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:978
-
 msgid "Radio button (selected)"
 msgstr "Bearbeiten ausgewählt"
 
@@ -33543,7 +33334,6 @@ msgid "Redo last undone action"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:1000
-
 msgid "Refresh"
 msgstr "Seite neu laden"
 
@@ -33560,7 +33350,6 @@ msgid "Restaurant"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:1017 config/admin-menu.php:816
-
 msgid "Return"
 msgstr "Kehrt zurück"
 
@@ -33599,7 +33388,6 @@ msgid "Shuffle"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:1089
-
 msgid "Sign language"
 msgstr "Sprachen"
 
@@ -33625,7 +33413,6 @@ msgid "Sort in ascending order"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:1122
-
 msgid "Sorting"
 msgstr "Einstellungen"
 
@@ -33639,7 +33426,6 @@ msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:1137
 #: public/resources/svg/icons/ikonate/index.html:1140
-
 msgid "Stats"
 msgstr "Status"
 
@@ -33690,7 +33476,6 @@ msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:1206
 #: public/resources/svg/icons/ikonate/index.html:1212
-
 msgid "Data table"
 msgstr ""
 "Datum\n"
@@ -33701,12 +33486,10 @@ msgid "Thermometer"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:1229
-
 msgid "Thumb Down"
 msgstr "Daumen"
 
 #: public/resources/svg/icons/ikonate/index.html:1233
-
 msgid "Thumb Up"
 msgstr "Daumen"
 
@@ -33715,22 +33498,18 @@ msgid "Thunder"
 msgstr ""
 
 #: public/resources/svg/icons/ikonate/index.html:1245
-
 msgid "Timer"
 msgstr "Zeit"
 
 #: public/resources/svg/icons/ikonate/index.html:1248
-
 msgid "Tool"
 msgstr "Werkzeug"
 
 #: public/resources/svg/icons/ikonate/index.html:1251
-
 msgid "trending"
 msgstr "Ausstehend"
 
 #: public/resources/svg/icons/ikonate/index.html:1256
-
 msgid "Trending Up"
 msgstr "Ausstehend"
 
@@ -33820,8 +33599,7 @@ msgstr ""
 
 #: install/controller/index.php:77
 msgid "Invalid installation. No user with \"super admin\" role found!"
-msgstr ""
-"Instalare nevalidă. Nu a fost gasit utilizator cu rolul \"super admin\"!"
+msgstr "Instalare nevalidă. Nu a fost gasit utilizator cu rolul \"super admin\"!"
 
 #: install/controller/index.php:89
 msgid "You need at least PHP %s , your current version %s"
@@ -33842,32 +33620,26 @@ msgid "Db error: \"%s\" Error code: \"%s\""
 msgstr ""
 
 #: install/controller/index.php:304
-
 msgid "Installation succesful!"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/admin-bar.php:82
-
 msgid "Vvveb Homepage"
 msgstr "Vvveb-Blog"
 
 #: admin/admin-bar.php:87
-
 msgid "Documentation"
 msgstr "Benutzerdokumentation"
 
 #: admin/admin-bar.php:103
-
 msgid "Design page"
 msgstr "Design"
 
 #: admin/admin-bar.php:107
-
 msgid "Edit page"
 msgstr "Artikel, Seite"
 
 #: admin/admin-bar.php:164
-
 msgid "Edit profile"
 msgstr "Profil bearbeiten"
 
@@ -33877,26 +33649,20 @@ msgstr ""
 
 #: admin/controller/listing.php:63 admin/controller/user/users.php:52
 #: admin/controller/content/posts.php:64
-
 msgid "Error deleting %s!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/product/product1.php:72
 #: admin/controller/content/edit.php:86
-
 msgid "%s not found!"
 msgstr "Seite nicht gefunden."
 
 #: admin/controller/product/product1.php:116
-msgid ""
-"Template missing, choose existing template or <a href=\"%s\" "
-"target=\"_blank\">create global template</a> for %s."
+msgid "Template missing, choose existing template or <a href=\"%s\" target=\"_blank\">create global template</a> for %s."
 msgstr ""
 
 #: admin/controller/product/product1.php:118
-msgid ""
-"Template missing, <a href=\"%s\" target=\"_blank\">create template</a> for "
-"this  %s."
+msgid "Template missing, <a href=\"%s\" target=\"_blank\">create template</a> for this  %s."
 msgstr ""
 
 #: admin/controller/product/product1.php:187
@@ -33909,17 +33675,14 @@ msgid "Product saved!"
 msgstr "Produkt gespeichert!"
 
 #: admin/controller/product/products.php:58
-
 msgid "Product(s) deleted!"
 msgstr "Produkt gespeichert!"
 
 #: admin/controller/product/products.php:60
-
 msgid "Error deleting product!"
 msgstr "Fehler beim Erstellen des Checkouts!"
 
 #: admin/controller/editor/code.php:94
-
 msgid "Error saving: %s!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -33932,22 +33695,18 @@ msgid "File saved!"
 msgstr ""
 
 #: admin/controller/editor/code.php:141 admin/controller/media/media.php:104
-
 msgid "Error uploading file!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/editor/editor.php:128
-
 msgid "Homepage"
 msgstr "Canvas - Startseite"
 
 #: admin/controller/editor/editor.php:247 admin/controller/media/media.php:117
-
 msgid "File deleted!"
 msgstr "Ausgewählte löschen"
 
 #: admin/controller/editor/editor.php:249 admin/controller/media/media.php:119
-
 msgid "Error deleting file!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -33956,7 +33715,6 @@ msgid "File copied!"
 msgstr ""
 
 #: admin/controller/editor/editor.php:271 admin/controller/media/media.php:141
-
 msgid "Error copying file!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -33965,17 +33723,14 @@ msgid "File renamed!"
 msgstr ""
 
 #: admin/controller/editor/editor.php:277 admin/controller/media/media.php:147
-
 msgid "Error renaming file!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/editor/editor.php:314
-
 msgid "Error saving elements!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/editor/editor.php:322
-
 msgid "Error saving backup!"
 msgstr "Fehler beim Erstellen des Checkouts!"
 
@@ -33993,7 +33748,6 @@ msgstr "Fehler beim Erstellen des Checkouts!"
 #: plugins/pick-up-shipping/admin/controller/settings.php:41
 #: plugins/contact-form/admin/controller/settings.php:39
 #: plugins/gravatar/admin/controller/settings.php:41
-
 msgid "Settings saved!"
 msgstr "Einstellungen"
 
@@ -34003,7 +33757,6 @@ msgstr ""
 
 #: admin/controller/settings/email.php:41
 #: plugins/contact-form/component/form.php:141
-
 msgid "Error sending mail!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -34012,7 +33765,6 @@ msgid "Test email"
 msgstr ""
 
 #: admin/controller/settings/email.php:44
-
 msgid "Email sent to %s!"
 msgstr "E-Mail Benachrichtigungen"
 
@@ -34020,42 +33772,35 @@ msgstr "E-Mail Benachrichtigungen"
 #: admin/controller/settings/settings.php:43
 #: admin/controller/localization/zone-group.php:51 admin/controller/crud.php:72
 #: admin/controller/content/tag.php:47 admin/controller/content/comment.php:44
-
 msgid "Error saving!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/settings/site.php:109
 #: admin/controller/settings/site.php:129
-
 msgid "Site saved!"
 msgstr "Produkt gespeichert!"
 
 #: admin/controller/order/returns.php:44
 #: admin/controller/order/subscriptions.php:44
 #: admin/controller/order/orders.php:47
-
 msgid "Order(s) deleted!"
 msgstr "Bestellung aufgegeben!"
 
 #: admin/controller/order/returns.php:46
 #: admin/controller/order/subscriptions.php:46
 #: admin/controller/order/orders.php:49
-
 msgid "Error deleting order!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/order/order.php:100
-
 msgid "Order not found!"
 msgstr "Seite nicht gefunden."
 
 #: admin/controller/order/order.php:143
-
 msgid "Order saved"
 msgstr "Bestellung aufgegeben!"
 
 #: admin/controller/order/order.php:151
-
 msgid "Order saved!"
 msgstr "Bestellung aufgegeben!"
 
@@ -34068,7 +33813,6 @@ msgid "Language compilation failed!"
 msgstr ""
 
 #: admin/controller/localization/language.php:67
-
 msgid "Error writing language files!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -34081,7 +33825,6 @@ msgid "Check available translations at %s"
 msgstr ""
 
 #: admin/controller/localization/zone-group.php:47
-
 msgid "Zone saved!"
 msgstr "Produkt gespeichert!"
 
@@ -34102,12 +33845,10 @@ msgid "Unknown errors."
 msgstr ""
 
 #: admin/controller/crud.php:64 admin/controller/user/user.php:87
-
 msgid " saved!"
 msgstr "Produkt gespeichert!"
 
 #: admin/controller/user/user.php:98 admin/controller/user/user.php:99
-
 msgid " added!"
 msgstr "Datum hinzugefügt"
 
@@ -34124,23 +33865,18 @@ msgid "Invalid or expired token!"
 msgstr ""
 
 #: admin/controller/user/reset.php:96 app/controller/user/reset.php:104
-
 msgid "Password reset"
 msgstr "Passwort"
 
 #: admin/controller/user/reset.php:97 app/controller/user/reset.php:105
 msgid "A reset email was sent, please use it to reset your password!"
-msgstr ""
-"A fost trimis un e-mail de resetare, vă rugăm să-l utilizați pentru a vă "
-"reseta parola!"
+msgstr "A fost trimis un e-mail de resetare, vă rugăm să-l utilizați pentru a vă reseta parola!"
 
 #: admin/controller/user/reset.php:102 app/controller/user/reset.php:110
-
 msgid "Error sending reset email!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/user/reset.php:105 app/controller/user/reset.php:113
-
 msgid "Email not found!"
 msgstr "Seite nicht gefunden."
 
@@ -34176,7 +33912,6 @@ msgstr ""
 
 #: admin/controller/plugin/plugins.php:110
 #: admin/controller/plugin/market.php:59
-
 msgid "Activate plugin"
 msgstr "Neues Plugin hinzufügen"
 
@@ -34185,7 +33920,6 @@ msgid "Failed to install %s plugin!"
 msgstr ""
 
 #: admin/controller/plugin/plugins.php:145
-
 msgid "Error activating plugin `%s`!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -34194,7 +33928,6 @@ msgid "Plugin `%s` activated!"
 msgstr ""
 
 #: admin/controller/plugin/plugins.php:177
-
 msgid "Error activating plugin!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -34203,12 +33936,10 @@ msgid "Check config file permissions!"
 msgstr ""
 
 #: admin/controller/plugin/market.php:45 admin/controller/theme/market.php:45
-
 msgid "Installing \"%s\""
 msgstr "Installierte Plugins"
 
 #: admin/controller/plugin/market.php:46 admin/controller/theme/market.php:46
-
 msgid "Downloading \"%s\""
 msgstr "Downloads"
 
@@ -34217,7 +33948,6 @@ msgid "Unpacking \"%s\""
 msgstr ""
 
 #: admin/controller/plugin/market.php:62 admin/controller/theme/market.php:62
-
 msgid "Error installing \"%s\"!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -34226,7 +33956,6 @@ msgid "Error downloading \"%s\" from %s!"
 msgstr ""
 
 #: admin/controller/plugin/market.php:72
-
 msgid "Plugin \"%s\" not found!"
 msgstr "Seite nicht gefunden."
 
@@ -34247,7 +33976,6 @@ msgid "Import theme content"
 msgstr ""
 
 #: admin/controller/theme/themes.php:116
-
 msgid "View website"
 msgstr "Live-Website ansehen"
 
@@ -34256,7 +33984,6 @@ msgid "Error activating theme, check config/sites.php write permissions"
 msgstr ""
 
 #: admin/controller/theme/market.php:72
-
 msgid "Theme \"%s\" not found!"
 msgstr "Seite nicht gefunden."
 
@@ -34265,23 +33992,19 @@ msgid "Menu deleted!"
 msgstr ""
 
 #: admin/controller/content/menus.php:38
-
 msgid "Menu not found!"
 msgstr "Seite nicht gefunden."
 
 #: admin/controller/content/menus.php:59
-
 msgid "Item deleted!"
 msgstr "Ausgewählte löschen"
 
 #: admin/controller/content/menus.php:61
-
 msgid "Item not found!"
 msgstr "Seite nicht gefunden."
 
 #: admin/controller/content/menus.php:81
 #: admin/controller/content/categories.php:48
-
 msgid "Items reordered!"
 msgstr "Letzte Bestellungen"
 
@@ -34292,13 +34015,11 @@ msgstr ""
 
 #: admin/controller/content/menus.php:102
 #: admin/controller/content/categories.php:74
-
 msgid "Item added!"
 msgstr "Datum hinzugefügt"
 
 #: admin/controller/content/menus.php:148
 #: admin/controller/content/menus.php:163
-
 msgid "Menu saved!"
 msgstr "Produkt gespeichert!"
 
@@ -34307,7 +34028,6 @@ msgid "%s status changed!"
 msgstr ""
 
 #: admin/controller/content/posts.php:62
-
 msgid " deleted!"
 msgstr "Löschen"
 
@@ -34320,9 +34040,7 @@ msgid "Item removed!"
 msgstr ""
 
 #: admin/controller/content/edit.php:130
-msgid ""
-"Template missing, choose existing template or %screate global template%s for "
-"%s."
+msgid "Template missing, choose existing template or %screate global template%s for %s."
 msgstr ""
 
 #: admin/controller/content/edit.php:132
@@ -34338,19 +34056,16 @@ msgid "Saved!"
 msgstr ""
 
 #: admin/controller/tools/update.php:41
-
 msgid "Error checking updates!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/tools/update.php:63
-
 msgid "Updates available!"
 msgstr ""
 "Datum\n"
 " Verfügbar"
 
 #: admin/controller/tools/update.php:65
-
 msgid "No updates available!"
 msgstr ""
 "Datum\n"
@@ -34365,57 +34080,46 @@ msgid "Step (%d/%d) %s ..."
 msgstr ""
 
 #: admin/controller/tools/update.php:115
-
 msgid "Update finished"
 msgstr "Datum des Beitritts"
 
 #: admin/controller/tools/update.php:130 admin/controller/tools/update.php:417
-
 msgid "Error downloading update!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/tools/update.php:145
-
 msgid "downloaded successfully"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/controller/tools/update.php:161
-
 msgid "Backup successful!"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/controller/tools/update.php:168
-
 msgid "Error unzipping update!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/tools/update.php:180
-
 msgid "Unzip successful!"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/controller/tools/update.php:187
-
 msgid "Error updating core"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/tools/update.php:198
-
 msgid "Update core successful!"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/controller/tools/update.php:205
-
 msgid "Error updating config"
 msgstr "Fehler beim Erstellen des Checkouts!"
 
 #: admin/controller/tools/update.php:216
-
 msgid "Update config successful!"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/controller/tools/update.php:223 admin/controller/tools/update.php:259
-
 msgid "Error updating system"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -34424,32 +34128,26 @@ msgid "Update system successful!"
 msgstr ""
 
 #: admin/controller/tools/update.php:241
-
 msgid "Error updating app"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/tools/update.php:252
-
 msgid "Update app successful!"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/controller/tools/update.php:277
-
 msgid "Error updating install"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/tools/update.php:288
-
 msgid "Update install successful!"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/controller/tools/update.php:295
-
 msgid "Error updating public"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/tools/update.php:306 admin/controller/tools/update.php:342
-
 msgid "Update public successful!"
 msgstr "Anmeldung erfolgreich!"
 
@@ -34466,32 +34164,26 @@ msgid "Error updating public media"
 msgstr ""
 
 #: admin/controller/tools/update.php:349
-
 msgid "Error setting permissions"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/tools/update.php:360
-
 msgid "Set permissions successful!"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/controller/tools/update.php:367
-
 msgid "Error cleaning up"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: admin/controller/tools/update.php:378
-
 msgid "Cleanup successful!"
 msgstr "Anmeldung erfolgreich!"
 
 #: admin/controller/tools/update.php:385
-
 msgid "Error clearing cache"
 msgstr "Fehler beim Erstellen des Checkouts!"
 
 #: admin/controller/tools/update.php:396
-
 msgid "Clear cache successful!"
 msgstr "Anmeldung erfolgreich!"
 
@@ -34500,7 +34192,6 @@ msgid "Update in progress, do not close this page ..."
 msgstr ""
 
 #: admin/controller/tools/update.php:453
-
 msgid "Update successful!"
 msgstr "Anmeldung erfolgreich!"
 
@@ -34514,7 +34205,6 @@ msgid "Server version: %s"
 msgstr ""
 
 #: admin/controller/tools/systeminfo.php:51
-
 msgid "Vvveb version"
 msgstr "Vvveb - Anmelden"
 
@@ -34547,21 +34237,18 @@ msgid "PHP post max size"
 msgstr ""
 
 #: admin/controller/tools/systeminfo.php:62
-
 msgid "Extensions"
 msgstr "Fragen"
 
 #: admin/controller/tools/systeminfo.php:63
 #: admin/controller/tools/systeminfo.php:64
 #: admin/controller/tools/systeminfo.php:65
-
 msgid "enabled"
 msgstr "Angeschaltet"
 
 #: admin/controller/tools/systeminfo.php:63
 #: admin/controller/tools/systeminfo.php:64
 #: admin/controller/tools/systeminfo.php:65
-
 msgid "disabled"
 msgstr "Abgeschaltet"
 
@@ -34582,7 +34269,6 @@ msgid "Cache deleted!"
 msgstr ""
 
 #: admin/controller/tools/cache.php:72
-
 msgid "Error purging cache!"
 msgstr "Fehler beim Erstellen des Checkouts!"
 
@@ -34606,7 +34292,6 @@ msgstr ""
 
 #: admin/controller/tools/errorlog.php:64
 #: admin/controller/tools/errorlog.php:68
-
 msgid "Error clearing log!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -34619,12 +34304,8 @@ msgid "empty file"
 msgstr "leere Akte"
 
 #: admin/controller/tools/errorlog.php:95 plugins/debug/plugin.php:148
-msgid ""
-"PHP error log not readable, make sure that your log is properly configured "
-"and that is readable."
-msgstr ""
-"PHP-Fehlerprotokoll nicht lesbar. Stellen Sie sicher, dass Ihr Protokoll "
-"ordnungsgemäß konfiguriert und lesbar ist."
+msgid "PHP error log not readable, make sure that your log is properly configured and that is readable."
+msgstr "PHP-Fehlerprotokoll nicht lesbar. Stellen Sie sicher, dass Ihr Protokoll ordnungsgemäß konfiguriert und lesbar ist."
 
 #: admin/controller/tools/backup.php:170
 msgid "Backup finished!"
@@ -34639,7 +34320,6 @@ msgid "Backup deleted!"
 msgstr ""
 
 #: admin/controller/tools/backup.php:272
-
 msgid "Error deleting backup!"
 msgstr "Fehler beim Erstellen des Checkouts!"
 
@@ -34673,12 +34353,10 @@ msgid "%d week"
 msgstr ""
 
 #: system/functions.php:194
-
 msgid "%d month"
 msgstr "diesen Monat"
 
 #: system/functions.php:195
-
 msgid "%d year"
 msgstr "dieses Jahr"
 
@@ -34703,12 +34381,10 @@ msgid "Website homepage"
 msgstr ""
 
 #: system/functions.php:792
-
 msgid "Coming soon message page"
 msgstr "Demnächst"
 
 #: system/functions.php:793
-
 msgid "Under maintenance"
 msgstr "Wartung"
 
@@ -34725,7 +34401,6 @@ msgid "Template page used for new pages"
 msgstr ""
 
 #: system/functions.php:796
-
 msgid "Product page"
 msgstr "Produktname"
 
@@ -34750,12 +34425,10 @@ msgid "Blog page with latest posts"
 msgstr ""
 
 #: system/functions.php:800
-
 msgid "Blog post"
 msgstr "Blog"
 
 #: system/functions.php:801
-
 msgid "Shop page"
 msgstr "Geschäft"
 
@@ -34764,7 +34437,6 @@ msgid "Shop homepage"
 msgstr ""
 
 #: system/functions.php:802
-
 msgid "Search page"
 msgstr "Seite neu laden"
 
@@ -34798,8 +34470,7 @@ msgstr "%s ungültige E-Mail"
 
 #: system/validator.php:50
 msgid "%s not complex enough, include uppercase letters and digits"
-msgstr ""
-"%s ist nicht komplex genug, schließen Sie Großbuchstaben und Ziffern ein"
+msgstr "%s ist nicht komplex genug, schließen Sie Großbuchstaben und Ziffern ein"
 
 #: system/core/startup.php:278
 msgid "Disabling '%s' plugin."
@@ -34810,7 +34481,6 @@ msgid "%s zip should not have other files than %s folder!"
 msgstr ""
 
 #: system/extensions/extensions.php:162
-
 msgid "%s slug `%s` does not match folder %s!"
 msgstr "%s stimmt nicht mit %s überein"
 
@@ -34827,7 +34497,6 @@ msgid "Headless Mode"
 msgstr ""
 
 #: plugins/markdown-editor/admin/controller/settings.php:190
-
 msgid "Editor complete!"
 msgstr "Bearbeiten ausgewählt"
 
@@ -34840,7 +34509,6 @@ msgid "Save flat-rate-shipping"
 msgstr ""
 
 #: plugins/flat-rate-shipping/shipping.php:69
-
 msgid "Free shipping"
 msgstr "Erfordert Versand"
 
@@ -34862,7 +34530,6 @@ msgid "Validation error"
 msgstr ""
 
 #: plugins/plugin-market/plugin.php:62
-
 msgid "Plugin market"
 msgstr "Plugins"
 
@@ -34871,7 +34538,6 @@ msgid "Import complete!"
 msgstr ""
 
 #: plugins/markdown-import/plugin.php:49
-
 msgid "Markdown Import"
 msgstr "Abschlag"
 
@@ -34884,7 +34550,6 @@ msgid "Message was sent!"
 msgstr ""
 
 #: plugins/contact-form/component/form.php:119
-
 msgid "Error sending message!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
@@ -34903,12 +34568,10 @@ msgstr ""
 
 #: plugins/vvveb-com-contact-form/plugin.php:65
 #: plugins/vvveb-com-contact-form/plugin.php:68
-
 msgid "Error sending message"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: config/custom-product-menu.php:72
-
 msgid "Relations"
 msgstr "Fragen"
 
@@ -34917,42 +34580,34 @@ msgid "List"
 msgstr "Aufführen"
 
 #: config/admin-menu.php:631
-
 msgid "Add Role"
 msgstr "Rollen hinzufügen"
 
 #: config/admin-menu.php:667
-
 msgid "Custom posts"
 msgstr "Benutzerdefinierte Felder"
 
 #: config/admin-menu.php:675
-
 msgid "Custom products"
 msgstr "Kundengruppe"
 
 #: config/admin-menu.php:805
-
 msgid "Subscription"
 msgstr "Beschreibung"
 
 #: config/admin-menu.php:824
-
 msgid "Return actions"
 msgstr "Kehrt zurück"
 
 #: config/admin-menu.php:832
-
 msgid "Return reasons"
 msgstr "Kehrt zurück"
 
 #: config/admin-menu.php:991
-
 msgid "Import content"
 msgstr "Digitaler Inhalt"
 
 #: config/admin-menu.php:999
-
 msgid "Export content"
 msgstr "Digitaler Inhalt"
 
@@ -34962,7 +34617,6 @@ msgstr ""
 
 #: app/component/post.php:51 app/component/post.php:60
 #: app/component/posts.php:125
-
 msgid "%d comment"
 msgstr "Neue Kommentare"
 
@@ -34976,28 +34630,23 @@ msgid "%s must not be greater than 100"
 msgstr "%s darf nicht größer als 100 sein"
 
 #: app/controller/product/vendor.php:44
-
 msgid "Vendor not found!"
 msgstr "Seite nicht gefunden."
 
 #: app/controller/product/category.php:44
 #: app/controller/content/category.php:43
-
 msgid "Category not found!"
 msgstr "Seite nicht gefunden."
 
 #: app/controller/product/manufacturer.php:44
-
 msgid "Manufacturer not found!"
 msgstr "Hersteller"
 
 #: app/controller/product/product.php:47
-
 msgid "Product not found!"
 msgstr "Produktoptionen"
 
 #: app/controller/user/profile.php:44
-
 msgid "Profile saved!"
 msgstr "Produkt gespeichert!"
 
@@ -35014,7 +34663,6 @@ msgid "Your account has been created!"
 msgstr ""
 
 #: app/controller/user/signup.php:75
-
 msgid "This email is already in use. Please use another one.\""
 msgstr "Diese Email wurde bereits verwendet!"
 
@@ -35023,7 +34671,6 @@ msgid "Error creating user!"
 msgstr "Fehler beim Erstellen des Benutzers!"
 
 #: app/controller/user/login-trait.php:32
-
 msgid "Logout successful!"
 msgstr "Anmeldung erfolgreich!"
 
@@ -35036,17 +34683,14 @@ msgid "Comment was posted!"
 msgstr ""
 
 #: app/controller/content/post.php:67
-
 msgid "Error adding comment!"
 msgstr "Fehler beim Erstellen des Checkouts!"
 
 #: app/controller/content/post.php:117
-
 msgid "Post not found!"
 msgstr "Seite nicht gefunden."
 
 #: app/controller/checkout/checkout.php:228
-
 msgid "Error creating account!"
 msgstr "Fehler beim Erstellen des Checkouts!"
 
@@ -35073,7 +34717,6 @@ msgstr ""
 msgid "Cache purged!"
 msgstr ""
 
-
 msgid "Unit Price"
 msgstr "Preis"
 
@@ -35083,25 +34726,20 @@ msgstr ""
 msgid "direct bank transfer"
 msgstr ""
 
-
 msgid "Enable"
 msgstr "Angeschaltet"
-
 
 msgid "Disable"
 msgstr "Abgeschaltet"
 
-
 msgid "Product list"
 msgstr "Produkte"
-
 
 msgid "Save product"
 msgstr "&nbsp; Produkt speichern"
 
 msgid "Table prefix"
 msgstr ""
-
 
 msgid "Edit post"
 msgstr "Vvveb – Beitrag bearbeiten"
@@ -35115,14 +34753,11 @@ msgstr ""
 msgid "unapproved"
 msgstr "nicht genehmigt"
 
-
 msgid "Blog page"
 msgstr "Blog"
 
-
 msgid "posts"
 msgstr "Beiträge"
-
 
 msgid "pages"
 msgstr "Seiten"
@@ -35153,7 +34788,6 @@ msgstr "Urheberrecht &copy;"
 
 msgid "All rights reserved"
 msgstr ""
-
 
 msgid "Total Users"
 msgstr "Gesamtzahl der Kunden"
@@ -35295,9 +34929,6 @@ msgstr "Öffentlich"
 msgid "Attributes"
 msgstr "Attribute"
 
-msgid "&#128274;"
-msgstr "&#128274;"
-
 msgid "Our Solution"
 msgstr "Unsere Lösung"
 
@@ -35313,12 +34944,8 @@ msgstr "#Winter"
 msgid "#tag"
 msgstr "#tag"
 
-msgid ""
-"Integer non diam sit amet magna luctus mollis ac eu nisi. In accumsan "
-"tellus ut dapibus blandit."
-msgstr ""
-"Integer non diam sit amet magna luctus mollis ac eu nisi. In accumsan "
-"tellus ut dapibus blandit."
+msgid "Integer non diam sit amet magna luctus mollis ac eu nisi. In accumsan tellus ut dapibus blandit."
+msgstr "Integer non diam sit amet magna luctus mollis ac eu nisi. In accumsan tellus ut dapibus blandit."
 
 msgid "Copyright &copy; Your Website 2021"
 msgstr "Urheberrecht &copy; Ihre Website 2021"
@@ -35398,15 +35025,11 @@ msgstr "iMac"
 msgid "&#9889;"
 msgstr "&#9889;"
 
-msgid "&rarr;"
-msgstr "&rarr;"
-
 msgid "* Note: Early Alpha Preview"
 msgstr "* Hinweis: Frühe Alpha-Vorschau"
 
 msgid "Unlimited design powers with an easy to use interface"
-msgstr ""
-"Unbegrenzte Designmöglichkeiten mit einer benutzerfreundlichen Oberfläche"
+msgstr "Unbegrenzte Designmöglichkeiten mit einer benutzerfreundlichen Oberfläche"
 
 msgid "change anything on your website with a few clicks."
 msgstr "Ändern Sie mit wenigen Klicks alles auf Ihrer Website."
@@ -35415,8 +35038,7 @@ msgid "a vulerability that affects most CMSs."
 msgstr "eine Sicherheitslücke, die die meisten CMS betrifft."
 
 msgid "convert any html template to a theme in just a few minutes."
-msgstr ""
-"Konvertieren Sie jede HTML-Vorlage in nur wenigen Minuten in ein Design."
+msgstr "Konvertieren Sie jede HTML-Vorlage in nur wenigen Minuten in ein Design."
 
 msgid "Vvveb is a full featured ecommerce platform"
 msgstr "Vvveb ist eine voll ausgestattete E-Commerce-Plattform"
@@ -35440,8 +35062,7 @@ msgid "from the same installation."
 msgstr "aus derselben Installation."
 
 msgid "Built in demo import functionality helps you get started faster"
-msgstr ""
-"Dank der integrierten Demo-Importfunktion können Sie schneller loslegen"
+msgstr "Dank der integrierten Demo-Importfunktion können Sie schneller loslegen"
 
 msgid "by providing initial content and configuration."
 msgstr "durch Bereitstellung erster Inhalte und Konfiguration."
