@@ -22,6 +22,7 @@ For easier editing you can use a text editor like [Poedit](https://poedit.net/)
 ### Contributors
 
 [Andreas / WebCrew](https://github.com/WebCrew)
+[Christian / Photonic Codes GmbH](https://github.com/Photonic-Codes-GmbH)
 
 ### License
 
